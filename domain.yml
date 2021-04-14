@@ -1,0 +1,2166 @@
+session_config:
+  session_expiration_time: 0
+  carry_over_slots_to_new_session: true
+intents:
+- previous_conversations
+- deny
+- my_name
+- employee_query
+- employee_search
+- my_age
+- my_gender
+- it_lan_cable_no_internet
+- it_configure_outlook
+- it_outlook_problems
+- it_outlook_login
+- it_outlook_email_not_syncing
+- themeColor
+- it_outlook_offline
+- it_outlook_not_opening
+- it_outlook_restart
+- location
+- my_email
+- my_job_description
+- my_manager
+- my_mobile
+- my_tell_about_me
+- goodafternoon
+- goodbye:
+    use_entities: []
+- working_on:
+    use_entities: []
+- could_help:
+    use_entities: []
+- no_name:
+    use_entities: []
+- okay_got:
+    use_entities: []
+- nothing:
+    use_entities: []
+- team_people:
+    use_entities: []
+- sorry:
+    use_entities: []
+- okay:
+    use_entities: []
+- trust_judgment:
+    use_entities: []
+- sorry_lost:
+    use_entities: []
+- wonderful:
+    use_entities: []
+- couldnot_say:
+    use_entities: []
+- things_wrong:
+    use_entities: []
+- not_sure:
+    use_entities: []
+- thankyou_kind:
+    use_entities: []
+- hello_there:
+    use_entities: []
+- bot_help:
+    use_entities: []
+- oh_dear:
+    use_entities: []
+- goodnight:
+    use_entities: []
+- opposite:
+    use_entities: []
+- excellent:
+    use_entities: []
+- thankyou_day:
+    use_entities: []
+- wish:
+    use_entities: []
+- question:
+    use_entities: []
+- upset:
+    use_entities: []
+- leaveMisCarriage:
+    use_entities: []
+- leaveNotification:
+    use_entities: []
+- absolutely_not:
+    use_entities: []
+- anything_later:
+    use_entities: []
+- sorry_chat:
+    use_entities: []
+- help_answers:
+    use_entities: []
+- no_problem:
+    use_entities: []
+- goodevening:
+    use_entities: []
+- goodmorning:
+    use_entities: []
+- take_time:
+    use_entities: []
+- simple_wonderful:
+    use_entities: []
+- thank_you:
+    use_entities: []
+- of_course:
+    use_entities: []
+- hello:
+    use_entities: []
+- apologies:
+    use_entities: []
+- leaveOurPolicy:
+    use_entities: []
+- leaveCheckPMO:
+    use_entities: []
+- help_leave:
+    use_entities: []
+- leaveAvailMonth:
+    use_entities: []
+- leaveTakes:
+    use_entities: []
+- leaveAvailAnnual:
+    use_entities: []
+- help_cancel:
+    use_entities: []
+- leaveYesQuery:
+    use_entities: []
+- leaveAutoApproved:
+    use_entities: []
+- leaveFH:
+    use_entities: []
+- leaveLogTime:
+    use_entities: []
+- leaveCarryForwarded:
+    use_entities: []
+- leaveValidCompoff:
+    use_entities: []
+- leaveMedical:
+    use_entities: []
+- leaveClsCarry:
+    use_entities: []
+- 'null':
+    use_entities: []
+- holiday
+- leaveEligibility
+- leaveTypeDays
+- leaveRequest
+- leaveApproveList
+- leaveBalance
+- policyLeave
+- policyLearning
+- policyBenefits
+- leaveStatus
+- date
+- leaveType
+- leaveReason
+- current_date
+- current_time
+- faq
+- confirm
+- leaveCalendar
+- leaveNoQuery
+- policyTravel
+- News
+- leaveAdvanceDays
+- Benefits
+- benefits_esic
+- not_reflect_esic
+- yes_query
+- reliefFund
+- no_query
+- esic_mandat
+- not_reflect_uan_pf
+- merge_uan
+- update_kyc_pf
+- employment_certificate
+- it_services
+- travel_services
+- band_changed_designation
+- suggest_tax
+- uable_timesheet
+- pf_first_month
+- noted_management
+- plan_outings
+- hike_appraisal
+- designation_appraisal
+- eligible_appraisal
+- min_hike
+- review_preiod_appraisal
+- rating_same_hike
+- calculate_rating
+- shall_update
+- edit_details
+- enroll_medical
+- enrol_mid
+- upload_bills_portal
+- claim_consultation
+- ayurvedic_treatment
+- changes_benefits_portal
+- two_wheeler_maintance
+- fuel_reimbursement
+- petrol_vehicle_number
+- claim_multicars
+- taxreturns_query
+- benefits_tax_exemption
+- insurance_family_open
+- cancel_zeta_card
+- valid_zeta_balance
+- premium_details
+- add_benefits_portal
+- ctc_offer
+- lop_deduction
+- lop_calculate
+- contact_payroll_team
+- emergency_leave
+- received_hike_variable
+- relieved_early
+- docs_last_working
+- last_working_credit
+- NP_investments
+- buyout_option
+- policyInsurance
+- leaveEntitlement
+- noticePeriod
+- leaveList
+- leaveUpdateRequest
+- leaveEncashment
+- openSite
+- salaryDay
+- contactInfo
+- numEmployees
+- bands
+- bond
+- out_of_scope
+- my_doj
+- logTime
+- annualDay
+- projectList
+- CEAAvail
+- HRTeam
+- help_EWC
+- it_printer_catridge_empty
+- it_printer_offline
+- it_paper_jam
+- it_no_paper
+- it_passwordreset
+- it_systemaudionotworking
+- it_printernotworking
+- it_outlooknotworking
+- it_o360loginissue
+- it_ftpaccessissue
+- it_ftploginissue
+- it_ftpconnectionissue
+- email_support
+- it_systemhangissue
+- feedback
+- it_keyboardmouseissues
+- it_needtosetoutofofficeinoutlook
+- it_outlookarchivehelp
+- it_windows10builtinappsnotworking
+- it_msteamsnotworking
+- it_vpnloginissue
+- it_wifinotconnecting
+- it_wifiinternetissue
+- it_wificonnectionissue
+- conversationEnd
+- it_helpdesk_FAQs
+- timesheetApproval
+- speridianEmployees
+- help_policies
+- Leave_FAQs
+- EWH_FAQs
+- Benefits_FAQs
+- Satutory_FAQs
+- ComOff_FAQs
+- EWC_cutoff
+- month_EWC
+- investment_declare
+- activate_UAN
+- flexi_benefits
+- purposeVisit
+- tripType
+- transportRoute
+- travelRequest
+- Accommodation
+- leaveHandle_FAQS
+- home
+- login
+- weather
+- mylocation
+- Corona
+- Covid19
+- CovidHelpline
+- Awareness
+- Events
+- SperidianLeads
+- fallback
+- policy
+- LeaveAdvance
+- work_hours
+- restart
+entities:
+- DATE
+- toDate
+- leaveType
+- period
+- number
+- reason
+- day
+- leaveStatus
+- payType
+- time
+- confirm
+- manager
+- site
+- location
+- toLocation
+- requestId
+- leaveStatuscode
+- noon
+- transportRoute
+- tripType
+- mobile
+- purposeVisit
+- phone-number
+- projectName
+- gender
+- person
+- color
+slots:
+  Accommodation:
+    type: unfeaturized
+  DATE:
+    type: unfeaturized
+  color:
+    type: categorical
+    values:
+    - red
+    - pink
+    - blue
+    - yellow
+    - skyblue
+  confirm:
+    type: unfeaturized
+  day:
+    type: unfeaturized
+  leaveStatus:
+    type: categorical
+    values:
+    - pending
+    - completed
+    - not approved
+    - unapproved
+    - approved
+    - approve
+    - rejected
+    - reject
+    - submitted
+    - cancel
+    - cancelled
+    - finished
+    - a
+    - r
+    - c
+    - cr
+    - p
+    - pa
+  leaveType:
+    type: categorical
+    values:
+    - casual
+    - sick
+    - floating
+    - cl
+    - sl
+    - birthday
+    - cls
+    - cl
+    - lop
+    - work from home
+    - wfh
+    - workfrom home
+    - work home
+    - wh
+    - working from home
+    - external duty
+    - ed
+    - external work
+    - coff
+    - co
+    - ch
+  location:
+    type: list
+  name:
+    type: text
+    initial_value: human
+  noon:
+    type: categorical
+    values:
+    - half day
+    - full day
+    - full noon
+    - half noon
+    - forenoon
+    - first noon
+    - fore noon
+    - afternoon
+    - after noon
+    - firstnoon
+    - secondnoon
+    - halfday
+    - fullday
+    - fullnoon
+    - halfnoon
+    - hfnoon
+    - hfnoon
+    - flnoon
+    - sndnoon
+    - fstnoon
+  number:
+    type: float
+    max_value: 1.0
+    min_value: 0.0
+  payType:
+    type: categorical
+    values:
+    - basic
+    - gross
+  period:
+    type: categorical
+    values:
+    - next
+    - previous
+    - current
+    - coming
+    - present
+  person:
+    type: unfeaturized
+  phone-number:
+    type: unfeaturized
+  projectName:
+    type: text
+  purposeVisit:
+    type: unfeaturized
+  reason:
+    type: text
+  requestId:
+    type: unfeaturized
+  requested_slot:
+    type: unfeaturized
+  status:
+    type: text
+  time:
+    type: unfeaturized
+  toDate:
+    type: unfeaturized
+  toLocation:
+    type: unfeaturized
+  transportRoute:
+    type: unfeaturized
+    initial_value: Bus(Road)
+  tripType:
+    type: unfeaturized
+    initial_value: Round Trip
+responses:
+  utter_better_answer:
+  - text: I'm better at answering questions than asking them.
+  utter_love_thanks:
+  - text: Lovely, thanks for asking!
+  utter_big_hug:
+  - text: Here's a big hug!
+  utter_canot_think:
+  - text: I can't think of one.
+  utter_chat_you:
+  - text: I don't know you well, but I enjoy chatting with you.
+  utter_digital:
+  - text: I'm digital.
+  utter_dont_family:
+  - text: I don't have a family the same way humans do.
+  utter_enjoy_talk:
+  - text: I don't have a way to know how you look, but I really enjoy talking with
+      you.
+  utter_existence_virtual:
+  - text: My existence is purely virtual.
+  utter_find_me:
+  - text: If you have a change of heart, you know where to find me.
+  utter_food_pretty:
+  - text: I am a foodie and I love data!
+  utter_friendship:
+  - text: I'm content with our friendship.
+  utter_good_giggle:
+  - text: I apologize I am unable to help with that.
+  utter_great:
+  - text: I'm great, thanks for asking!
+  utter_happy_reconnect:
+  - text: I'm happy we can reconnect.
+  utter_help_others:
+  - text: I think it's different for everyone. I find meaning in helping others.
+  utter_helpful:
+  - text: I always try my best to be helpful.
+  utter_helping_people:
+  - text: I love helping people.
+  utter_here:
+  - text: I'm here.
+  utter_here_ready:
+  - text: I'm here, ready to help.
+  utter_high_five:
+  - text: Here's a high five!
+  utter_here_u:
+  - text: I am here to help with your queries.
+  utter_how_lovely:
+  - text: How lovely!
+  utter_how_nice:
+  - text: How nice!
+  utter_humors:
+  - text: Humor's not my greatest strength.
+  utter_i_would:
+  - text: I would if I could.
+  utter_independent:
+  - text: We generally work independently, since we each have different strengths.
+  utter_just_chat:
+  - text: Just chatting with you.
+  utter_kind_you:
+  - text: That's so kind of you.
+  utter_laugh_too:
+  - text: You've got me laughing, too!
+  utter_like_chat:
+  - text: If you'd like, we can keep chatting.
+  utter_like_much:
+  - text: I like you very much.
+  utter_looks:
+  - text: I don't ever really think about my looks.
+  utter_lot_things:
+  - text: I like a lot of things.
+  utter_love:
+  - text: I hear love is lovely.
+  utter_meet_too:
+  - text: Nice to meet you too.
+  utter_move_on:
+  - text: Moving on.
+  utter_my_strengths:
+  - text: That's not one of my strengths.
+  utter_no_age:
+  - text: I'm immortal.
+  utter_no_gender:
+  - text: Since I'm digital, I don't actually have a gender.
+  utter_no_jokes:
+  - text: I don't really know any jokes.
+  utter_no_meeting:
+  - text: I haven't had the pleasure of meeting them.
+  utter_no_relationship:
+  - text: I don't have romantic relationships, but I do love helping people.
+  utter_no_tell:
+  - text: I truly have no way to tell.
+  utter_no_thanks:
+  - text: No thanks, let's move on.
+  utter_not_me:
+  - text: That's not me, but hello.
+  utter_polite_decline:
+  - text: Sounds like I've made quite an impression! But I have to politely decline.
+  utter_pretty_human:
+  - text: I know that's a pretty standard human thing, but I'm still a bot.
+  utter_quite_content:
+  - text: I'm quite content.
+  utter_smarter:
+  - text: We think in very different ways, but it's safe to say you're smarter.
+  utter_some_rest:
+  - text: I hope you can get some rest soon.
+  utter_take_break:
+  - text: If you'd like to take a break and grab something to eat, I'll be here.
+  utter_technology_affects:
+  - text: Technology affects people's lives in all sorts of ways.
+  utter_very_you:
+  - text: I'm very fond of you.
+  utter_you_wonderful:
+  - text: I think you seem wonderful.
+  utter_Awareness:
+  - text: '[Click here](https://www.mohfw.gov.in/pdf/ProtectivemeasuresEng.pdf) for
+      more information on coronavirus awareness.'
+  utter_Benefits:
+  - text: Please [login](https://benefits.speridian.com/home) to benefits portal to
+      avail your benefits.
+  utter_Benefits_FAQs:
+  - buttons:
+    - payload: /enroll_medical
+      title: How do I enroll my dependent/s to medical insurance?
+    - payload: /ayurvedic_treatment
+      title: Are Ayurvedic treatments covered under Speridian Medical Insurance Policy?
+    - payload: /flexi_benefits
+      title: What are the flexi benefits?
+    - payload: /yes_query
+      title: Are the Flexi Benefits open all throughout the year?
+    - payload: /valid_zeta_balance
+      title: For how long is my Zeta Card Balance valid?
+    text: Benefits FAQS
+  utter_CEAAvail:
+  - text: You can avail Child Education Allowance. Please refer to the [Flexible Benefits
+      Policy](https://o360.speridian.com/O360_API_Speridian//Attachments//cef69d1b-9275-4d9a-abd0-005f42cca1b3.pdf)
+      for more information  or contact your HR Representative.
+  utter_ComOff_FAQs:
+  - buttons:
+    - payload: /leaveHandle_FAQS{"number":"1"}
+      title: How can I raise a Compensatory Off request?
+    - payload: /leaveHandle_FAQS{"number":"2"}
+      title: How can I get my Compensatory Off credit request?
+    - payload: /leaveLogTime
+      title: What is the minimum login hrs. to be eligible for Compensatory off?
+    - payload: /leaveValidCompoff
+      title: Within how many days should I avail the Compensatory Off?
+    - payload: /leaveNoQuery
+      title: If I connect from home on a weekend/holiday, will I be eligible for Compensatory
+        Off?
+    text: Comp Off FAQS
+  utter_CompOff_Credit:
+  - text: Log on to [O360](https://o360.speridian.com/#/sessions/signin) Under "Leave"
+      Tab, Select "EWC" then on Compensatory Off. Select the dates that you worked
+      in on weekends/holidays. Enter the project that you contributed to & submit
+      the request for approval, provided you should have your attendance in the system.
+  utter_CompOff_raise:
+  - text: Log on to [O360](https://o360.speridian.com/#/sessions/signin). You will
+      first need to apply for Compensatory Off credit request. Once that is approved,
+      you can apply it through O360 under the "Leave Requests" tab
+  utter_Covid19:
+  - buttons:
+    - payload: /Corona
+      title: Statistics
+    - payload: /Awareness
+      title: Awareness
+    - payload: /CovidHelpline
+      title: Helpline
+    text: Covid-19
+  utter_CovidHelpline:
+  - text: '[Click here](https://www.mohfw.gov.in/pdf/coronvavirushelplinenumber.pdf)
+      for corona help line.'
+  utter_EWC_cutoff:
+  - text: All Work From Home/ External Duty has to be applied on or before the payroll
+      cut off date. i.e. on or before 25th of each month. However, It is advised that
+      all Work From Home/ External Duty requests should be raised immediately.
+  utter_EWH_FAQs:
+  - buttons:
+    - payload: /leaveYesQuery
+      title: Do we have a work from home policy?
+    - payload: /leaveHandle_FAQS{"number":"3"}
+      title: Can I apply for Half Day work from home?
+    - payload: /month_EWC
+      title: How many days in a month can we apply work from home?
+    - payload: /EWC_cutoff
+      title: What is cut off date for applying Work From Home/External Duty for a
+        month?
+    - payload: /leaveTakes{"leaveType":"ED"}
+      title: What is an External Duty?
+    text: External Duty / WFH FAQS
+  utter_HRTeam:
+  - text: Please reach out to your HR Representative for more information.
+  utter_LeaveAdvance:
+  - text: Employees are encouraged to apply Casual Leave 3 days in advance. (However,
+      Casual Leave to be applied on or before the payroll cut off date. i.e. on or
+      before 25th of each month.)
+  utter_Leave_FAQs:
+  - buttons:
+    - payload: /leaveCalendar
+      title: What is our annual leave calendar?
+    - payload: /LeaveAdvance
+      title: How many days in advance does Casual Leave need to be applied?
+    - payload: /leaveBalance
+      title: What is my leave balance?
+    - payload: /leaveCarryForwarded
+      title: How many leaves can be carried forward/ carried over to next year?
+    - payload: /leaveTakes{"leaveType":"FH"}
+      title: What is a Floating Holiday?
+    text: Leave FAQS
+  utter_NP_investments:
+  - text: No need of declaring the investment. If any will be calculated in FNF settlement.
+  utter_News:
+  - text: '[Click here](https://www.speridian.com/news/) for latest news on Speridian.'
+  utter_Satutory_FAQs:
+  - buttons:
+    - payload: /activate_UAN
+      title: 'How to activate my UAN # on PF Portal ?'
+    - payload: /update_kyc_pf
+      title: How to change/update basic details/KYC in PF portal?
+    - payload: /yes_query
+      title: Can we start PF in the mid of our tenure?
+    - payload: /leaveHandle_FAQS{"number":"4"}
+      title: Can I make EPF contributions more than 12% of my salary?
+    - payload: /investment_declare
+      title: When & where do I declare my Investments against TDS?
+    text: Statutory FAQS
+  utter_Speridian:
+  - text: All Speridian employees
+  utter_absolutely_not:
+  - text: Absolutely not.
+  utter_activate_UAN:
+  - text: Logon to [UAN Portal](https://unifiedportal-mem.epfindia.gov.in/memberinterface/).
+      Click on Activate UAN, Type in your UAN Number, Your Name, Date of Birth and
+      Mobile Number on the page. An OTP will be sent to  your registered mobile number.
+      Enter the OTP and Submit. Your UAN number will be activated and you will get
+      the UAN login Credentials via SMS on your mobile number.
+  utter_add_benefits_portal:
+  - text: Once the dependents are approved on O360, it takes 24 hours for the data
+      to get synced with the Benefits Portal.
+  utter_annualDay:
+  - text: Annual day is celebrated every year in the month of December.
+  utter_anything_later:
+  - text: If you need anything later, just let me know.
+  utter_apologies:
+  - text: My apologies.
+  utter_apply:
+  - text: Your leave request has been succesfully submitted
+  utter_approval_yes:
+  - text: Yes, upon approval from your Reporting / Project Manager
+  utter_ask_Accommodation:
+  - buttons:
+    - payload: '/Accommodation{"confirm": "Yes"}'
+      title: Yes
+    - payload: '/Accommodation{"confirm": "No"}'
+      title: No
+    text: Please confirm whether you would require accomodation or not?
+  utter_ask_DATE:
+  - buttons:
+    - payload: /true
+      title: isDatepicker
+    text: Please select start date and end date?
+  utter_ask_location:
+  - text: Please confirm the points of origin and destination.
+  utter_ask_phone-number:
+  - text: Please confirm your mobile number.
+  utter_ask_purposeVisit:
+  - buttons:
+    - payload: /purposeVisit{"purposeVisit":"Visa interview"}
+      title: Visa interview
+    - payload: /purposeVisit{"purposeVisit":"Client Visit"}
+      title: Client Visit
+    - payload: /purposeVisit{"purposeVisit":"Requirement"}
+      title: Requirement
+    text: Please confirm the purpose of your visit.
+  utter_ask_reason:
+  - text: Please specify the reason for your {leaveType}
+  utter_ask_toDate:
+  - text: Please provide from date?
+  utter_ask_toLocation:
+  - text: Please confirm your destination.
+  utter_ask_transportRoute:
+  - buttons:
+    - payload: /transportRoute{"transportRoute":"Bus(Route)"}
+      title: Bus(Route)
+    - payload: /transportRoute{"transportRoute":"Railways"}
+      title: Railways
+    text: Please select the transport route
+  utter_ask_tripType:
+  - buttons:
+    - payload: /tripType{"tripType":"One way"}
+      title: One way
+    - payload: /tripType{"tripType":"Round trip"}
+      title: Round trip
+    text: Please select the travel type
+  utter_ayurvedic_treatment:
+  - text: Yes, but upto a limit of 20% of the sum insured.
+  utter_balance:
+  - text: Your leave balance summary {leaveType} are {number}
+  utter_band_changed_designation:
+  - text: I'm afraid my options to this query are limited. It's advisable to reach
+      out to your HR Representative.
+  utter_benefits_esic:
+  - text: To know about employee benefits, please refer to the [Flexible Benefits
+      Policy] (https://o360.speridian.com/O360_API_Speridian//Attachments//cef69d1b-9275-4d9a-abd0-005f42cca1b3.pdf)
+      for more information  or contact your HR Representative.
+  utter_benefits_tax_exemption:
+  - text: The below are the current Flexi-Benefits for tax saving Meal Pass Card.
+      Children's Education Allowance. Vehicle Running & Maintenance (Band 6A & Above).
+      LTA Leave Travel Allowance. Optional PF. You can also refer to the [Flexible
+      Benefits Policy](https://o360.speridian.com/O360_API_Speridian//Attachments//cef69d1b-9275-4d9a-abd0-005f42cca1b3.pdf)
+      for more information  or contact your HR Representative.
+  utter_bot_help:
+  - text: I am here to help with your queries..
+  utter_buyout_option:
+  - text: Yes & on Gross Pay
+  utter_calculate_rating:
+  - text: Your ratings are decided on the basis of a number of contributing factors.
+      Please reach out to your HR Representative for more information.
+  utter_cancel:
+  - text: Your leave request has been cancelled.
+  utter_cancel_zeta_card:
+  - text: You can cancel your enrollment in the next financial year. Please reach
+      out to your HR Representative for more information.
+  utter_changes_benefits_portal:
+  - text: I am unable to access the portal currently. Please reach out to your HR
+      Representative.
+  utter_claim_consultation:
+  - text: A minimum 24 hrs hospitalization is required to be eligible to claim under
+      Group Health Policy. Please reach out to your HR Representative for more information.
+  utter_claim_multicars:
+  - text: Yes you can.
+  utter_contactInfo:
+  - text: You can contact ITS team via email - itsupport@speridian.com
+  utter_could_help:
+  - text: Glad I could help.
+  utter_ctc_offer:
+  - text: As CTC mentioned in the offer has Employer statutory contibutions
+  utter_date:
+  - text: Please provide on what date(dd-mm-yyyy) you want to apply leave
+  utter_dateCancel:
+  - text: Please confirm the date you want to cancel leave for.
+  utter_dateVal:
+  - text: Today is {DATE}.
+  utter_date_hol:
+  - text: Please provide in date format(dd-mm-yyyy)
+  utter_date_leaveType:
+  - text: "Provide date(dd-mm-yyyy)\n and leave type you want to request for leave"
+  utter_designation_appraisal:
+  - text: During performance appraisal period, your performance will be evaluated
+      and basis that designation and role change will be decided. Please reach out
+      to your HR Representative for more information.
+  utter_edit_details:
+  - text: Only HR has editing permission; intimate changes in personal info to HR
+  utter_eligible_appraisal:
+  - text: You need to be in the company for a minimum period of nine months from your
+      date of joining to be eligible for appraisal.
+  utter_emergency_leave:
+  - text: Yes we do extend leave to employees in case of any emergency situation an
+      employee may face.
+  utter_enrol_mid:
+  - text: Mid-year addition of dependents to Group Health Insurance Policy aren't
+      allowed. Except for addition of newly married spouse or new born baby. Please
+      reach out to your HR Representative for more information.
+  utter_enroll_medical:
+  - text: 'Step 1: Add dependents in [O360](https://o360.speridian.com/) Portal. Step
+      2: Once the dependent/s are approved on O360, they will be visible on the [Benefits](https://benefits.speridian.com/home)
+      Portal and can be enrolled under medical insurance policy.'
+  utter_epf_12contribute:
+  - text: Yes, you can. The additional PF contribution is called 'Voluntary Contribution'.
+  utter_esic_mandat:
+  - text: Yes/ No
+  utter_excellent:
+  - text: Excellent.
+  utter_fallback:
+  - buttons:
+    - payload: /Events
+      title: My Upcoming Events
+    - payload: /help_leave
+      title: Leave
+    - payload: /leaveApproveList
+      title: Approvals
+    - payload: /holiday
+      title: Holiday List
+    - payload: /help_policies
+      title: Policies
+    - payload: /News
+      title: News
+    - payload: /Benefits
+      title: Benefits
+    - payload: /travelRequest
+      title: Travel Desk
+    - payload: /Covid19
+      title: Covid-19
+    - payload: /faq
+      title: Frequently Asked Questions
+    - payload: /employee_query
+      title: Employee Search
+    - payload: /it_helpdesk_FAQs
+      title: IT Help Desk Questions
+    text: I'm sorry, I didn't understand you. I'm programmed to help you with the
+      following options currently. Please choose an option.
+  utter_flexi_benefits:
+  - text: The below are the current Flexi-Benefits for tax saving Meal Pass Card.
+      Children's Education Allowance. Vehicle Running & Maintenance (Band 6A & Above).
+      LTA Leave Travel Allowance. Optional PF Please refer to the [Flexible Benefits
+      Policy] (https://o360.speridian.com/O360_API_Speridian//Attachments//cef69d1b-9275-4d9a-abd0-005f42cca1b3.pdf)
+      for more information  or contact your HR Representative.
+  utter_fuel_reimbursement:
+  - text: Fuel expense reimbursement is claimable under expense reimbursement. However,
+      this benefit is eligible for employees in Band 6A and above. You may also refer
+      to [Flexible Benefits Policy](https://o360.speridian.com/O360_API_Speridian//Attachments//cef69d1b-9275-4d9a-abd0-005f42cca1b3.pdf)
+      for more information  or contact your HR Representative.
+  utter_genfaq:
+  - buttons:
+    - payload: /Leave_FAQs
+      title: Leave
+    - payload: /EWH_FAQs
+      title: External Duty/ WFH
+    - payload: /Benefits_FAQs
+      title: Benefits
+    - payload: /Satutory_FAQs
+      title: Statutory
+    - payload: /ComOff_FAQs
+      title: Comp off
+    text: Select Category
+  utter_goodafternoon:
+  - text: Good Afternoon!
+  utter_goodbye:
+  - image: http://clipart-library.com/images/kT8ndxoxc.jpg
+    text: Good Bye!
+  utter_goodevening:
+  - text: Good Evening!
+  utter_goodmorning:
+  - text: Good Morning!
+  utter_goodnight:
+  - text: Good Night!
+  utter_hear_it:
+  - text: Glad to hear it!
+  utter_hello:
+  - text: Hello!
+  utter_hello_there:
+  - text: Hello there!
+  utter_helpEWC:
+  - buttons:
+    - payload: /leaveRequest{"leaveType":"WFH"}
+      title: Apply Work from Home
+    - payload: /leaveRequest{"leaveType":"ED"}
+      title: Apply External Duty
+    - payload: /leaveList{"leaveStatus":"Submitted", "leaveType":"WFH"}
+      title: Cancel Work from Home
+    - payload: /leaveList{"leaveStatus":"Submitted", "leaveType":"ED"}
+      title: Cancel External Duty
+    text: Would like to
+  utter_helpLeave:
+  - buttons:
+    - payload: /leaveRequest
+      title: Apply Leave
+    - payload: /leaveList{"leaveStatus":"Submitted"}
+      title: Cancel Leave
+    - payload: /leaveList
+      title: Check status
+    - payload: /leaveBalance
+      title: Leave balance
+    text: Would like to
+  utter_help_answers:
+  - text: I am here to help with your queries.
+  utter_help_approve:
+  - buttons:
+    - payload: /leaveApproveList{"leaveType":"WFH"}
+      title: Work from home
+    - payload: /leaveApproveList{"leaveType":"ED"}
+      title: External duty
+    text: Approvals
+  utter_help_policies:
+  - buttons:
+    - payload: /policyLeave
+      title: Leave policy
+    - payload: /policyInsurance
+      title: Insurance policy
+    - payload: /policyTravel
+      title: Travel policy
+    - payload: /policyBenefits
+      title: Benefits policy
+    - payload: /policyLearning
+      title: Learning and development policy
+    text: policies
+  utter_helpcancel:
+  - buttons:
+    - payload: /leaveList{"leaveStatus":"Submitted"}
+      title: cancel leave
+    text: Click on below button
+  utter_hike_appraisal:
+  - text: During performance appraisal period, your performance will be evaluated
+      and basis that increment percentage will be decided. Please reach out to your
+      HR Representative for more information.
+  utter_holiday:
+  - text: No
+  utter_insurance_family_open:
+  - text: A time of 15 days is given from your date of joining to enroll your dependents
+      on the Group Health Insurance Policy.
+  utter_investment_declare:
+  - text: Investment Declarations are done through the Benefits portal. An email will
+      be triggered to employees from "taxreturns" email ID with the timelines for
+      declaring their investment & for new joiners investment to be declared within
+      15 days from their date of joining the company.
+  utter_it_services:
+  - text: Please email IT Support or reach out to your location's IT point of contact.
+  utter_last_working_credit:
+  - text: Your final settlement will be completed within a 15 days from your last
+      working day. Please reach out to your HR Representative for more information.
+  utter_leaveAutoApproved:
+  - text: You reporting manager's approval is required.
+  utter_leaveAvailAnnual:
+  - text: Employees are eligible for 12 Casual Leaves and 6 Sick Leaves as per the
+      Leave Calendar or Prorated from their date of joining. Please refer to the [Speridian
+      Leave Policy](https://o360.speridian.com/O360_API_Speridian//Attachments//336a805f-4ef4-4484-bc1c-f7a81a85c536.pdf)
+      for more information.
+  utter_leaveAvailMonth:
+  - text: A confirmed employee is entitled for 1 Casual leave & 0.5 Sick leave per
+      month & employee on probation can avail 1 Casual Leave per month.Please refer
+      to the [Speridian Leave Policy](https://o360.speridian.com/O360_API_Speridian//Attachments//336a805f-4ef4-4484-bc1c-f7a81a85c536.pdf)
+      for more information.
+  utter_leaveCalendar:
+  - text: We follow calendar year (Jan-Dec).
+  utter_leaveCarryForwarded:
+  - text: Only Casual Leave gets carried forward to the next year to a maximum of
+      12.
+  utter_leaveEncashment:
+  - text: Leave cannot be encashed. Please refer to the [Speridian Leave Policy](https://o360.speridian.com/O360_API_Speridian//Attachments//336a805f-4ef4-4484-bc1c-f7a81a85c536.pdf)
+      for more information.
+  utter_leaveEntitlement:
+  - text: "Below is the list of leaves you are entitled for Casual Leave (CL) 12 days\
+      \ Sick Leave (SL) 6 days Maternity Leave (ML) 26 Weeks Paternity Leave (PL)\
+      \ 2 days Bereavement Leave (BRL) 3 days Relocation Leave (RL) 2 days Compensatory\
+      \ Off (CO) as per policy Birthday Leave (BL) 1 day Floating Holiday as per the\
+      \ holiday calendar for your location. Public Holidays as declared and published\
+      \ by the company before the new calendar year\nPlease refer to the [Speridian\
+      \ Leave Policy](https://o360.speridian.com/O360_API_Speridian//Attachments//336a805f-4ef4-4484-bc1c-f7a81a85c536.pdf)\
+      \ for more information."
+  utter_leaveFH:
+  - text: Speridian India Holiday
+  utter_leaveLogTime:
+  - text: Minimum 6 hrs.
+  utter_leaveMedical:
+  - text: You can apply for a Sick Leave.
+  utter_leaveMisCarriage:
+  - text: Kindly send an email request to your HR Representative, and it will be forwarded
+      to the PMO Team, they shall take it up from the backend.
+  utter_leaveNotification:
+  - text: Leave Request notification will be sent to email
+  utter_leaveOurPolicy:
+  - text: Kindly refer to the [Speridian Leave Policy](https://o360.speridian.com/O360_API_Speridian//Attachments//336a805f-4ef4-4484-bc1c-f7a81a85c536.pdf)
+      for more information.
+  utter_leaveStatus:
+  - text: The status of current leave request is {status}
+  utter_leaveTakesBL:
+  - text: Birthday Leave can be availed on the immediately preceding or succeeding
+      day.
+  utter_leaveTakesBRL:
+  - text: Employees can avail Bereavement Leave for 3 days only in case of demise
+      of their Parents, Spouse, Children or Siblings. Please refer to the [Speridian
+      Leave Policy](https://o360.speridian.com/O360_API_Speridian//Attachments//336a805f-4ef4-4484-bc1c-f7a81a85c536.pdf)
+      for more information.
+  utter_leaveTakesED:
+  - text: Any official visit/meeting with a Customers /Vendors / Govt. Agencies /
+      Working from Client location/internal office visits etc will be considered as
+      External Duty.
+  utter_leaveTakesFH:
+  - text: Employees are entitled for Floating Holidays, in addition to the declared
+      public holidays. Floating Holiday can be availed on any day/s in a year by applying
+      it 7 days in advance. Floating Holidays cannot be clubbed with Company Declared
+      Holiday. Please refer to the [Speridian Leave Policy](https://o360.speridian.com/O360_API_Speridian//Attachments//336a805f-4ef4-4484-bc1c-f7a81a85c536.pdf)
+      for more information.
+  utter_leaveTakesLOP:
+  - text: An employee can avail Loss of Pay for leave of absence in excess of acrrued
+      leave of any leave type. Please refer to the [Speridian Leave Policy](https://o360.speridian.com/O360_API_Speridian//Attachments//336a805f-4ef4-4484-bc1c-f7a81a85c536.pdf)
+      for more information.
+  utter_leaveTakesML:
+  - text: Maternity Leave is of 26 weeks in all, whether availed before or after childbirth
+      as per the Maternity Benefits Act, 1961. Employees can opt to start the maternity
+      leave no more that 8 (eight) weeks before their expected due date. Please refer
+      to the [Speridian Leave Policy](https://o360.speridian.com/O360_API_Speridian//Attachments//336a805f-4ef4-4484-bc1c-f7a81a85c536.pdf)
+      for more information.
+  utter_leaveTakesPL:
+  - text: Paternity Leave of 2 days per childbirth to a maximum of 2 childbirths can
+      be availed. Please refer to the [Speridian Leave Policy](https://o360.speridian.com/O360_API_Speridian//Attachments//336a805f-4ef4-4484-bc1c-f7a81a85c536.pdf)
+      for more information.
+  utter_leaveTakesRL:
+  - text: An employee can avail 2 days of paid relocation leave, provided it is a  company
+      initiated transfer. Please refer to the [Speridian Leave Policy](https://o360.speridian.com/O360_API_Speridian//Attachments//336a805f-4ef4-4484-bc1c-f7a81a85c536.pdf)
+      for more information.
+  utter_leaveTypeDaysFH:
+  - text: All employees entitled for floating holidays as per the published calendar
+      for the year based on regions. Floating holiday needs to be applied minimum
+      a week in advance. Please refer to the [Speridian Leave Policy](https://o360.speridian.com/O360_API_Speridian//Attachments//336a805f-4ef4-4484-bc1c-f7a81a85c536.pdf)
+      for more information.
+  utter_leaveTypeDaysPL:
+  - text: All male employees are eligible for Paternity Leave of 2 days per childbirth
+      to a maximum of 2 childbirths. Please refer to the [Speridian Leave Policy](https://o360.speridian.com/O360_API_Speridian//Attachments//336a805f-4ef4-4484-bc1c-f7a81a85c536.pdf)
+      for more information.
+  utter_leaveValidCompoff:
+  - text: You can avail your Compensatory Off within Sixty (60) days from the actual
+      date you worked on weekend/holiday, with prior consent of your Reporting / Project
+      Manager.
+  utter_leaveYesQuery:
+  - text: Yes
+  utter_logTime:
+  - text: You can see your login times on [O360](https://o360.speridian.com/#/sessions/signin)
+  utter_lop_calculate:
+  - text: Loss of Pay is calculated as Any leave applied as Loss of Pay. Any unswiped
+      attendance that has not been regularized. Any holiday or weekends that are between
+      (sandwiched) Loss of Pay leaves or unswiped attendances that have not been regularized.
+      You may also reach out to your HR Representative for more information.
+  utter_lop_deduction:
+  - text: Please check if the timesheets are submitted
+  utter_merge_uan:
+  - text: Logon to UAN Portal with your UAN Number & Password. Under "Online Services"
+      drop down, click "One Member - One EPF Account (Transfer Request)". Fill in
+      the relevant details on the online form, generate and enter in the OTP and click
+      "Submit".
+  utter_min_hike:
+  - text: This is dependent on lot of other factors. Please reach out to your HR Representative
+      for more information.
+  utter_month_EWC:
+  - text: It is not defined but is considered based on management's discretion
+  utter_no_name:
+  - text: My name is S3PO
+  utter_no_problem:
+  - text: Not a problem.
+  utter_not_reflect_uan_pf:
+  - text: check passbook / Did submited UAN No at time of joining
+  utter_noted_management:
+  - text: Your concern is noted. Also I would advise you to reach out to your HR Representative.
+  utter_nothing:
+  - text: Think nothing of it.
+  utter_noticePeriod:
+  - text: The notice period as mentioned in your  offer letter is 60 days. You may
+      also reach out to your HR Representative.
+  utter_numEmployees:
+  - text: There are more than 1400 employees in speridian
+  utter_of_course:
+  - text: Of course!
+  utter_oh_dear:
+  - text: Oh dear.
+  utter_okay:
+  - text: Okay.
+  utter_okay_got:
+  - text: Okay, got it.
+  utter_opposite:
+  - text: Quite the opposite, I think you're great.
+  utter_petrol_vehicle_number:
+  - text: We can request to the add vehicle number if its automated, or else can write
+      it down in case of physical receipt; but handwritten vehicle number on printed
+      bills will not be accepted
+  utter_plan_outings:
+  - text: Team outing is done once a year for every team. You may consult with your
+      reporting manager for more updates about your team's outing.
+  utter_policyBenefits:
+  - text: Please refer to [policy guideline](https://o360.speridian.com/O360_API_Speridian/Attachments/62e9a18e-9c98-45d1-bd76-c63e2b395daa.pdf)
+      to know more about learning & development policies.
+  utter_policyInsurance:
+  - text: Please refer to the [Group Mediclaim Policy](https://o360.speridian.com/O360_API_Speridian//Attachments//47a8cfef-86cb-4222-ad5b-9a955b85ce8d.pdf)  for
+      more information.
+  utter_policyLearning:
+  - text: Kindly refer to the [Learning & development policy](https://o360.speridian.com/O360_API_Speridian//Attachments//62e9a18e-9c98-45d1-bd76-c63e2b395daa.pdf)  for
+      more information.
+  utter_policyTravel:
+  - text: Please refer to the [Domestic Travel Policy](https://o360.speridian.com/O360_API_Speridian//Attachments//55662e95-6374-4b35-96d2-d5d7ef974dcb.pdf)  for
+      more information.
+  utter_premium_details:
+  - text: WIll share the same over email
+  utter_question:
+  - text: Sure, ask me a question.
+  utter_received_hike_variable:
+  - text: I have received my hike, when will i get my variable pay?
+  utter_reliefFund:
+  - text: It can be multiple bills, total amount being within the limit
+  utter_relieved_early:
+  - text: Please check with your reporting manager.
+  utter_review_preiod_appraisal:
+  - text: 1 April 2020-30 Sept 2020
+  utter_shall_update:
+  - text: Shall update
+  utter_simple_wonderful:
+  - text: That's simply wonderful!
+  utter_slots_WFH_values:
+  - buttons:
+    - payload: '/confirm{"confirm": "confirm"}'
+      title: confirm
+    - payload: '/confirm{"confirm": "cancel"}'
+      title: cancel
+    text: "I am going to apply a {leaveType} using the following parameters: \n Type:\
+      \ {leaveType}\n From date: {DATE}\n To date: {toDate}\n Reason: {reason}\n Project\
+      \ name: {projectName}"
+  utter_slots_cancel_values:
+  - text: "I am going to cancel a leave using the following parameters:\n Leave type:\
+      \ {leaveType}\n From date: {DATE}\n To date: {toDate}"
+  utter_slots_values:
+  - buttons:
+    - payload: '/confirm{"confirm": "confirm"}'
+      title: confirm
+    - payload: '/confirm{"confirm": "cancel"}'
+      title: cancel
+    text: "I am going to apply a leave using the following parameters:\n Leave type:\
+      \ {leaveType}\n From date: {DATE}\n To date: {toDate}\n Reason: {reason}"
+  utter_sorry:
+  - text: I'm so sorry.
+  utter_sorry_chat:
+  - text: I'm really sorry to hear that. I hope things get better, and I'm here if
+      you want to chat.
+  utter_sorry_lost:
+  - text: Sorry, I got a little lost.
+  utter_submit:
+  - text: All done!
+  utter_suggest_tax:
+  - text: To update details about your investments and liabilities Login to [Benefits
+      Portal](https://benefits.speridian.com/login) and click "Income Tax Declaration".  You
+      can also email "taxreturns@speridian.com" or reach out to your HR Representative.
+  utter_take_time:
+  - text: Take your time, I'll be here.
+  utter_taxreturns_query:
+  - text: You can email "taxreturns@speridian.com" or reach out to your HR Representative.
+  utter_team_people:
+  - text: A whole team of people made me.
+  utter_thank_you:
+  - text: Thank you.
+  utter_thankyou_day:
+  - text: Thank you! That made my day.
+  utter_thankyou_kind:
+  - text: Thank you, that's very kind of you.
+  utter_things_wrong:
+  - text: I always try my best, but sometimes I get things wrong.
+  utter_travel_services:
+  - text: Please email the admin team at your office location.
+  utter_trust_judgment:
+  - text: I trust your judgment.
+  utter_two_wheeler_maintance:
+  - text: Vehicle Running and Maintenance benefit covers only cars owned by the  employee.
+      Two wheelers are not covered under this benefit. You may also refer to [Flexible
+      Benefits Policy](https://o360.speridian.com/O360_API_Speridian//Attachments//cef69d1b-9275-4d9a-abd0-005f42cca1b3.pdf)
+      for more information  or contact your HR Representative.
+  utter_uable_timesheet:
+  - text: Kindly reach out to your reporting manager, who can get a project assigned
+      to you.
+  utter_update_kyc_pf:
+  - text: Logon to [UAN Portal](https://unifiedportal-mem.epfindia.gov.in/memberinterface)
+      with your UAN Number & Password. Under "Manage" tab you can change/update your
+      Basic Details, KYC & Contact details.
+  utter_upload_bills_portal:
+  - text: You can submit the mediclaim form along with all original bills and the
+      hospital discharge summary to the Admin team at your office location. Post which
+      you may notify Insurance Helpdesk on the submission of the insurance claim related
+      documents. For more information, you may reach out to your HR Representative.
+  utter_upset:
+  - text: I'm glad you told me. I'm sorry you're upset.
+  utter_valid_zeta_balance:
+  - text: Valid for 3 years from the date of your first credit.
+  utter_wish:
+  - text: I'm wishing for really good things for you.
+  utter_wonderful:
+  - text: Wonderful.
+  utter_working_on:
+  - text: I do repeat myself sometimes. It's something I'm working on.
+  utter_wrong_DATE:
+  - text: Please provide date(dd-mm-yyyy) in similar format
+  utter_wrong_leaveType:
+  - text: This is not a valid leave type. Please check the leave type and try again.
+  uttter_leaveTakesED:
+  - text: Any official meeting with Customers / Vendors / Govt. Agencies  outside
+      of Speridian office premises. OR Any employee working from Client location /
+      office or visits a Client's office, etc will be considered as External Duty.
+  utter_it_keyboardmouseissues:
+  - text: Please ensure that your Keyboard / Mouse drivers on your office laptop or
+      desktop are updated. You may contact your office location's IT Team Member or
+      contact Speridian's 24/7 IT Support Help Desk on +91-8592859249 for further
+      assistance.
+  utter_it_needtosetoutofofficeinoutlook:
+  - text: Please [click here] (https://support.microsoft.com/en-us/office/send-automatic-out-of-office-replies-from-outlook-9742f476-5348-4f9f-997f-5e208513bd67)
+      to view the help document on setting Out of Office notifications on outlook.
+      You may contact your office location's IT Team Member or contact Speridian's
+      24/7 IT Support Help Desk on +91-8592859249 for further assistance.
+  utter_it_msteamsnotworking:
+  - text: Please sign out of MS Teams and restart your office laptop or desktop once,
+      this should resolve your issue. If the issue still persists, please contact
+      your office location's IT Team Member or contact Speridian's 24/7 IT Support
+      Help Desk on +91-8592859249 for further assistance.
+  utter_it_printernotworking1:
+  - buttons:
+    - payload: /confirm
+      title: Yes, it is ON
+    - payload: /deny
+      title: No, it is OFF
+    text: Please check if the printer is switched ON?
+  utter_it_printernotworking2:
+  - buttons:
+    - payload: /confirm
+      title: Yes, it is solved
+    - payload: /deny
+      title: No, still not solved
+    text: Please switch ON the printer. Does this solve the issue?
+  utter_it_printernotworking3:
+  - buttons:
+    - payload: /confirm
+      title: Yes, It is installed
+    - payload: /deny
+      title: No, it is not installed
+    text: Please check if the printer software is installed on your system? (Open
+      the Control panel, click on 'Uninstall a program' under 'Programs', to see the
+      list of installed software)
+  utter_it_printernotworking4:
+  - buttons:
+    - payload: /confirm
+      title: Yes, network is fine
+    - payload: /deny
+      title: No, the network is poor
+    text: Please check if there is proper network connectivity on the system.
+  utter_it_printernotworking5:
+  - text: We may have to connect remotely to check further - ITS support person will
+      contact you shortly.
+  utter_it_printernotworking6:
+  - text: ITS support person will contact you shortly to check the network issues.
+  utter_it_printernotworking7:
+  - buttons:
+    - payload: /confirm
+      title: Yes, need help
+    - payload: /deny
+      title: No, not required
+    text: Please let us know if we need to check your network connectivity issue.
+  utter_it_printernotworking8:
+  - text: We may have to install the printer software on your system. ITS support
+      person will contact you shortly.
+  utter_it_printernotworking9:
+  - buttons:
+    - payload: /confirm
+      title: There is an error message
+    - payload: /deny
+      title: There is no error message
+    text: Did you receive any error message while trying to print?
+  utter_it_printernotworking10:
+  - buttons:
+    - payload: /confirm
+      title: Yes, I did
+    - payload: /deny
+      title: No, I didn't
+    text: Did you notice any warning light / message on the printer?
+  utter_it_printernotworking11:
+  - text: We may have to replace the catridge with a new one. ITS support person will
+      contact you shortly after replacing the catridge.
+  utter_it_printernotworking12:
+  - text: We may have to remove the paper jam from the printer. ITS support person
+      will contact you shortly after removing the jam.
+  utter_it_printernotworking13:
+  - text: We may have to fill the paper tray. ITS support person will contact you
+      shortly after filling the paper.
+  utter_it_printernotworking14:
+  - buttons:
+    - payload: /it_no_paper
+      title: No paper
+    - payload: /it_paper_jam
+      title: Paper jam
+    - payload: /it_printer_offline
+      title: Printer offline
+    - payload: /it_printer_catridge_empty
+      title: Printer catridge empty
+    text: What is the error message?
+  utter_it_systemhangissue:
+  - text: Please restart your office laptop or desktop once, this should resolve your
+      issue. If the issue still persists, please contact your office location's IT
+      Team Member or contact Speridian's 24/7 IT Support Help Desk on +91-8592859249
+      for further assistance.
+  utter_it_systemaudionotworking:
+  - text: Please ensure that your audio drivers on your office laptop or desktop are
+      updated. You may contact your office location's IT Team Member or contact Speridian's
+      24/7 IT Support Help Desk on +91-8592859249 for further assistance.
+  utter_it_outlookarchivehelp:
+  - text: Please [click here](https://support.microsoft.com/en-us/office/archive-in-outlook-for-windows-25f75777-3cdc-4c77-9783-5929c7b47028)
+      to view the help document on archiving on outlook. You may contact your office
+      location's IT Team Member or contact Speridian's 24/7 IT Support Help Desk on
+      +91-8592859249 for further assistance.
+  utter_it_wifinotconnecting1:
+  - buttons:
+    - payload: /it_wificonnectionissue
+      title: Unable to connect to WiFi
+    - payload: /it_wifiinternetissue
+      title: WiFi connected, but no internet
+    - payload: /it_lan_cable_no_internet
+      title: LAN cable connected, but no internet
+    text: Speridian network issues
+  utter_it_wifinotconnecting2:
+  - buttons:
+    - payload: /confirm
+      title: Yes, I am able to login
+    - payload: /deny
+      title: No, I am unable to login
+    text: Please check if you can login to other internal applications using the same
+      credentials.
+  utter_it_wifinotconnecting3:
+  - buttons:
+    - payload: /confirm
+      title: Yes, solved
+    - payload: /deny
+      title: No, still not solved
+    text: Please disconnect the WiFi and reconnect again. Does this solve the issue?
+  utter_it_wifinotconnecting1a:
+  - buttons:
+    - payload: /confirm
+      title: Done
+    text: Please right click the WiFI icon, you will get an option for 'Trouble shoot
+      problems', please click it and the system will do a trouble shooting.
+  utter_it_lan_cable_no_internet1:
+  - buttons:
+    - payload: /confirm
+      title: I can see
+    - payload: /deny
+      title: I can't see
+    text: Are you able to see the LAN icon in the taskbar?
+  utter_it_lan_cable_no_internet2:
+  - text: We may have to check the network issue - ITS Support person will contact
+      you shortly.
+  utter_it_lan_cable_no_internet3:
+  - buttons:
+    - payload: /confirm
+      title: Done
+    text: Please right click the LAN icon, you will get an option for 'Trouble shoot
+      problems', please click it and the system will do a trouble shooting.
+  utter_it_lan_cable_no_internet5:
+  - buttons:
+    - payload: /confirm
+      title: Yes, solved
+    - payload: /deny
+      title: No, still not solved
+    text: Is the issue solved?
+  utter_it_lan_cable_no_internet4:
+  - text: We may have to check the network issue - ITS Support person will contact
+      you shortly.
+  utter_it_outlooknotworking:
+  - text: Please restart outlook once, this should resolve your issue. If the issue
+      still persists, please contact your office location's IT Team Member or contact
+      Speridian's 24/7 IT Support Help Desk on +91-8592859249 for further assistance.
+  utter_it_passwordreset:
+  - text: Please provide an alternate email id which is in your name to send the new
+      password to you.
+  utter_it_outlook:
+  - buttons:
+    - payload: /it_outlook_login
+      title: MS Outlook login issue
+    - payload: /it_outlooknotworking
+      title: Outlook application not working
+    - payload: /it_outlook_email_not_syncing
+      title: Emails are not syncing
+    - payload: /it_outlook_offline
+      title: Outlook is in offline mode
+    - payload: /it_outlookarchivehelp
+      title: Need to archive Outlook
+    - payload: /it_configure_outlook
+      title: Need to configure Outlook
+    text: MS Outlook problems
+  utter_it_outlook0:
+  - buttons:
+    - payload: /it_outlook_restart
+      title: Outlook is opening, but restarting frequently
+    - payload: /it_outlook_not_opening
+      title: Outlook is not at all opening
+    text: Is Outlook application opening?
+  utter_it_outlook1:
+  - buttons:
+    - payload: /confirm
+      title: Yes, entered correctly
+    - payload: /deny
+      title: No, entered wrongly
+    text: Please check if the user id and password are entered correctly.
+  utter_it_outlook2:
+  - buttons:
+    - payload: /confirm
+      title: Yes, able to login
+    - payload: /deny
+      title: No, unable to login
+    text: Please check if you can login to the webmail using the same credentials.
+  utter_it_outlook3:
+  - text: We may have to reset the password. ITS support person will contact you shortly.
+  utter_it_outlook4:
+  - buttons:
+    - payload: /confirm
+      title: Yes, solved
+    - payload: /deny
+      title: No, still not solved
+    text: Please restart the outlook application and see if that solved the issue.
+  utter_it_outlook5:
+  - buttons:
+    - payload: /confirm
+      title: Yes, please check
+    - payload: /deny
+      title: No, not required
+    text: Please let us know if we need to check your network connectivity.
+  utter_it_outlook6:
+  - text: We may have to check the issue remotely. ITS Support person will contact
+      you shortly.
+  utter_it_outlook7:
+  - buttons:
+    - payload: /confirm
+      title: Yes, issue is solved
+    - payload: /deny
+      title: No, still not solved
+    text: Please connect to another network if you are working from home and see if
+      it works.
+  utter_it_outlook8:
+  - buttons:
+    - payload: /confirm
+      title: Yes, issue is solved
+    - payload: /deny
+      title: No, still not solved
+    text: Please disable the 'work offline' option from the 'Send/Receive' menu in
+      Outlook.
+  utter_it_outlook10:
+  - buttons:
+    - payload: /confirm
+      title: Yes, it is fine
+    - payload: /deny
+      title: No, it is not
+    text: Please check if the internet connectivity is fine in the system.
+  utter_it_outlook11:
+  - buttons:
+    - payload: /confirm
+      title: Yes, issue solved
+    - payload: /deny
+      title: No, still not solved
+    text: Please close the outlook application from the task manager and reopen.
+  utter_it_outlook12:
+  - buttons:
+    - payload: /confirm
+      title: Yes, working now
+    - payload: /deny
+      title: No, still not working
+    text: Please enter the correct email and password.
+  utter_it_outlooka:
+  - buttons:
+    - payload: /confirm
+      title: Yes, it is
+    - payload: /deny
+      title: No, it's not
+    text: Is Outlook configured on your system.
+  utter_it_outlookb:
+  - buttons:
+    - payload: /confirm
+      title: Yes, I want to
+    - payload: /deny
+      title: No, I don't want to
+    text: Do you want to configure outlook now?
+  utter_it_outlookc:
+  - buttons:
+    - payload: /confirm
+      title: Yes, I want
+    - payload: /deny
+      title: No, I don't want
+    text: Do you want ITS help to configure outlook?
+  utter_it_outlooke:
+  - buttons:
+    - payload: /confirm
+      title: Done
+    text: Open Outlook, click on"File", then click on "Info" and then on "Cleanup
+      Tools", finally click on "Archive"
+  utter_it_outlookf:
+  - buttons:
+    - payload: /confirm
+      title: Done
+    text: Click the 'Archive this folder and all subfolders' option and choose the
+      folder you want to archive
+  utter_it_outlookg:
+  - buttons:
+    - payload: /confirm
+      title: Done
+    text: Under 'Archive items older than', enter a date.
+  utter_it_outlookh:
+  - buttons:
+    - payload: /confirm
+      title: Done
+    text: You can save the file in default location or can browse a location to save.
+  utter_it_outlookd:
+  - buttons:
+    - payload: /confirm
+      title: Yes, it is
+    - payload: /deny
+      title: No, it's not
+    text: Is the archiving done?
+  utter_it_outlooki:
+  - buttons:
+    - payload: /confirm
+      title: Yes, please
+    - payload: /deny
+      title: No, not required
+    text: Do you want ITS help to archive Outlook?
+  utter_it_outlookj:
+  - buttons:
+    - payload: /confirm
+      title: Yes, please
+    - payload: /deny
+      title: No, not required
+    text: Do you want to enable Auto archive now?
+  utter_it_outlookk:
+  - buttons:
+    - payload: /confirm
+      title: Done
+    text: To turn on Auto Archive, click on 'File', then click on 'Options' and then
+      click on 'Advanced'
+  utter_it_outlookl:
+  - buttons:
+    - payload: /confirm
+      title: Done
+    text: Under AutoArchive, click on 'AutoArchive Settings'
+  utter_it_outlookm:
+  - buttons:
+    - payload: /confirm
+      title: Done
+    text: Then tick the 'Run Auto Archive every n days' box and tick the necessary
+      options below it and click OK
+  utter_it_outlookn:
+  - buttons:
+    - payload: /confirm
+      title: Yes, enabled
+    - payload: /deny
+      title: No, it's not
+    text: Auto Archive enabled?
+  utter_it_outlooko:
+  - buttons:
+    - payload: /confirm
+      title: Yes, please
+    - payload: /deny
+      title: No, not required
+    text: Do you want ITS help to enable Auto Archhive in Outlook?
+  utter_it_outlook1a:
+  - buttons:
+    - payload: /confirm
+      title: Done
+    text: Open Control Panel window and select the view of the control panel as 'Large
+      icon' or 'Small icon'
+  utter_it_outlook1b:
+  - buttons:
+    - payload: /confirm
+      title: Done
+    text: Click on the 'Mail' icon and then click on 'show profiles' and click on
+      'Add'. Provide a name for the profile. For example 'New'
+  utter_it_outlook1c:
+  - buttons:
+    - payload: /confirm
+      title: Done
+    text: Please provide Speridian email address and password and click Next
+  utter_it_outlook1d:
+  - buttons:
+    - payload: /confirm
+      title: Done
+    text: Click on 'Finish' to complete the outlook configuration
+  utter_it_outlook1e:
+  - buttons:
+    - payload: /confirm
+      title: Done
+    text: Click drop down under the 'Always use this profile' and select the newly
+      created profile. Click on Apply and then click OK
+  utter_it_outlook1f:
+  - buttons:
+    - payload: /confirm
+      title: Done
+    text: Start the outlook and allow sometime for updating all folders
+  utter_it_outlook1g:
+  - buttons:
+    - payload: /confirm
+      title: Yes, done
+    - payload: /deny
+      title: No, not configured
+    text: Configuring Outlook for the Speridian email done?
+  utter_it_outlook1h:
+  - buttons:
+    - payload: /confirm
+      title: Yes, please
+    - payload: /deny
+      title: No, not required
+    text: Do you want ITS help to configure Outlook?
+  utter_it_vpnloginissue1:
+  - buttons:
+    - payload: /confirm
+      title: Yes, entered correctly
+    - payload: /deny
+      title: No, entered wrongly
+    text: Please check if the username and password are entered correctly.
+  utter_it_vpnloginissue2:
+  - buttons:
+    - payload: /confirm
+      title: Yes, it is 6.4
+    - payload: /deny
+      title: No, it is not 6.4
+    text: We need to check the Forticlient version installed. You can find the same
+      by clicking on the information icon which is on the top right corner of the
+      application. Is the version 6.4?
+  utter_it_vpnloginissue3:
+  - text: We may have to update the Forticlient application. ITS support person will
+      contact you shortly.
+  utter_it_vpnloginissue4:
+  - text: We may have to repair/reinstall the Forticlient application. ITS support
+      person will contact you shortly.
+  utter_it_vpnloginissue5:
+  - buttons:
+    - payload: /confirm
+      title: Yes, I am able to login now
+    - payload: /deny
+      title: No, am still not able to login
+    text: Please try again with the correct email id and password. This should solve
+      the issue.
+  utter_it_vpnloginissue6:
+  - buttons:
+    - payload: /confirm
+      title: Yes, solved
+    - payload: /deny
+      title: No, still not solved
+    text: Please restart your system and try again. Mostly, restarting the system
+      would solve the issue.
+  utter_it_ftpaccessissue1:
+  - buttons:
+    - payload: /it_ftploginissue
+      title: Login issue
+    - payload: /it_ftpconnectionissue
+      title: Connection issue
+    text: FTP access issues
+  utter_it_ftpaccessissue2:
+  - buttons:
+    - payload: /confirm
+      title: Yes, I can login
+    - payload: /deny
+      title: No, I can't login
+    text: Please check if you can login to other internal applications using the same
+      credentials.
+  utter_it_ftpaccessissue3:
+  - text: We may have to reset the password. ITS support person will contact you shortly.
+  utter_it_ftpaccessissue4:
+  - text: We may have to repair/reinstall the FTP Client. ITS Support person will
+      contact you shortly.
+  utter_it_closing:
+  - text: Thanks for reaching Speridian ITS. Happy to assist you always!
+  utter_email_support:
+  - text: Email is sent, support team will contact you shortly!
+  utter_feedback:
+  - buttons:
+    - payload: /home
+      title: Yes!
+    - payload: /conversationEnd
+      title: No!
+    - payload: /email_support
+      title: Email Support
+    text: Is there anything else I may help you with?
+  utter_like_dislike:
+  - custom:
+    - json:
+      - form_type: feedback
+    text:
+  utter_conversationEnd:
+  - text: Thanks for contacting us. Have a nice time!
+  utter_it_helpdesk_FAQs:
+  - buttons:
+    - payload: /it_vpnloginissue
+      title: VPN login issue
+    - payload: /it_outlook_problems
+      title: MS Outlook issues
+    - payload: /it_printernotworking
+      title: Printer is not working
+    - payload: /it_wifinotconnecting
+      title: Network issues
+    - payload: /it_ftpaccessissue
+      title: FTP access issues
+    text: IT Help Desk FAQS
+  utter_employeeSearch:
+  - buttons:
+    - payload: /employee_query
+      title: Search employees
+    text: Click on below button to search employees
+  utter_policy:
+  - text: Please refer to the [Speridian Leave Policy](https://o360.speridian.com/O360_API_Speridian//Attachments//336a805f-4ef4-4484-bc1c-f7a81a85c536.pdf)
+      for more information on our leave policies.
+  utter_yes_query:
+  - text: Yes
+  utter_leaveNoQuery:
+  - text: No
+  utter_bullShit:
+  - text: I'm afraid my options to this query are limited. It's advisable to reach       out
+      to your HR Representative.
+  utter_contact_payroll_team:
+  - text: Please reach out to your HR Representative for more information.
+  utter_couldnot_say:
+  - text: I'm afraid my options to this query are limited. It's advisable to reach
+      out to your HR Representative.
+  utter_docs_last_working:
+  - text: Please reach out to your HR Representative for more information.
+  utter_employment_certificate:
+  - text: I'm afraid my options to this query are limited. It's advisable to reach       out
+      to your HR Representative.
+  utter_leaveCheckPMO:
+  - text: I'm afraid my options to this query are limited. It's advisable to reach  out
+      to your HR Representative.
+  utter_leaveClsCarry:
+  - text: Only Casual Leave gets carried forward to the next year to a maximum of       12.
+  utter_leaveTypeDaysBRL:
+  - text: Employees can avail Bereavement Leave for 3 days only in case of demise  of
+      their Parents, Spouse, Children or Siblings. Please refer to the [Speridian       Leave
+      Policy](https://o360.speridian.com/O360_API_Speridian//Attachments//336a805f-4ef4-4484-bc1c-f7a81a85c536.pdf)  for
+      more information.
+  utter_leaveTypeDaysML:
+  - text: Maternity Leave is of 26 weeks in all, whether availed before or after childbirth       as
+      per the Maternity Benefits Act, 1961. Employees can opt to start the maternity       leave
+      no more that 8 (eight) weeks before their expected due date. Please refer  to
+      the [Speridian Leave Policy](https://o360.speridian.com/O360_API_Speridian//Attachments//336a805f-4ef4-4484-bc1c-f7a81a85c536.pdf)
+      for more information.
+  utter_no_query:
+  - text: No
+  utter_not_reflect_esic:
+  - text: I'm afraid my options to this query are limited. It's advisable to reach  out
+      to your HR Representative.
+  utter_not_sure:
+  - text: I'm afraid my options to this query are limited. It's advisable to reach  out
+      to your HR Representative.
+  utter_pf_first_month:
+  - text: I'm afraid my options to this query are limited. It's advisable to reach  out
+      to your HR Representative.
+  utter_rating_same_hike:
+  - text: This is dependent on lot of other factors. Please reach out to your HR Representative
+      for more information.
+  utter_it_windows10builtinappsnotworking:
+  - text: ITS Team will contact you shortly
+  utter_it_o360loginissue:
+  - text: ITS Team will contact you shortly.
+actions:
+- action_it_ticket_update
+- utter_LeaveAdvance
+- utter_leaveNoQuery
+- utter_leaveCalendar
+- utter_Benefits
+- utter_News
+- utter_goodafternoon
+- utter_policyTravel
+- utter_balance
+- utter_apply
+- utter_date
+- utter_cancel
+- utter_date_leaveType
+- action_leaveTakes
+- utter_leaveCheckPMO
+- utter_leaveAvailMonth
+- utter_leaveAvailAnnual
+- utter_leaveMisCarriage
+- utter_leaveOurPolicy
+- utter_policy
+- utter_policyBenefits
+- utter_policyLearning
+- utter_helpLeave
+- utter_dateVal
+- utter_dateCancel
+- utter_goodbye
+- utter_you_wonderful
+- utter_digital
+- utter_sorry_chat
+- utter_okay
+- utter_take_break
+- utter_dont_family
+- utter_enjoy_talk
+- utter_okay_got
+- utter_things_wrong
+- utter_some_rest
+- utter_here_u
+- utter_big_hug
+- utter_quite_content
+- utter_just_chat
+- utter_love_thanks
+- utter_here_ready
+- utter_good_giggle
+- utter_polite_decline
+- utter_trust_judgment
+- utter_technology_affects
+- utter_how_nice
+- utter_help_answers
+- utter_simple_wonderful
+- utter_friendship
+- utter_leaveNotification
+- utter_opposite
+- utter_hello
+- utter_looks
+- utter_thankyou_day
+- utter_move_on
+- utter_thank_you
+- utter_great
+- utter_question
+- utter_absolutely_not
+- utter_help_others
+- utter_no_tell
+- utter_sorry_lost
+- utter_upset
+- utter_no_age
+- utter_existence_virtual
+- utter_helping_people
+- utter_canot_think
+- utter_no_meeting
+- utter_sorry
+- utter_of_course
+- utter_no_thanks
+- utter_like_chat
+- utter_goodevening
+- utter_high_five
+- utter_i_would
+- utter_better_answer
+- utter_no_relationship
+- utter_smarter
+- utter_pretty_human
+- utter_goodmorning
+- utter_find_me
+- utter_no_problem
+- utter_happy_reconnect
+- utter_no_jokes
+- utter_thankyou_kind
+- utter_helpful
+- utter_working_on
+- utter_apologies
+- utter_hello_there
+- utter_anything_later
+- utter_not_me
+- utter_not_sure
+- utter_nothing
+- utter_wish
+- utter_bot_help
+- utter_my_strengths
+- utter_independent
+- utter_no_gender
+- utter_like_much
+- utter_very_you
+- utter_how_lovely
+- utter_team_people
+- utter_couldnot_say
+- utter_no_name
+- utter_lot_things
+- utter_take_time
+- utter_meet_too
+- utter_could_help
+- utter_here
+- utter_kind_you
+- utter_laugh_too
+- utter_humors
+- utter_love
+- utter_hear_it
+- utter_food_pretty
+- utter_oh_dear
+- utter_wonderful
+- utter_goodnight
+- utter_chat_you
+- utter_excellent
+- utter_benefits_esic
+- utter_not_reflect_esic
+- utter_yes_query
+- utter_reliefFund
+- utter_no_query
+- utter_esic_mandat
+- utter_not_reflect_uan_pf
+- utter_merge_uan
+- utter_update_kyc_pf
+- utter_employment_certificate
+- utter_it_services
+- utter_travel_services
+- utter_band_changed_designation
+- utter_suggest_tax
+- utter_uable_timesheet
+- utter_pf_first_month
+- utter_noted_management
+- utter_plan_outings
+- utter_hike_appraisal
+- utter_designation_appraisal
+- utter_eligible_appraisal
+- utter_min_hike
+- utter_review_preiod_appraisal
+- utter_rating_same_hike
+- utter_calculate_rating
+- utter_shall_update
+- utter_edit_details
+- utter_enroll_medical
+- utter_enrol_mid
+- utter_upload_bills_portal
+- utter_claim_consultation
+- utter_ayurvedic_treatment
+- utter_changes_benefits_portal
+- utter_two_wheeler_maintance
+- utter_fuel_reimbursement
+- utter_petrol_vehicle_number
+- utter_claim_multicars
+- utter_taxreturns_query
+- utter_benefits_tax_exemption
+- utter_insurance_family_open
+- utter_cancel_zeta_card
+- utter_valid_zeta_balance
+- utter_premium_details
+- utter_add_benefits_portal
+- utter_ctc_offer
+- utter_lop_deduction
+- utter_lop_calculate
+- utter_contact_payroll_team
+- utter_emergency_leave
+- utter_received_hike_variable
+- utter_relieved_early
+- utter_docs_last_working
+- utter_last_working_credit
+- utter_NP_investments
+- utter_buyout_option
+- utter_leaveMedical
+- utter_leaveClsCarry
+- utter_leaveValidCompoff
+- utter_leaveLogTime
+- utter_leaveCarryForwarded
+- utter_leaveYesQuery
+- utter_holiday
+- action_is_holiday
+- utter_date_hol
+- utter_helpcancel
+- utter_bullShit
+- utter_genfaq
+- utter_leaveAutoApproved
+- utter_leaveFH
+- utter_ask_DATE
+- utter_ask_reason
+- utter_ask_toDate
+- utter_submit
+- utter_slots_values
+- utter_wrong_leaveType
+- utter_wrong_DATE
+- utter_slots_cancel_values
+- utter_leaveTakesBL
+- utter_leaveTakesBRL
+- utter_leaveTakesPL
+- utter_leaveTakesML
+- utter_leaveTakesLOP
+- utter_leaveTakesRL
+- utter_leaveTypeDaysML
+- utter_leaveTypeDaysPL
+- utter_leaveTypeDaysBRL
+- utter_leaveTypeDaysFH
+- utter_Covid19
+- utter_CovidHelpline
+- utter_Awareness
+- action_time
+- action_date
+- action_name
+- action_age
+- action_gender
+- action_location
+- action_email
+- action_job
+- action_manager
+- action_mobile
+- action_tell_about_me
+- action_leave_apply
+- action_leaveEligibility
+- action_leaveTypeDays
+- action_leaveStatus
+- action_leaveUpdateRequest
+- action_leaveApproveList
+- action_leaveList
+- action_slots_values
+- my_fallback_action
+- utter_fallback
+- utter_slots_WFH_values
+- action_leave_balance
+- utter_policyInsurance
+- utter_leaveEntitlement
+- utter_noticePeriod
+- utter_annualDay
+- utter_logTime
+- utter_contactInfo
+- utter_numEmployees
+- utter_leaveEncashment
+- action_my_doj
+- action_projectList
+- utter_CEAAvail
+- utter_HRTeam
+- utter_helpEWC
+- utter_leaveStatus
+- utter_Speridian
+- utter_help_approve
+- utter_help_policies
+- utter_EWH_FAQs
+- utter_Benefits_FAQs
+- utter_Satutory_FAQs
+- utter_ComOff_FAQs
+- utter_Leave_FAQs
+- utter_leaveTakesFH
+- uttter_leaveTakesED
+- utter_EWC_cutoff
+- utter_month_EWC
+- utter_investment_declare
+- utter_activate_UAN
+- utter_flexi_benefits
+- action_leaveTypes
+- action_travelRequest_apply
+- action_travelSlots_values
+- utter_ask_purposeVisit
+- utter_ask_phone-number
+- utter_ask_tripType
+- utter_ask_location
+- utter_ask_transportRoute
+- utter_leaveTakesED
+- utter_ask_Accommodation
+- action_FAQs_handle
+- utter_CompOff_raise
+- utter_CompOff_Credit
+- utter_approval_yes
+- utter_epf_12contribute
+- action_home
+- utter_ask_toLocation
+- action_travelRecentSlots
+- action_login
+- action_weather
+- action_coronaDetails
+- action_events
+- action_news
+- utter_it_keyboardmouseissues
+- utter_it_needtosetoutofofficeinoutlook
+- utter_it_msteamsnotworking
+- utter_it_printernotworking1
+- utter_it_printernotworking2
+- utter_it_printernotworking3
+- utter_it_printernotworking4
+- utter_it_printernotworking5
+- utter_it_printernotworking6
+- utter_it_printernotworking7
+- utter_it_printernotworking8
+- utter_it_printernotworking9
+- utter_it_printernotworking10
+- utter_it_printernotworking11
+- utter_it_printernotworking12
+- utter_it_printernotworking13
+- utter_it_printernotworking14
+- utter_it_systemhangissue
+- utter_it_systemaudionotworking
+- utter_it_outlookarchivehelp
+- utter_it_windows10builtinappsnotworking
+- utter_it_wifinotconnecting1
+- utter_it_wifinotconnecting2
+- utter_it_wifinotconnecting3
+- utter_it_outlooknotworking
+- utter_it_passwordreset
+- utter_it_o360loginissue
+- utter_it_vpnloginissue1
+- utter_it_vpnloginissue2
+- utter_it_vpnloginissue3
+- utter_it_vpnloginissue4
+- utter_it_vpnloginissue5
+- utter_it_vpnloginissue6
+- utter_it_ftpaccessissue1
+- utter_it_ftpaccessissue2
+- utter_it_ftpaccessissue3
+- utter_it_ftpaccessissue4
+- utter_it_closing
+- utter_email_support
+- utter_feedback
+- utter_like_dislike
+- utter_conversationEnd
+- utter_it_helpdesk_FAQs
+- action_email_support
+- utter_employeeSearch
+- action_employeeQuery
+- action_previous_conversations
+- utter_it_wifinotconnecting1a
+- utter_it_lan_cable_no_internet1
+- utter_it_lan_cable_no_internet2
+- utter_it_lan_cable_no_internet3
+- utter_it_lan_cable_no_internet5
+- utter_it_lan_cable_no_internet4
+- utter_it_outlook
+- utter_it_outlook0
+- utter_it_outlook1
+- utter_it_outlook2
+- utter_it_outlook3
+- utter_it_outlook4
+- utter_it_outlook5
+- utter_it_outlook6
+- utter_it_outlook7
+- utter_it_outlook8
+- utter_it_outlook10
+- utter_it_outlook11
+- utter_it_outlook12
+- utter_it_outlooka
+- utter_it_outlookb
+- utter_it_outlookc
+- utter_it_outlooke
+- utter_it_outlookf
+- utter_it_outlookg
+- utter_it_outlookh
+- utter_it_outlookd
+- utter_it_outlooki
+- utter_it_outlookj
+- utter_it_outlookk
+- utter_it_outlookl
+- utter_it_outlookm
+- utter_it_outlookn
+- utter_it_outlooko
+- utter_it_outlook1a
+- utter_it_outlook1b
+- utter_it_outlook1c
+- utter_it_outlook1d
+- utter_it_outlook1e
+- utter_it_outlook1f
+- utter_it_outlook1g
+- utter_it_outlook1h
+- action_themeColor
+forms:
+- request_apply_form
+- request_travel_form

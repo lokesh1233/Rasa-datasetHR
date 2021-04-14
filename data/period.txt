@@ -1,0 +1,8 @@
+last
+next
+previous
+first
+history
+past
+future
+recent

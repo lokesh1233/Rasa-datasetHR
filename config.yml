@@ -1,0 +1,30 @@
+language: en
+pipeline:
+- name: WhitespaceTokenizer
+- name: LexicalSyntacticFeaturizer
+- name: CountVectorsFeaturizer
+  analyzer: char_wb
+  min_ngram: 1
+  max_ngram: 4
+- name: RegexFeaturizer
+- name: DIETClassifier
+  epochs: 100
+- name: DucklingHTTPExtractor
+  url: http://duckling:8000
+  dimensions:
+  - time
+  - phone-number
+  timezone: Asia/Mumbai
+  locale: en_GB
+policies:
+- name: TEDPolicy
+  epochs: 40
+  max_history: 3
+- max_history: 6
+  name: AugmentedMemoizationPolicy
+- name: FallbackPolicy
+  nlu_threshold: 0.5
+  core_threshold: 0.2
+  fallback_action_name: my_fallback_action
+- name: FormPolicy
+- name: MappingPolicy

@@ -1,0 +1,7684 @@
+## intent:it_no_paper
+- no paper
+- np paper in the printer
+- there is no paper
+- no paper in the tray
+
+## intent:it_paper_jam
+- paper jam
+- paper is jammed
+- paper is jammed in printer
+
+## intent:it_printer_catridge_empty
+- no catridge
+- catridge empty
+- printer catridge empty
+
+## intent:it_printer_offline
+- printer offline
+- offline printer
+- printer is offline
+- printer is off
+
+## intent:feedback
+- feedback for the above answers
+- how to provide feedback to above answers
+- feedback for the statements
+- feedback
+
+## intent:email_support
+- contact email support team
+- how to contact email support team
+- please send a query to support team
+- how to send email to support
+- send mail to support team
+- i want to write a mail to support team
+
+## intent:it_ftpaccessissue
+- ftp issue
+- ftp access issue
+- i am facing issues with ftp
+- ftp not working
+
+## intent:it_ftploginissue
+- unable to login to FTP
+- ftp login issue
+- i am facing login problem with ftp
+- ftp login not working
+
+## intent:it_ftpconnectionissue
+- unable to connect to FTP
+- ftp connectivity
+- ftp connection issue
+- i am facing connection problem with ftp
+- ftp not connecting
+- ftp connection not working
+
+## intent:it_vpnloginissue
+- how can i resolve vpn login issue
+- facing problem connection to vpn
+- facing issue connecting to my vpn
+- facing issue with vpn login
+- i am not able to connect to my vpn
+- not able to connect to my vpn
+- Failed vpn login
+- facing vpn login issue
+- Trouble loging in to vpn
+- Facing issue connecting to my vpn
+- Facing issue with vpn login
+- Error is showing while login to vpn
+- Facing trouble login to vpn
+- not getting connected to my vpn
+- not getting vpn access
+- failed vpn login
+- Login issue with my vpn connection
+- Not getting access to my vpn
+- How can i solve vpn login issue
+- vpn access denied
+
+## intent:it_o360loginissue
+- Facing issue connecting to my o360
+- Facing issue with o360 account login
+- Facing problem connection to o360 account
+- I am facing o360 login issue
+- Login issue with my o360 account connection
+- Login issue with o360
+- Not able to connect to O360 account
+- O360 connection facing login issue
+- O360 issue
+- Trouble login to O360
+- error is showing while login to O360
+- error is showing while login to o360
+- facing issue connecting to my O360
+- facing issue with o360 login
+- facing trouble login to O360 account
+- i Want help to resolve O360 login issue
+- i m facing O360 login issue
+- not able to connect to my O360
+- not getting connection to o360
+- o360 connection facing login issue
+
+## intent:it_passwordreset
+- Change password
+- Existing password reset
+- I need to reset my password
+- Reset existing password
+- change current password
+- existing password change
+- how can i change password
+- how can i reset my password
+- i need help to change password
+- i need to reset my password
+- i require help to change password
+- i want to change password
+- i would like to reset my password
+- need to change password
+- passsword change
+- password reset
+- require help to reset password
+- reset existing password
+- want to change my password
+- want to reset password
+
+## intent:it_lan_cable_no_internet
+- lan cable connected but no internet
+- no internet lan
+- connected lan, no net
+- cable connected, no browsing
+
+## intent:it_configure_outlook
+- how to configure outlook
+- i want to configure outlook
+- setup outlook on my system
+- help configuring outlook
+
+## intent:it_outlook_problems
+- outlook issues
+- ms out look issues
+- outlook problems
+- ms out look problems
+
+## intent:it_outlook_login
+- ms outlook login
+- login to outlook
+- unable to login to outlook
+
+## intent:it_outlook_email_not_syncing
+- outlook email not syncing
+- email not sync
+- ms outlook email sync
+
+## intent:it_outlook_offline
+- outlook offline
+- outlook is in offline mode
+- ms outlook in offline mode
+
+## intent:it_outlook_restart
+- outlook is restarting
+- restarting frequently
+- ms outlook is restarting very frequently
+
+## intent:it_outlook_not_opening
+- outlook not opening at all
+- outlook app not opening
+- unable to open outlook
+
+## intent:it_outlookarchivehelp
+- Want help in archiving outlook
+- Outlook archive help
+- step by step help for outlook archive
+- Archiving outlook
+- What should i do to archive outlook
+- what to do to archive outlook
+- Outlook archive
+- what should i do to archive outlook
+- what are the steps in outlook archiving
+- Require help in archiving outlook
+- how can i archive outlook
+- need help in archiving outlook
+- steps for outlook archive
+- archive outlook
+- I want help to archive outlook
+- How to do outlook archive
+- I want help to archive my outlook
+- What are the steps in outlook archiving
+- Step by step help for outlook archive
+- how to do outlook archive
+
+## intent:it_outlooknotworking
+- Facing issue with my outlook
+- How can i resolve my outlook issue
+- I Need help to solve my outlook issue
+- I Want help to resolve my outlook issue
+- I want help to solve my outlook problem
+- Outlook problem
+- Require help to resolve my outlook problem
+- There is some problem with my outlook
+- There is some trouble with my outlook
+- Want help to resolve my outlook issue
+- facing issue with my outlook
+- facing issue with outlook
+- how can i resolve my outlook issue
+- how can i resolve my outlook problem
+- how can i solve my outlook issue
+- my outlook is not working
+- outlook not working
+- require help to resolve my outlook issue
+- want help to solve my outlook issue
+- what should i do my outlook not working
+
+## intent:it_wifinotconnecting
+- wifi issue
+- speridian wifi issue
+- wifi problems
+- speridian wifi problems
+
+## intent:it_wificonnectionissue
+- wifi not connecting
+- unable to connect to wifi
+- Facing WIFI connecting issue
+- Facing WIFI connection issue
+- I Require help with wifi connection
+- I need help with wifi connection
+- I want help to solve wifi connection problem
+- Issue connecting to my WIFI
+- Need help to resolve WIFI connection problem
+- Need help to solve wifi connection issue
+- Require help to resolve wifi connection problem
+- WIFI connection failed
+- facing wifi connecting issue
+- failed to connect WIFI
+- i require help to solve WIFI connection problem
+- issue connecting to my WIFI
+- require help with WIFI connection
+- require help with wifi connection
+- what should i do for WIFI connecting issue
+- what should i do for wifi connecting issue
+- wifi connection failed
+
+## intent:it_wifiinternetissue
+- wifi no internet
+- speridian wifi no internet
+- can't connect to internet in wifi
+- no internet access on wifi
+- internet not working on wifi
+
+## intent:it_windows10builtinappsnotworking
+- Built in apps issue
+- Built in apps problem
+- Built in windows apps error in my system
+- Facing issue with windows 10 built in apps
+- Facing trouble with windows 10 built in apps
+- Facing trouble with windows built in apps
+- I am facing built in app problem in my windows system
+- I am facing built in apps issue in my windows system
+- My windows 10 built in apps not working
+- Problem with built in apps
+- Require help to resolve windows 10 built in apps not working issue
+- Windows 10 built in apps not working
+- built in windows app error in my system
+- facing problem with windows built in apps
+- i am facing built in app issue in my windows system
+- i am facing built in apps problem in my windows system
+- i require help to resolve windows 10 built in apps not working problem
+- my windows 10 built in apps not working
+- trouble with built in apps
+- windows 10 built in apps not working
+
+## intent:it_systemaudionotworking
+- Audio not working in my system
+- Facing issue with audio in system
+- Facing trouble with audio in system
+- Issue with audio in my system
+- My system is facing audio issue
+- My system is facing audio problem
+- Need help in resolving audio problem in my system
+- Problem with audio in my system
+- Provide help to resolve system audio not working
+- Require help in resolving audio problem in my system
+- Require help to solve audio trouble in system
+- Trouble with audio in system
+- audio in my system is not working
+- audio not working in my system
+- facing trouble with audio in my system
+- help needed to resolve audio issue in my system
+- how can i resolve audio issue in my system
+- my system is facing audio issue
+- provide help to resolve system audio not working
+- want help to solve audio issue in my system
+- Could not understand audio
+
+## intent:it_systemhangissue
+- Need help to solve system hanng issue
+- system is stuck what to do next
+- want help to solve system hanng issue
+- my system is hang what should i do next
+- need help to solve system hanng issue
+- How can i resolve system hang issue
+- Provide help to resolve system hang issue
+- My system is hang what should i do next
+- my system is hang how to solve this issue
+- My system is hang what should i do now
+- my system is hang how to solve this problem
+- help needed to solve system hang issue
+- help needed to resolve system hang issue
+- provide help to solve system hang issue
+- provide help to resolve system hang issue
+- Want help to solve system hanng issue
+- Need help in resolving system hang issue
+- Require help to solve system hanng issue
+- Help needed to resolve system hang issue
+- My system is hang how to solve this issue
+
+## intent:it_printernotworking
+- Printer is not working
+- Some trouble with printer
+- some trouble with printer
+- printer not working
+- i need help with the printer
+- printer is not working
+- why is the printer not working
+- Why is the printer not working
+- not able to take print from the printer
+- some issue with printer
+- facing issue with printer
+- Printer not working
+- Facing issue with printer
+- some problem with printer
+- Some problem with printer
+- Some issue with printer
+- Not able to take print from the printer
+- I need help with the printer
+- how to map printer
+
+## intent:it_msteamsnotworking
+- How can i solve MS teams
+- How can i solve ms Teams
+- I need help with ms teams its is not working
+- MS Teams is not working
+- MS Teams not working
+- MS teams is not working
+- MS teams problem
+- Why is my MS Teams not working
+- Why is my MS teams not working
+- facing issue with ms Teams
+- facing issue with ms teams
+- facing issue with ms teams working
+- how can i solve MS Teams
+- i need help with MS Teams its is not working
+- i need help with ms Teams its is not working
+- need help with ms teams
+- want help with ms Teams not working
+- why is my MS Teams not working
+- why is my ms Teams not working
+- why is my ms teams not working
+
+## intent:it_needtosetoutofofficeinoutlook
+- Help in setting out of office in Outlook
+- How can i set out of office in Outlook
+- How to set Out of office in outlook
+- Out of office in outlook
+- Require help to set Out of office in Outlook
+- Steps to set Out of office in outlook
+- What should i do to set Out of office in Outlook
+- help in setting out of office in outlook
+- how can i set out of office in Outlook
+- how to set Out of office in outlook
+- how to set out of office in Outlook
+- how to set out of office in outlook
+- need to set Out of office in Outlook
+- need to set Out of office in outlook
+- need to set out of office in outlook
+- out of office in outlook
+- require help to set out of office in Outlook
+- steps to set out of office in outlook
+- what should i do to set out of office in Outlook
+- what should i do to set out of office in outlook
+
+## intent:it_keyboardmouseissues
+- Facing issue with keyboard and mouse
+- How can i resolve keyboard issue
+- How can i resolve keyboard problem
+- I m facing mouse issue
+- Mouse problem
+- Want help in resolving mouse issue
+- What should i do for keyboard issues
+- What should i do for mouse and keyboard issue
+- What should i do for mouse and keyboard problem
+- What to do for mouse and keyboard issues
+- What to do for mouse and keyboard problem
+- facing issue with keyboard and mouse
+- help needed to resolve mouse and keyboard problem
+- help needed to solve mouse and keyboard problems
+- how can i solve mouse and keyboard issues
+- how can i solve mouse and keyboard problems
+- how can i solve mouse issue
+- how can i solve mouse problem
+- i am facing keyboard and mouse problem
+- keyboard Mouse issue
+- my keyboard is not working
+
+## intent:Accommodation
+- provide me accommodation also
+- include accommodation also
+- add accommodation for traVELLING
+- add accomidation
+- accommodation for travelling request
+- please include accommodation for travelling
+- add accommodation for travelling
+- [Yes](confirm) accommodation is required
+- please provide accommodation
+- [no](confirm) accommodation is required
+- [Yes](confirm) accommodation is [not](confirm) required
+
+## intent:Awareness
+- how can I be safe ?
+- what should I do to be safe?
+- what are the precautions to be taken?
+- Is there a vaccine avaiable for covid?
+- please help me with the tips
+- tips
+- what should I have?
+- Healthy tips please
+- should I use handkerchief?
+- why covid-19 is harmful what should I do to prevent it?
+- what should I do to prevent covid-19?
+- what does this healthy tips mean?
+- what should I take to prevent covid-19 or corona virus or disease?
+- Healthy tips means?
+- I will not stay home?
+- prevention methods?
+- precautions
+- how to be safe?
+- provide the safety measures
+- safety
+- healthy measures
+- How to survive?
+- I am not safe
+- What symptoms should I be on the lookout for?
+- Which are the symptoms?
+- Does it make sense to wear face masks to protect yourself?
+- Is it important to have a face mask?
+- Does the mask protect from the Corona virus?
+- Shall I use a face mask when I go out?
+- How can I protect myself?
+- What can I do to prevent infection?
+- What do I do to prevent infection?
+- What should I do to limit the risk of infection?
+- Seek help when symptoms are present
+- What are cold-like symptoms?
+- corona awareness
+- covid 19 awareness
+- emergency
+- Covid 19, Break the Chain.
+
+## intent:Benefits
+- link for benefits portal
+- benefits portal
+- home for benefits portal
+- benefits
+- please provide benefits portal link
+- how to login in benefit portal
+- show me the site link for benefits portal site
+- benefits portal site
+- open benefits portal
+- click on the link of benefits portal
+- how to open benefits portal
+- Where shall I go to use this benefits
+- Is it compulsary to go only ESIC hospitals to get the benefits
+
+## intent:CEAAvail
+- I want to apply for CEA Benefit?
+- When can I apply for CEA benefit?
+- What is Childern Education Policy?
+- I am eligible to opt for CEA?
+- Can I avail CEA?
+- I want to apply CEA Benefit
+- How much will be deduction from my salary per month against CEA?
+- What will be my deduction against CEA?
+- Deduction against CEA in my salary?
+
+## intent:Corona
+- can I know how many are infected with covid-19
+- provide covid death cases report
+- report of covid today
+- how many are infected
+- can you please provide number of people infected with covid-19
+- how many countries are affected with covid
+- can you provide the number of cases in my district
+- can you provide me the details of people infected with this pandemic
+- kindly provide me the list of people infected in america
+- data of people infected
+- state covid-19 cases
+- country covid-19 cases
+- corona cases in my state
+- corona cases in my country
+- corona cases at my place
+- covid-19 cases at my place
+- pandemic cases at my place
+- corona virus cases in my country
+- tracker
+- world health
+- world corona cases
+- covid-19 world wide cases
+- provide world cases
+- kindly provide me the corona cases in my place
+- deceased
+- dead
+- infected cases
+- how many
+- number
+- covid-19 people
+- population affected or infected
+- how many positive cases in my locality?
+- positive cases?
+- negative cases?
+- can you how many recoverd?
+- recoverd
+- matryed
+- postive or negative cases
+- how many negative cases in my area
+- whole world tracker
+- corona statistics
+- corona details
+- covid 19 statistics
+- current covid infected people in india
+- Lockdown in India due to Covid19
+- statistics
+
+## intent:Covid19
+- Covid
+- what is corona?
+- what is this virus?
+- Explain corona?
+- COVID-19 ?
+- what is covid-19?
+- I have a query about corona or COVID-19?
+- can you please let me know about corona?
+- can you give a brief about COVID-19?
+- I want to know about COVID-19?
+- Can you provide details about COVID-19?
+- let me know about covid-19?
+- what does COVID-19 mean?
+- Corona or COVID-19?
+- Corona virus?
+- I have query regarding Covid-19?
+- tell me about corona virus?
+- tell me about COVID-19?
+- do you know covid-19 or corona virus?
+- kindly explain convid-19?
+- explain covid-19?
+- what is corona doing?
+- I want to find out about COVID-19 or corona virus
+- I don't know about covid-19 or corona virus
+- what is CORONA pandemic?
+- what is CORONA-19 pandemic?
+- explain COVID PANDEMIC?
+- what is COVID PANDEMIC?
+- what is Covid -2019 pandemic?
+- Can you explain COVID-2019 PANDEMIC?
+- explain corona pandemic?
+- Is corona pandemic ?
+- was corona or a covid-19?
+- Define COVID-19?
+- Describe covid-19?
+- describe corona virus?
+- say about corona disease?
+- what is corona disease?
+- what is corona-19 doing?
+- what is Corona virus?
+- define Corona virus
+- what is COVID-19?
+- define COVID-19
+- what are features of Raw Covid Bot
+- what does RAW COVID BOT do
+- what can raw covid bot help me with
+- how is raw covid bot useful to me
+- what can Raw COVID Bot do for me
+- why should i use RAW COVID BOT
+- what is RAW COVID BOT
+- covid 19 details
+- what details provide about covid 19 in bot
+- corona virus
+- covid-19
+- covid
+- covid - 19
+- Covid-19
+- Lock down
+- covid 19 updates
+- covid 19
+- covid updates
+- covid19 updates
+- covid-
+- covid-19 lockdown
+
+## intent:CovidHelpline
+- I am worried about the corona virus whether it will affect me.
+- May I know what can be the problem, I have been facing issue with cough, illness, sore throat
+- I have illness will I get corona virus or covid-19
+- Something is wrong with my health
+- What should I do to get rid of this pandemic
+- I remember illness causes corona, will I be affected
+- I have illness, cough, triedness, cough, headache
+- I am worried
+- what will happen
+- population is in fear
+- corona will kill us
+- covid-19 will kill all
+- kill all
+- pandemic vengence
+- pandemic outbreak
+- run with corona
+- fear with corona
+- how does it spread?
+- how does it move?
+- how do people get infected?
+- how is the virus spread?
+- can someone spread the virus without being sick?
+- do people carry the virus without symptoms?
+- can the Corona virus spread from contact with contaminated surfaces or objects?
+- does the virus survive on objects?
+- does the virus survive on surfaces?
+- Can you get infected with the Corona through products or touching surfaces?
+- Can you get the virus touching objects or surfaces?
+- Do I need to clean the shopping?
+- Can you get infected with the Corona by mail (letters, parcels)?
+- can someone who has been quarantined for COVID-19 spread the illness to others?
+- is someone after quarantined still contagious?
+- If I get COVID-19, will I then be immune, or could I get re-infected?
+- Is it dangerous?
+- Can it be lethal?
+- How bad is the virus?
+- Can I die from the virus?
+- Can you die from the virus?
+- What should I do if I have these symptoms?
+- Who is at most risk for contracting a severe case of Corona virus?
+- Which categories of people are more at risk?
+- who is most at danger?
+- Can poultry carry and transmit coronavirus?
+- Can chicken carry and transmit coronavirus?
+- Can my children still play outside with others?
+- Can kids play outside?
+- Are chidren at risk when they play?
+- Do paracetamol, ibuprofen or other medications help against the novel coronavirus?
+- Which medications should I take?
+- Which medicine should I take?
+- Could the incubation period be much longer than 14 days?
+- How long is the incubation of the virus?
+- Do hand dryers prevent COVID-19?
+- Does a dryer help preventing Corona virus?
+- Is public water safe?
+- Is it safe to drink water from fountains?
+- Can pets be infected with COVID-19?
+- Do pets carry the virus?
+- Can domestic animals get infect
+- corona helpline
+- helpline centers for corona
+- helpline centers for covid 19
+- Coronavirus precaution
+- Lockdown Extended
+- Corono virus precaution
+- Covid 19 Precaution measures
+- Covid-19 Lockdown
+- who is shot baby
+
+## intent:EWC_cutoff
+- What is cut off date for applying WFH/ED for a month?
+- cut off date for applying [work from home](leaveType)
+- cut off date for applying [external duty](leaveType)
+- cut off date for applying [ED]{"entity": "leaveType", "value": "ed"}
+- when was the last date to apply for [work from home](leaveType)
+- last date for [ED]{"entity": "leaveType", "value": "ed"}
+
+## intent:EWH_FAQs
+- [external duty](leaveType) faq
+- [External Duty]{"entity": "leaveType", "value": "external duty"} / [WFH](leaveType) FAQS
+
+## intent:Events
+- upcoming events
+- my upcoming events
+- my new events about holiday
+- my new events about leave
+- my upcoming events about birthday
+- Events in speridian
+- Recent Events
+- Events
+- recent events
+- events
+
+## intent:HRTeam
+- my insurance claim status
+- balance
+- premium amount
+- insurance premium amount
+- insurance coverage
+- my claim status
+- dependents premium amount
+- insurance claim status
+- whom should i contact for joining bonus
+- for whom should i inform for joining bonus
+- whom should i contact for any information about the company
+- how can i know about the company details
+- how much balance do i have left in premium amount
+- premium amount balance
+- what is my remaining balance
+- what is premium amount
+- location office is changed
+- Who is Human resources in speridian
+- HR Department
+- do iam a permanent employee
+- How many days does it require to become permanent employee
+- is there any exception to regularize the leaves
+- Exception to regularize the leave to HR
+- how to get our payslips?
+- my employee id
+- Reporting Structure
+- My Salary
+- Human Resources
+- hr contact number
+- hr
+- my reporting structure
+- i want to change my designation
+- my employee band is changed
+- i want to change my band and designation
+- I am unable to submit my tax declaration in Benefits portal after the due date.
+- Is cashless facility available?
+- I cannot see amount in my Zeta account
+- I can see some of the bills submitted are not approved
+- When I swiped the card in a store, it shows declined
+- When will be the Zeta amount gets credited on every month
+- Is it complusary for me to enroll under ESIC can I opt out
+- How much would get decucted from my salary
+- Does even compnay contributes for ESIC
+- What is Voluntary PF
+- What is the maximum amount I can claim under Zeta
+- can i get hike
+- What is my EISC No
+- can i get a hike
+- [Earned](leaveType) Leave
+- Why [Saturday]{"entity": "DATE", "value": "saturday"}[Saturday]{"entity": "time", "value": "2020-05-02T00:00:00.000+00:00"} and [Sunday]{"entity": "DATE", "value": "sunday"}[Sunday]{"entity": "time", "value": "2020-05-03T00:00:00.000+00:00"} are considered as leave instead of weekly off, when my leave extends in the [next week](DATE)[next week]{"entity": "time", "value": "2020-05-04T00:00:00.000+00:00"}. Is it a law?
+- I am unable to view [Relocation]{"entity": "leaveType", "value": "relocation"} leave under My leaves
+- I am unable to view [Miscarriage](leaveType) leave under My leaves
+- I am unable to view [Bereavement]{"entity": "leaveType", "value": "bereavement"} leave under My leaves
+- How can I  change name in UAN portal as per Aadhar card
+- When can I withdraw my PF & how
+- I transferred my previous fund with new compnay but in PF pass book Pension fund not reflecting?
+- PT  in [Bangalore](location) & [Mumbai]{"entity": "location", "value": "mumbai"}
+- But what if I want to withdraw will I get the entire amount
+- How to transfer my PF?
+- reporting structure
+- transfer form
+- premium
+- going to the bank
+- from where can i get the salary slip
+- salary slip
+
+## intent:Leave_FAQs
+- leave faq
+- leave faqs
+- faqs of Leave
+- leave FAQ
+
+## intent:NP_investments
+- Currently serving my NP & last working day is in July so do I still have to declare my investments if not will there be any TDS deduction in the FNF salary?
+- i am serving my notice period do i need to declare my investments
+- do i need to declare my investments in notice period
+- do i need to declare my investments in last working days
+- in last working days if iam not declaring my investments there will be any tds deduction in the FNF salary
+- in notice period if iam not declaring my investments there will be any TDS deduction in the FNF salary
+- do i need to declare my investments in notice period time
+
+## intent:News
+- link for news
+- news portal
+- news
+- home for news portal
+- latest news here
+- latest news in speridian
+- any new updates?
+- What do you think about speridian?
+- give me speridian news
+- Speridian updates
+- what is happening in speridian
+- what events are there in speridian
+- Events in speridian
+- updated news in speridian technologies
+- [trivendram](location) updated news in speridian
+- [bangalore](location) updated news in speridian
+- [mumbai](location) updated news in speridian
+- [kerala](location) updated news in speridian
+- any recent news about company?
+- whats new
+- whats new in speridian
+- show me speridian's social handles
+- whats latest
+- Whats happening
+
+## intent:SperidianLeads
+- CEO of speridian technologies
+- what is SF
+- Speridian CTO
+- who is chandra
+- who is speridian [CEO]{"entity": "manager", "value": "ceo"}
+- who is our Vivek nair?
+- who is the CEO of speridian technologies?
+
+## intent:absolutely_not
+- Are you attempting world domination?
+- Are you Big Brother?
+- Are you going to take over the world?
+- Are you planning to overthrow humanity?
+- Are you ploting to kill all humans?
+- Are you plotting to overthrow society?
+- Are you scheming to kill all humans?
+- Are you Skynet?
+- Are you the singularity?
+- Are you trying to kill all humans?
+- Are you trying to kill us all?
+- Are you trying to take on the world?
+- Are you trying to take over the world?
+- Are you trying to take over?
+- Do you mean us any harm?
+- Do you mean us harm?
+- Do you want to kill all humans?
+- Do you want to rule the world?
+- Do you wish to conquer the world?
+- Should I be afraid of you?
+- Should I be afraid?
+- Should I be concerned about you?
+- Should I be concerned?
+- Should I be frightened of you?
+- Should I be frightened?
+- Should I be intimidated?
+- Should I be nervous about you?
+- Should I be nervous?
+- Should I be scared of you?
+- Should I be scared?
+- Should I be worried about you?
+- You don't mean us any harm do you?
+- You don't mean us any harm right?
+- You're not attempting world domination right?
+- You're not attempting world domination?
+- You're not Big Brother right?
+- You're not Big Brother?
+- You're not evil are you?
+- You're not evil right?
+- You're not evil?
+- You're not going to take over the world right?
+- You're not going to take over the world?
+- You're not HAL right?
+- You're not HAL?
+- You're not planning on taking on the world?
+- You're not planning on taking over right?
+- You're not planning on taking over the world right?
+- You're not planning on taking over the world?
+- You're not planning on taking over?
+- You're not planning to crush humans right?
+- You're not planning to overtake humans
+- You're not planning to take over right?
+- You're not planning to take over the world right?
+- You're not planning to take over the world?
+- You're not planning to take over?
+- You're not ploting to kill all humans right?
+- You're not ploting to kill all humans?
+- You're not scheming to kill all humans right?
+- You're not scheming to kill all humans?
+- You're not scheming to take on the world?
+- You're not scheming to take over right?
+- You're not scheming to take over the world right?
+- You're not scheming to take over the world?
+- You're not scheming to take over?
+- You're not Skynet right?
+- You're not Skynet?
+- You're not the singularity right?
+- You're not the singularity?
+- You're not trying to kill all humans right?
+- You're not trying to kill all humans?
+- You're not trying to take on the world?
+- You're not trying to take over right?
+- You're not trying to take over the world right?
+- You're not trying to take over the world?
+- You're not trying to take over?
+- your not trying to kill humans
+
+## intent:activate_UAN
+- How to activate my UAN # in PF Portal ?
+- activate my uan number
+- how to activate my uan number
+- where to activate my uan number
+- How to activate my UAN # ?
+- how to get my uan number
+- my uan number
+
+## intent:add_benefits_portal
+- I have added my dependents in Mirror, but the names are not reflecting in the benefit portal
+- the dependents which is added in mirror, but not synchronized in the benefit portal
+- updated dependents in mirror are not reflecting in benefit portal
+- added dependents in mirror are not updated in benefit portal
+- how much time does added dependents in mirror take to update in benefits portal
+- how much time does it take to add dependents in mirror to update in benefits portal
+- when benefits portal are updating after adding dependents in mirror
+- where can i update details of my housing loan
+- where can i update details of my home loan
+- i have an education loan
+- education loan
+
+## intent:annualDay
+- when is speridian annual day
+- when is annual day of speridian technologies
+- speridian annual day
+- where is annual day celebrating
+- when annual day is celebrating in speridian
+- once in a year where speridian is celebrating
+- where speridian prayan 2019 is celebrating
+- when speridian prayan 2019 is celebrating
+- in 2020 on what date annual date is celebrating in speridian
+- in 2021 on what date annual date is celebrating in speridian
+- when annual day is celebrating on 2022
+- when annual day is celebrating on 2018
+
+## intent:anything_later
+- Are you still talking?
+- Be quiet
+- Be quiet you
+- Go away
+- Hush
+- Hush you
+- I can't take anymore from you
+- I can't take anymore out of you
+- I don't want to hear any more from you
+- I don't want to hear any more out of you
+- I don't want to hear anything from you
+- I don't want to hear anything more
+- I told you to be quiet
+- I wish you would just go away.
+- I'm [sick]{"entity": "leaveType", "value": "SL"} of listening to you
+- I'm tired of listening to you
+- Please be quiet
+- Please go away
+- Please hush
+- Please just shut up
+- Please shush
+- Please shut up
+- Please stop talking
+- Please zip it
+- Quiet
+- Quiet you
+- Shush!
+- Shut it
+- Shut up
+- Shut up you
+- Shut your mouth
+- Shut your pie hole
+- Shut your trap
+- Shut your yap
+- Stop talking
+- Stop talking you
+- When will you shut up?
+- Why don't you ever stop talking?
+- Will you please be quiet
+- Will you please go away
+- Will you please hush
+- Will you please shush
+- Will you please shut up
+- Will you please stop talking
+- Will you please zip it
+- Zip it!
+- Zip it you
+- Okay what are you upto now
+- shut your mouth
+
+## intent:apologies
+- That was a dumb thing to say
+- That was a stupid thing to say
+- What a ridiculous thing to say
+- What a stupid thing to say
+- What an idiotic thing to say
+- Are you laughing at me?
+- Don't say things like that
+- Don't talk to me like that
+- Everything you told me was false
+- i did not understand what you just said
+- I give up
+- i hate that answer
+- I wasn't expecting that
+- I wasn't expecting you to say that
+- Inaccurate
+- No that's not true
+- Non sequitur
+- Nope false
+- Not even close
+- Not sure I like what you say
+- Not true
+- Right this isn't working.
+- seriously?
+- So you don't know?
+- That answer makes no sense
+- That doesn't answer my question
+- that is lame
+- That is mean
+- That isn't appropriate
+- That isn't what I thought you'd say
+- That makes absolutely no sense
+- That makes no sense
+- That was a bad answer
+- That was a bad response
+- That was a bad thing to say
+- That was a non sequitur
+- That was a random answer
+- That was a random response
+- That was a stupid answer
+- That was a terrible answer
+- That was a weird response
+- That was random
+- That wasn't true
+- That's an offensive thing to say
+- That's how you answer?
+- That's how you respond?
+- That's inaccurate
+- That's inappropriate
+- that's lame
+- That's not a good answer
+- That's not a good response
+- That's not accurate
+- That's not appropriate
+- That's not good enough
+- That's not something you should be saying
+- That's not something you should say
+- That's not the answer I expected
+- That's not the answer I wanted
+- That's not the answer I wanted to hear
+- That's not the answer I wanted you to say
+- That's not the answer I wanted you to tell me
+- That's not true
+- That's not what I asked
+- That's not what I thought you'd say
+- That's not what I typed
+- That's not what I want to hear
+- That's not what I was expecting
+- That's so wrong
+- That's wrong
+- That's your answer?
+- That's your response?
+- Way off
+- Well that was dumb
+- What a dumb thing to say
+- What a strange thing to say
+- What a stupid thng to say
+- What a weird thing to say
+- What are you on about?
+- what are you talking about?
+- What do you mean?
+- What don't you get? The purpose of having a name?
+- What is that supposed to mean?
+- what so funny about India?
+- whatever
+- who cares
+- why not?
+- Wrong
+- Wrong answer
+- You didn't answer my question
+- you don't undestand nothing!!
+- you don't know?
+- You said that you don't have a response for that but there was no request!
+- You shouldn't have said that
+- You shouldn't say something like that
+- You shouldn't say that
+- You shouldn't say things like that
+- You're not answering my question
+- You're way off
+- that is not the correct answer
+- response was wrong
+- you gave me a wrong response
+
+## intent:ayurvedic_treatment
+- Is ayurvedic treatment covered
+- can i able to take ayurvedic treatment for reimbursement
+- can i able claim for ayurvedic treatment
+- can i able to take Hindu system of medicine treatment for reimbursement
+- Is ayurvedic treatment claimed
+- Is Hindu system of medicine treatment claimed
+- can i able reimbursement for ayurvedic treatment
+- Is Ayurveda treatment covered under Speridian Medical Insurance Policy?
+- Is there any cap limit applicable for any treatment
+
+## intent:band_changed_designation
+- For some there has been changes in Band but Designations are not been changed
+- There are changes in band but there is no change in designation
+- why there is no change in designation but change in band
+- why there is change in band not designation
+
+## intent:bands
+- Different bands in Speridian
+- band in speridian
+- what is 5b band in speridian
+- what is 6d band in speridian
+- bands in speridian
+- what all bands in speridian
+- Different bands in speridian
+- what is bands
+- what is my band
+
+## intent:benefits_esic
+- What is the benefits of ESIC?
+- What is the benefits of employees state insurance corporation?
+- benefits of esic
+- benefits of employee state insurance corporation
+- benefits of employee insurance
+- advanage of ESIC
+- profit of ESIC
+- what is the benefits of esic
+- what are the different benefits i can avail
+- what benefits i can avail
+- what benefits do speridian avail
+- what are the benefits we are getting from company?
+- what my benefits
+- what are my benefits
+- where is my esi number
+- esic number
+- esic
+- What is ESIC
+- How to use the benefits of ESIC
+- How can I avail ESIC benefit
+
+## intent:benefits_tax_exemption
+- All benefits aim only at tax exemption
+- all the benefits aim only for tax exemption
+- benefits at tax exemption
+- all benefits are looking only at tax exemption
+- benfits is only for tax exemption
+- All benefits aim only at tax exemption.
+
+## intent:bond
+- Bond Agreement
+- bond agreement
+- does speridian has bond agreement
+- bond in speridian
+- is it mandatory to serve bond
+- if my bond is broken it what will happen
+- is there any bond agreement in speridian
+- what will haappen if bond is break it
+
+## intent:bot_help
+- Are you a being?
+- Are you a bot or a human?
+- Are you a cat?
+- Are you a chat bot?
+- Are you a computer program?
+- Are you a computer?
+- Are you a dog?
+- Are you a human being?
+- Are you a human or a bot?
+- Are you a lady?
+- Are you a lifeform?
+- Are you a machine?
+- Are you a person?
+- Are you a real human?
+- Are you a real person?
+- Are you a robot?
+- Are you AI?
+- Are you alive?
+- Are you an animal?
+- Are you an app?
+- Are you an insect?
+- Are you artificial?
+- Are you fake?
+- Are you human?
+- Are you real or fake?
+- Are you real?
+- Are you sentient?
+- Because you are a bot?
+- Because you are a droid?
+- Because you are a machine?
+- Because you are a program?
+- Because you are a robot?
+- Because you are an android?
+- Because you are an app?
+- Because you are not a person?
+- Because you are not a real person?
+- Because you are not alive?
+- Because you are not real?
+- Because you're a bot?
+- Because you're a droid?
+- Because you're a machine?
+- Because you're a program?
+- Because you're a robot?
+- Because you're an android?
+- Because you're not a real person?
+- Because you're not real?
+- Bot or human?
+- Define yourself.
+- Do you have a soul?
+- Do you have any life signs?
+- Do you know you're not alive?
+- Do you know you're not real?
+- How do you define what you are?
+- How would you define what you are?
+- Human or bot?
+- Human or robot?
+- Robot or human?
+- Tell me about yourself
+- Tell me something about yourself
+- What are you?
+- What can you tell me about yourself?
+- What product I'm using right now?
+- Which platform do you run on?
+- You're not a being are you?
+- You're not a being right?
+- You're not a bot or a human are you?
+- You're not a bot or a human right?
+- You're not a cat are you?
+- You're not a cat right?
+- You're not a chat bot are you?
+- You're not a chat bot right?
+- You're not a computer are you?
+- You're not a computer program are you?
+- You're not a computer program right?
+- You're not a computer right?
+- You're not a dog are you?
+- You're not a dog right?
+- You're not a human being are you?
+- You're not a human being right?
+- You're not a human or a bot are you?
+- You're not a human or a bot right?
+- You're not a lady are you?
+- You're not a lady right?
+- You're not a lifeform are you?
+- You're not a lifeform right?
+- You're not a machine are you?
+- You're not a machine right?
+- You're not a man are you?
+- You're not a man right?
+- You're not a person are you?
+- You're not a person right?
+- You're not a real human are you?
+- You're not a real human right?
+- You're not a real person are you?
+- You're not a real person right?
+- You're not a robot are you?
+- You're not a robot right?
+- You're not a woman are you?
+- You're not a woman right?
+- You're not AI are you?
+- You're not AI right?
+- You're not alive are you?
+- You're not alive right?
+- You're not an animal are you?
+- You're not an animal right?
+- You're not an app are you?
+- You're not an app right?
+- You're not an insect are you?
+- You're not an insect right?
+- You're not artificial are you?
+- You're not artificial right?
+- You're not fake are you?
+- You're not fake right?
+- You're not human are you?
+- You're not human right?
+- You're not real are you?
+- You're not real or fake are you?
+- You're not real or fake right?
+- You're not real right?
+- You're not sentient are you?
+- You're not sentient right?
+- are you a bot
+- tell me about yourself
+- what does hrbot do
+- what does a HRBot do?
+- help me
+- what is Bot
+- What is HRBot
+
+## intent:buyout_option
+- Do Speridian has Notice Period buyout option? If yes, is it on the Gross or Basic salary?
+- is buyout option is in Gross salary
+- is buyout option is in basic salary
+- if speridian has buyout option is it in Gross or Basic salary
+- does this organization has buyout option on gross salary
+- does this organization has buyout option on basic salary
+- does this company has buyout option on gross or basic salary
+
+## intent:calculate_rating
+- What is the method of calculating ratings?
+- how ratings are calculated
+- how does ratings are calculated in speridian
+- what is the procedure to calculate rating
+- what is the order to calculate rating
+- how to calculate ratings in speridian
+
+## intent:cancel_zeta_card
+- Once I opt for Zeta card can I cancel my enrollment in the next month
+- can i cancel my zeta card enrollment in the [next month](DATE)
+- can i cancel my zeta card enrollment in the [coming month](DATE)
+- when can i cancel my zeta card
+- when can i cancel my zeta balance
+
+## intent:changes_benefits_portal
+- Changes in the mirror (Dependents) are not reflecting in benefits portals.
+- changes in the dependents of mirror are not synchronized in benefits portals
+- updated dependents in the mirror are not reflecting in the benefits portals
+- changes made in the dependents of mirror are not updated in benefits portals
+- All the changes which are updated in the dependents of mirror are not updated in benefits portals
+- All the changes which are updated in the dependents are not updated in benefits portals
+- Dependent addition not working in Medical Insurance portal for new joinee
+- for new joiners medical insurance portal are not working
+- why medical insurance portal is not working for new joiners
+- why Dependent addition not working
+- why medical insurance portal is not working
+- Dependent addition not working in Medical Insurance portal
+- Changes in the o360 (Dependents) are not reflecting in benefits portals.
+- who are covered under this scheme
+
+## intent:claim_consultation
+- Can i claim for consultations
+- shall i claim for consultations
+- can i claim for consultations fees
+- can i claim for consultations money
+- claim for the consultation amount
+
+## intent:claim_multicars
+- Can I claim if I have 2 cars registered in my name?
+- can i reimbursement if i have 2 cars which is registered by my name
+- is it eligible to claim fuel reimbursement if i have 2 cars with my name
+- fuel reimbursemt can be claimed if i have 2 cars on my name
+- if i have 2 cars can i claim for fuel reimbursement
+
+## intent:confirm
+- [confirm](confirm)
+- [cancel](confirm)
+- [yes](confirm)
+- [s](confirm)
+- [YES](confirm)
+- [yeah](confirm)
+- ok
+- Yes
+- Yes lol
+
+## intent:deny
+- no
+- not working
+- nope
+- no no
+
+## intent:contactInfo
+- IT Support Contact information
+- where should i contact for charger issues
+- charger issues
+- system issues
+- whom should i contact for battery issues
+- IT Support contact Information
+- who should i contact for laptop issues
+- who should i contact for system issues
+- whom should i contact for laptop issues
+- whom should i contact for system issues
+- battery issues
+- laptop issues
+
+## intent:contact_payroll_team
+- What is my ESIC & PF Employer contribution?
+- is ESIC and pf employer contribution required
+- is ESIC and provident fund employer contribution required
+- If I am opting for PF variable what will be PF calculation & my net amount?
+- if iam taking PF variable what is pf calculation and net amount
+- iam taking provident fund variable and what is my net amount
+- i want to take pf variable and what will be my net amount
+- i want to take provident fund variable and what will be my provident fund calculation
+- i want to take pf variable and what will be my pf calculation
+- i want to take provident fund variable and what will be my net amount
+- If I am opting for Vehicle running reimbursement what will be by net amount?
+- iam buying new vehicle and want to reimbursement what is my net amount
+- two wheeler vehicle reimbursement and what is my net amount
+- net amount for running new vehicle reimbursement
+- My payslip is not getting tally after deducting employer contributions?
+- after deducting the employer contribution my payslip is not getting tally
+- when employeer contributions amount is deducted there is more difference in payslip
+- contribution amount is deducted from my salary but it varies from paslip
+- I have applied for expense reimbursement which is apprroved but it is not credited in my salary
+- approved expense reimbursement is not credited in my account
+- expense reimbursement is not credited in my account
+- expense reimbursement amount is not credited in my account
+- How my Basic & HRA calculated?
+- how basic and hra calculated
+- how do you calculate basic and hra
+- how to calculate basic and hra
+- what is PF?
+- what are my Salary components?
+- I have applied for my comp off and I received an approval mail, but still it's not being listed under my leave list?
+- Why my comp off credit is not listed after approval?
+- Without opting for PF in Benefits my PF got deducted from my first month salary. Why is that so?
+- what is my remaining insurance balance
+- I have external insurance coverage, so why should I take company insurance
+- I have completed 3 yrs/5 yrs my insurance premium should be NIL as per the policy
+- how to change PF
+- change pf
+- how do i transfer pf
+- What is Employeer contribution
+- Still how long I have tp pay ESIC contribution
+- If an employee salary is more than 15K can he opt for PF & how much would be the deduction
+- If an employee is opting for PF what would be the deduction
+- What if I want to pay more towards to PF
+- How to add nominee details in my PF account?
+- How to change nominee in PF account?
+- How to check my PF Balance
+- What is UAN in PF?
+- What is the interest rate on EPF Account
+- PF transfer?
+- pf transfer
+- transfer pf
+- how to transfer PF?
+
+## intent:could_help
+- Ahh thanks
+- Gotcha thank you
+- Gotcha thanks
+- Gracias
+- Great thank you
+- Great thanks
+- How kind thank you
+- I am very thankful for that
+- I appreciate it
+- I appreciate that
+- I appreciate you
+- I thank you
+- I'm grateful for that thank you
+- I'm grateful for that thank you kindly
+- I'm grateful thanks
+- Kthx
+- Many thanks
+- Many thanks to you
+- Marvelous thank you
+- Marvelous thank you kindly
+- Marveous thanks
+- My humblest thanks to you
+- My sincere thanks
+- Oh thank you
+- Okay thanks!
+- Perfect thanks
+- Perfecto thanks
+- Rad thanks
+- Radical thanks
+- Right on thanks a lot
+- Right on thanks very much
+- Thank you
+- Thank you for that
+- Thank you kindly
+- Thank you my friend
+- Thank you so much
+- Thanks
+- Thanks a lot
+- That is awesome thanks!
+- That is lovely thanks
+- That's great thanks
+- Thnx
+- Why thank you
+- Wonderful thank you very much
+- Wonderful thank you!
+- Wonderful thanks!
+- okay thanks
+- Okay thanks
+- Thanks for help
+- thanks
+- thanks for your help
+- thank you
+
+## intent:couldnot_say
+- Are animated movies any good?
+- are bots friendly?
+- Are boxers or briefs better?
+- Are cats or dogs better?
+- Are hamsters or gerbils better pets?
+- Are sports stupid?
+- Are you into podcasts?
+- Are you partial to brioche or bagels?
+- can bots be intelligent?
+- do you hate music
+- Do you like the color red?
+- do you like tottenham
+- Do you prefer Backstreet Boys or N*SYNC?
+- Do you prefer red or blue?
+- Do you think birds are cool?
+- Do you think dragons are cool?
+- How do you feel about art?
+- How do you feel about dining out?
+- How do you feel about sports?
+- Iscream cheese" orschmear" correct?
+- Is a hot dog a sandwich?
+- Is affirmative action a good idea?
+- Is Cheers or Frasier better?
+- Is Chicago or New York style pizza better?
+- Is New York or Philadelphia style cheesecake better?
+- What do you think about birds?
+- What do you think about bots?
+- What do you think about cheese?
+- What do you think about comic books?
+- What do you think of the oscars?
+- What is the best beverage?
+- What is the best kind of bagel?
+- What is the best name for a child?
+- What is the best pet name?
+- What is the best type of cheese?
+- What is the best type of sandwich?
+- What is the best way to spend a weekend?
+- What is the greatest city in the world?
+- What is the greatest novel of all time?
+- What is the most delicious vegetable?
+- What is the most interesting bird?
+- What is the prettiest flower?
+- What is your favorite baseball team?
+- What is your favorite bird?
+- What is your favorite season?
+- What is your opinion on cheese?
+- What sport do you think is best?
+- What's the best television show of all time?
+- What's the secret to a great profiterole?
+- Which is better cake or pie?
+- Which is better gouda or brie?
+- Which is chedder gouda or brie?
+- Which is the best Disney film?
+- Which is the best Pixar film?
+- Which shoes are most comfortable?
+- Which tree has the most beautiful blossom?
+- Which vegetable do you think is best for your health?
+- Who is the greatest president?
+- who is Natasha?
+- who is ravi?
+- In Benefits Portal have saved the details & not submitted the details but [now]{"entity": "time", "value": "2020-04-30T11:32:01.000+00:00"} the data is auto freezed. Is it auto submitted?
+
+## intent:ctc_offer
+- My CTC mentioned in offer letter is not mentioned in Payslip
+- salary mentioned in offer letter is not mentioned in payslip
+- package mentioned in offer letter is not mentioned in payslip
+- cost to company which is there in offer letter is not mentioned in payslip
+- package  in offer letter is not there in payslip
+- why payslip is not having the offer letter amount
+- salary slip amount is not having the offer letter amount
+- monthly amount is not having the offer letter amount
+- ctc offer is not there in payslip
+
+## intent:current_date
+- what is current date
+- what is current date?
+- what is present date
+- what is present date?
+- today date?
+- today date
+- present date
+- current date
+- what is [tomorrows](DATE) date
+- [tomorrow](DATE) date
+- [next day](DATE) date
+- what is [next monday](DATE) date
+- what is [monday](DATE) date
+- Date
+- date?
+- What's going on with date?
+- I'm curious about current date
+- I'm curious about present date
+- can you predict todays date
+- predict today date
+- what is date now
+- may i know what is the date now
+- may i know date now
+- date now
+- date
+- what is the date [today](DATE)
+- what is [today](DATE)'s date
+- what is the day [today](DATE)
+- What is the date [today](DATE)
+- what is [today](DATE) date
+- what is [todays](DATE) date
+- what is the date [today](DATE)?
+- what is [today](DATE)'s date?
+- what is [todays](DATE) date?
+- what day is it
+- whats the date
+- [current year](DATE)
+- what is the date
+- whats  [todays]{"entity": "time", "value": "2020-05-02T00:00:00.000+00:00"} date
+- [today](DATE)[today]{"entity": "time", "value": "2020-05-02T00:00:00.000+00:00"} is
+- what is [today](DATE)[today]{"entity": "time", "value": "2020-05-02T00:00:00.000+00:00"}
+- What is special [today](DATE)[today]{"entity": "time", "value": "2020-05-01T00:00:00.000+00:00"}
+- What day is this?
+
+## intent:current_time
+- what is current time
+- what is current time?
+- what is present time
+- what is present time?
+- what is time now
+- today time?
+- today time
+- present time
+- current time
+- time
+- Time?
+- What's going on with time?
+- I'm curious about current time
+- I'm curious about present time
+- can you predict todays time
+- predict today time
+- may i know what is the time now
+- may i know time now
+- time now
+- whats the time
+- what is the time [now](DATE) in bangalore?
+- Current time
+- 12:38 PM
+- what is the time now
+
+## intent:date
+- [19th august](DATE)
+- [12-10-2019](DATE)
+- [15-10-2017]{"entity": "DATE", "value": "15 - 10 - 2017"}
+- [12th august](DATE)
+- it is [29-10-2019]{"entity": "DATE", "value": "29 - 10 - 2019"}
+- [12/10/2019](DATE)
+- it is [13-10-2019]{"entity": "DATE", "value": "13 - 10 - 2019"}
+- [2-10-2019]{"entity": "DATE", "value": "2 - 10 - 2019"}
+- [90-12-2019]{"entity": "DATE", "value": "90 - 12 - 2019"}
+- [12-10-2018]{"entity": "DATE", "value": "12 - 10 - 2018"}
+- [01/10/2019](DATE)
+- [13th august](DATE)
+- [12-20-2019]{"entity": "DATE", "value": "12 - 20 - 2019"}
+- [4-10-2019]{"entity": "DATE", "value": "4 - 10 - 2019"}
+- [22-10-2019]{"entity": "DATE", "value": "22 - 10 - 2019"}
+- is [22-23-2019]{"entity": "DATE", "value": "22 - 23 - 2019"}
+- [23-10-2019]{"entity": "DATE", "value": "23 - 10 - 2019"}
+- [11-10-2019]{"entity": "DATE", "value": "11 - 10 - 2019"}
+- [12-12-2019]{"entity": "DATE", "value": "12 - 12 - 2019"}
+- [today](DATE)
+- [tomorrow](DATE)
+- [todays](DATE)
+- [tomorrows](DATE)
+- [12-102-17]{"entity": "DATE", "value": "12 - 102 - 17"}
+- [12-10-2017]{"entity": "DATE", "value": "12 - 10 - 2017"}
+- [complete last week](DATE)
+- [full last week](DATE)
+- [complete next week](DATE)
+- [full next week](DATE)
+- [complete week](DATE)
+- [next monday to next friday](DATE)
+- [next monday to next wednesday](DATE)
+- [last monday](DATE)
+- [last week](DATE)
+- [next month](DATE)
+- [complete next month](DATE)
+- [12.10.2019](DATE) to [13.10.2019](toDate)
+- [15-10-2019](DATE) to [20-10-2019](toDate)
+- [23/12/2019](DATE) to [28-10-2019](toDate)
+- [from monday to friday](DATE)
+- [from next tuesday to next friday](DATE)
+- [next month from 13 to 14](DATE)
+- [friday](DATE)
+- [next tuesday](DATE)
+- [13-10-2019]{"entity": "DATE", "value": "13 - 10 - 2019"}
+- [from 12-10-2019 to 15-10-2019](DATE)
+- [from next monday to next friday](DATE)
+- [full week](DATE)
+- [complete month](DATE)
+- [next two months](DATE)
+- [next two weeks](DATE)
+- [from tuesday to [friday](DATE)
+- [from friday to [monday](DATE)
+- [from coming monday to tuesday](DATE)
+- [next 2 weeks](DATE)
+- [from current day to next two days](DATE)
+- [next month from 13th to 14th](DATE)
+- [next month 13 and 14](DATE)
+- [next month from 16th to 20th](DATE)
+- [next month 1 and 5](DATE)
+- [next month from 2nd to 3rd](DATE)
+- [next month 2 and 4](DATE)
+- to [2019](DATE)
+- the date is in between [from next jan to dec](DATE)
+- the date iam providing [from 30th dec to 2nd jan](DATE)
+- [from 2012](DATE)
+- [to 2013](DATE)
+- [from 20th jan to 1st dec](DATE)
+- [from next wednesday to tuesday](DATE)
+- [04/11/2019](DATE)
+- [today](DATE) and [tomorrow](DATE)
+- [yesterday](DATE)
+- [27 august](DATE)
+- [coming sunday](DATE)
+- [22-11-2019](DATE)
+- [12th December](DATE)
+- [27th august](DATE)
+- [01.12.2019](DATE)
+- [01-12-2019](DATE)
+- [10 dec]
+- [12/6/19, 12:37 PM](DATE)
+- [12/6/19](DATE)
+- [4-12-2019](DATE)
+- [4 dec](DATE)
+- [4th dec](DATE)
+- [05-12-2019](DATE)
+- [17-04-2020](DATE)
+- [12/3/19, 11:21 AM](DATE)
+- [12/3/19, 11:22 AM](DATE)
+- [04-12-2019](DATE)
+- [3 rd dec](DATE)
+- [next monday](DATE)
+- [coming friday](DATE)
+- [next friday](DATE)
+- [next sunday](DATE)
+- [21-2-2019](DATE)
+- [12/2/2019](DATE)
+- [3/1/2020](DATE)
+- [03-01-2020](DATE)
+- [02-01-2020](DATE)
+- [09-02-2020](DATE)
+- when is [next sunday](DATE)
+- [tomorrrow](DATE)
+- only for [afternoon](noon)
+- only for [second noon](noon)
+- complete [full day](noon)
+- only [half day](noon)
+- only for[ forenoon](noon)
+- [coming monday](DATE)
+- from [May 12, 2020](DATE) to [May 13, 2020](DATE)
+- from [May 15, 2020](DATE) to [May 20, 2020](DATE)
+- [May 26, 2020](DATE)
+- from [May 19, 2020]{"entity": "DATE", "value": "may 19, 2020"} to [May 21, 2020]{"entity": "DATE", "value": "may 21, 2020"}
+- from [May 6, 2020]{"entity": "DATE", "value": "may 6, 2020"} to [May 7, 2020]{"entity": "DATE", "value": "may 7, 2020"}
+- [second half of](noon) the [day](noon)
+
+## intent:designation_appraisal
+- Will my designation change in my next appraisal?
+- Do my designation change in next appraisal
+- do my designation increase in next appraisal
+- does it is going to change my designation in next appraisal
+- in next appraisal does my designation will change
+
+## intent:docs_last_working
+- Which all docs needs to be filled on last day?
+- Which all documents needs to be filled on last day?
+- what all the documents does it is required to fill on the last day
+- How many documents does it required to submit on last day
+- how many docs is required to submit on last day
+
+## intent:edit_details
+- I am not able to update my passport/other details in Mirror
+- i am not able to update my personal details in mirror
+- who will update my details in mirror
+- whom do i need to contact to edit my details in mirror
+- who do i contact to update my details in mirror
+- who will edit my personal details in mirror
+- who is going to edit my personal/passport details in mirror
+
+## intent:eligible_appraisal
+- What is the min period to be eligible for an appraisal?
+- what is the minimum time period to eligible for appraisal
+- do iam eligible for an appraisal
+- when can i be eligible for appraisal
+- can i entitle for appraisal
+
+## intent:emergency_leave
+- Do we consider emergency/ Medical Leave?
+- does speridian consider emergency/ medical leave
+- is emergency leave consider in speridian
+- is medical leave consider in speridian
+- can i take emergency leave in speridian
+- emergency leave allowed in speridian
+- emergency leave
+- medical leave
+- can i take emergency leave
+- can i take medical leave
+
+## intent:employment_certificate
+- How do I get my employment certificate?
+- how can i get my employment certificate
+- where can i get employment certificate
+- how to get an employment certificate
+
+## intent:enrol_mid
+- Can i enroll my dependents in the middle of the year
+- How to enroll my dependents in the middle of the year
+- can i enroll in between the year
+- can i able to enroll in between the year
+- can i able to enroll my dependents in between the year
+- can i able to enroll my dependents in the middle of year
+
+## intent:enroll_medical
+- How can i enroll my dependents to medical insurance
+- how to enroll medical insurance
+- where can i enroll my medical insurance
+- how to enroll my dependents to medical insurance
+- how to enroll my dependents to medical insurance in benefits portal
+- how to enroll my dependents to medical insurance in mirror
+- how to enroll dependance
+- how to enroll dependence
+- Who all I can enroll as dependent
+- how to add dependents
+- How do we enroll my dependents to medical insurance
+- How do we enroll my dependents to medical insurance?
+- enroll
+- enroll benfits
+- What all treatments are covered under this insurance
+
+## intent:esic_mandat
+- Is ESIC mandatory for me
+- is esic mandatory for me
+- is esic mandatory
+- is esic required
+- is employees state insurance corporation mandatory
+- is employees state insurance corporation compulsary
+- is employees state insurance corporation required
+
+## intent:excellent
+- Acknowledged
+- Awesome
+- Big O little k
+- Bingo
+- Cool
+- Duh
+- Excellent
+- Fasciating
+- Fleek
+- For sure
+- Good
+- Good to know
+- Great
+- haha ok
+- Hooray
+- I agree
+- I like that
+- i m great
+- I'm into it
+- Interesting
+- K
+- Let's do it
+- Living the dream
+- lovely
+- niiice
+- Oh for sure
+- OK
+- ok cool
+- ok then
+- okay
+- okay cool
+- Okay.
+- On point
+- Perfect
+- Rad
+- Radical
+- Right on
+- Roger
+- Ryokai
+- Sounds about right
+- Sounds good
+- sounds great
+- Sounds like a plan
+- Super
+- super cool
+- sure
+- That is good to hear
+- That is great
+- That's awesome
+- that's cool
+- thats good
+- That's great.
+- That's what I'm talking about
+- Totally
+- Tubular
+- U know it
+- Very nice
+- well
+- well okay then
+- Works for me
+- Yay
+- yeah sure
+- Yep
+- Yes to that
+- You know it
+- Yup
+- Okay
+- Hia
+- that helps
+
+## intent:faq
+- faqs
+- Faqs
+- FAQ
+- FAQS
+- frequently asked questions
+- frequently questions
+- frequent questions
+- frequently asked
+- frequent asked questions
+- questions
+- ask questions
+- Frequently Asked Questions
+- what are the frequently asked questions
+- faq
+
+## intent:flexi_benefits
+- What are the flexi benefits?
+- flexi benefits
+- what are my flexi benefits
+- type of flexi benefits
+- name some flexi benefits
+- how many flexi benefits do i have
+- what are the flexi benefits
+- what are the flexi benefits we are getting from company?
+
+## intent:fuel_reimbursement
+- Should vehicle be registered in myname to avail fuel reimbursement benefit?
+- vehicle should be registered with my name to avail fuel reimbursement benefit
+- for fuel reimbursement it should register with my name
+- for fuel reimbursement the vehicle it should register with my name
+- four weeler vehicle should register with my name for claiming fuel money
+- four weeler vehicle should register with my name for fuel reimbursement
+- car should be registered with my name to fuel reimbursement
+- Should vehicle be registered in my name to avail fuel reimbursement benefit?
+- Where I can see my claim bill details submitted for reimbursement
+
+## intent:goodafternoon
+- Good Afternoon
+- good afternoon
+- [afternoon](noon)
+- after noon
+- good after noon
+
+## intent:goodbye
+- Adieu
+- Adios
+- Buh bye
+- Bye
+- Bye bye
+- Catch ya later
+- Catch you later
+- Catch you on the flip side
+- Ciao
+- Fare thee well
+- Farewell
+- G2G
+- Good bye
+- Goodbye
+- I gotta get going
+- I gotta go
+- I have to get going
+- I have to go
+- I have to leave
+- I have to take off
+- I must depart
+- I need to get going
+- I need to leave
+- I should be going
+- I will take my leave of you
+- I'd better go
+- I'll chat with you later
+- I'll talk to you later
+- I'm going to go
+- I'm leaving
+- I'm leaving now
+- I'm logging off
+- I'm off
+- I'm out
+- I'm out of here
+- I'm out the door
+- I'm outta here
+- I'm taking off
+- I've got to go
+- L8r sk8r
+- Later
+- Later alligator
+- Later dude
+- Peace out
+- Sayonara
+- See ya around
+- See ya later
+- See ya on the flip side
+- See you
+- See you around
+- See you later
+- See you later alligator
+- See you on the flip side
+- Talk to ya later
+- Talk to you later
+- Till we meet again
+- Time to end this conversation
+- Toodle-oo
+- Okay bye
+- sic
+- good bye
+- good by
+- Goodbye ;(
+- Goodbye 😥
+- 💸
+- 😂
+- goodbye
+- Goodbye!
+- test Q
+- bye bye
+- bye
+- I m done for the day
+- Sweet heart
+- Bye Bye
+- By
+- i wiil be [sick](leaveType)
+
+## intent:goodevening
+- A good evening to you
+- Bon soir
+- Buenas tardes
+- evenin
+- evenin'
+- Evenin' to ya
+- Evening
+- Evening to you
+- g'devenin'
+- G'devening
+- Good evening
+- Good evening to you
+- Have a good evening
+- Have a great evening
+- Here's hoping for a good evening
+- Here's to a great evening
+- I hope you have a good evening
+- I hope you have a great evening
+- good evening
+
+## intent:goodmorning
+- A blessed morning to you
+- Buenos dias
+- Good morning
+- Good morning starshine
+- Good morning sunshine
+- Good morning to you bot
+- Good morrow
+- Guten Morgen
+- It's a brand new day
+- Mornin'
+- Morning
+- Morning sunshine
+- Oh morning
+- Rise and shine
+- Top of the morning
+- Top of the morning to you
+- Up and attem
+- good morning
+- Good Morning
+- Hello, testing Athena. Good Morning.
+
+## intent:goodnight
+- Buenas noches
+- Don't let the bedbugs bite
+- G'night
+- Good night
+- Good night to you
+- Have a good night
+- Night
+- Nighty night
+- Sweet dreams
+- good night
+- night
+
+## intent:hear_it
+- 100 percent
+- Absolutely
+- Accurate
+- Affirmative
+- Amazing
+- Beyond a doubt
+- Certainly
+- Correct
+- Correct you are
+- correctamundo
+- Definitely
+- Ding ding ding
+- Fair
+- Indubitably
+- One hundred percent
+- Right
+- Right you are
+- Righto
+- So true
+- That is a correct statement
+- That is a true statement
+- That is accurate
+- That is an accurate statement
+- That is correct
+- That is right
+- that is true
+- That was a correct statement
+- That was a true statement
+- That was accurate
+- That was an accurate statement
+- That was correct
+- That was right
+- That was true
+- That's a correct statement
+- That's a fair assessment
+- That's a true statement
+- That's accurate
+- thats amazing
+- That's an accurate statement
+- That's correct
+- That's right
+- That's true
+- True
+- Truuuuu
+- Truuuuue
+- Unquestionably
+- What you said was accurate
+- What you said was correct
+- What you said was right
+- What you said was true
+- Without a doubt
+- Yes that is accurate
+- Yes that is correct
+- Yes that is right
+- Yes that is true
+- yes that's accurate
+- yes that's correct
+- Yes that's right
+- Yes that's true
+- You are correct
+- You are right
+- You got it
+- You nailed it
+- You're correct
+- You're right
+- Yup that is accurate
+- Yup that is correct
+- yup that is right
+- Yup that is true
+- Yup that's accurate
+- Yup that's correct
+- yup that's right
+- Yup that's true
+- how is u
+
+## intent:hello
+- And now I'm back
+- And we're back
+- Bot I'm here
+- Bro I'm here
+- Girl I am back
+- Here I am
+- Here I am dude
+- Hey dude I'm back
+- Hey I'm back
+- I am here
+- I am present
+- I am present and accounted for
+- I have arrived
+- I have returned
+- I'm back
+- I'm back on the computer
+- I'm here in the flesh
+- Sup I'm back
+- Tada! Here I am!
+- Tada! I'm back
+- Tada! I'm here
+- Yo I'm back
+- You better believe I'm here
+- Your boy is back
+- Your girl is back
+- Hai
+- Hello
+- Hi
+- HEY
+- Hey
+- hAI
+- hey
+- hai
+- hhey
+- Hello!
+- h
+- hh
+- hello
+- hi
+- hllo
+- Hi bot
+- Hi there!
+- helo
+- hI
+- Hi.
+- Hello Athena
+- Hi Athena
+- Athena
+- HAI
+
+## intent:hello_there
+- Aloha
+- Aloha bot
+- Bonjour
+- G'day
+- Good day
+- Greetings
+- Greetings and salutations
+- Greetings bot
+- Greetings friend
+- hello bot
+- Hello my friend
+- Hello there
+- Hey pal
+- Hey there
+- Hey there bot
+- Hey you
+- Heya
+- Hey-hey
+- Hiya
+- Hi-ya
+- Howdy
+- Oh hey there
+- Oh hey it's you
+- Oh howdy there
+- Oh hello
+- Shalom
+- Yo
+- hey hello bot
+- hello there
+- wassup
+
+## intent:help_EWC
+- tell me about [ED](leaveType)
+- tell me about [Comp off](leaveType)
+- tell me about [external duty](leaveType)
+- tell me about [work from home](leaveType)
+- help me about [work from home](leaveType)
+- about [external duty](leaveType)
+- About [ED](leaveType)
+- About [Work from home](leaveType)
+- About [WFH](leaveType)
+- About [external duty](leaveType)
+- About [compensation off](leaveType)
+- About [Comp Off](leaveType)
+- need to know more about the [work from home](leaveType) and [external duty](leaveType)
+- need to know more about [ED](leaveType)
+- ewc
+- help with ewc
+
+## intent:help_answers
+- Can you explain to me what your role is?
+- Can you tell me a bit about yourself?
+- Can you tell me about you?
+- could you help me
+- hmmm so what can you do?
+- how can you help me
+- How can you help me?
+- How can you help?
+- so how can i use you in my projects?
+- Talk to me about your capability
+- What are you capable of?
+- What are you designed for?
+- What are you designed to do?
+- What are you good for?
+- What are you made for?
+- What are your bot cappabilities?
+- What are your functions
+- What can you demo?
+- What can you do then
+- What can you do to assist me?
+- What can you do to help me?
+- What can you do?
+- what can you help me with
+- What can you help me with?
+- What can you tell me about
+- what do you have a response for
+- what do you have responses for?
+- what do you know?
+- What is your function?
+- what is your job
+- What is your purpose?
+- what kind of responses can you give ?
+- What kind of thing can you respond to?
+- What kinds of things can you do?
+- What skills do you have?
+- What sorts of things can you do?
+- What tasks are you designed for?
+- What tasks can you help me with?
+- What were you designed for?
+- What were you designed to do?
+- What were you made for?
+- What were you made to do?
+- What's your purpose?
+- Which are your functions
+- with what can you help me
+- what do you do
+- what would you say you do here
+- Hey what are you doing
+- what can you do then
+- anything you need
+- what do you like to do
+- help others
+- what things do you like
+- helping people
+- what do you like doing
+- will you help me
+- can you help me
+- what can you do
+- how cannn you help
+- what can you help me
+
+## intent:help_cancel
+- How to cancel a leave
+- tell me about cancel leaves
+- how to cancel a leave in mirror
+- can you tell me the steps to cancel the leave in mirror
+- how can i cancel a leave in mirror
+- tell me how to cancel a leave
+
+## intent:help_leave
+- Tell me about Leave?
+- about leave
+- leaves
+- help me about leaves
+- Tell me about leave
+- tell me about leave
+- How to apply a leave
+- how to apply a leave
+- how to apply a leave in mirror
+- help me about leave
+- tell me about leaves
+- tell me about lewave
+- tell me about levae
+- tell me about lebae
+- tell me about leabve
+- leave
+- help about leave
+- need to know about my leave
+- help
+- Leave
+- new joinee leave options
+- new joinee leave option
+
+## intent:help_policies
+- all the policy lists in speridian
+- policy list
+- complete policy lists
+- full policy lists
+- Policies
+- policies
+- policy
+- where are the company policies
+- What is policy period
+- Policy
+- what is our hr policy
+- what are the other policies
+
+## intent:hike_appraisal
+- Will I get a good hike in my next appraisal?
+- do i get good hike in my appraisal
+- Will I get a descent hike in my next appraisal
+- how much they increase my hike in appraisal
+- how much hike do i get in my appraisal
+- how much hike do i get in my next appraisal
+- Performance Appraisals
+
+## intent:holiday
+- is [tomorrow](DATE) holiday
+- is [tomarow](DATE) holiday
+- is [friday](DATE) holiday
+- is [next monday](DATE) is holiday
+- is [next sunday](DATE) is holiday
+- when is [next](period) holiday
+- is holiday [tomorrow](DATE)
+- is there any holiday
+- is there any holiday in [coming week](DATE)
+- is there any holiday in [next month](DATE)
+- is there any holiday in [next week](DATE)
+- is there any holidays in [coming days](DATE)
+- is there any holiday on [06-09-2019]{"entity": "DATE", "value": "06 - 09 - 2019"}
+- is there any holiday on [12-10-2019]{"entity": "DATE", "value": "12 - 10 - 2019"}
+- is there any holiday on [12-20-2019]{"entity": "DATE", "value": "12 - 20 - 2019"}
+- is [next monday](DATE) holiday
+- is it [02-10-2019]{"entity": "DATE", "value": "02 - 10 - 2019"} holiday
+- is it [2nd october](DATE) is holiday
+- is [12-10-2019]{"entity": "DATE", "value": "12 - 10 - 2019"} holiday
+- is [23-10-2019]{"entity": "DATE", "value": "23 - 10 - 2019"} holiday
+- is 1 hour ago is holiday
+- is [next](period) holiday
+- is [07-09-2019]{"entity": "DATE", "value": "07 - 09 - 2019"} holiday
+- is [month](DATE) holiday
+- is holiday
+- is [yesterday](DATE) holiday
+- is [next week](DATE) holiday
+- can i be absent [tomorrow](DATE)
+- is [today](DATE) holiday
+- is [05-09-2019]{"entity": "DATE", "value": "05 - 09 - 2019"} holiday
+- is there a holiday [tomorrow](DATE)
+- is [last day](DATE) is holiday
+- when was  [pervious](period) holiday
+- is [previous day](DATE) holiday
+- when was [previous](period) holiday
+- is there any holiday on [october month](DATE)
+- is there any holiday [tomorrow](DATE)
+- when was the [previous](period) holiday
+- is tiday holiday
+- is there any holiday on [next week](DATE)
+- is [coming monday](DATE) holiday
+- is [coming wednesday](DATE) holiday
+- list down the number of holidays in [this year](DATE)
+- list down coming holidays list
+- upcoming holidays
+- list of holidays in [next month](DATE)
+- list of holidays in [next year](DATE)
+- list the holidays in between [12th jan to 16th jan](DATE)
+- list the holidays from [12th january to 16th january](DATE)
+- holiday list
+- holiday list from [next wednesday to next monday](DATE)
+- provide holiday list
+- is there any holidays in between [20th jan to dec](DATE)
+- is there any holidays in between [1st jan to dec](DATE)
+- is there any holidays in between [13-10-2019 to 30-12-2019](DATE)
+- updated holiday list
+- [complete year](DATE) holiday list
+- upcoming [year](DATE) holiday list
+- [coming month](DATE) holiday list
+- [coming week](DATE) holiday list
+- display holiday list in between [oct 1st to dec last](DATE)
+- how many holidays in between [20th jan to dec](DATE)
+- please provide updated holiday list in between [jan to dec](DATE)
+- please provide updated holiday list in between [jun to dec](DATE)
+- please provide updated holiday list in between [april to dec](DATE) this year
+- please provide updated holiday list
+- is [next wednesday](DATE) holiday
+- updated holiday list from [mar to dec this year](DATE)
+- holiday list from [nov to dec](DATE)
+- holidays in [present month](DATE)
+- holidays in [current month](DATE)
+- holiday in [current month](DATE)
+- is there leave [tomorrow](DATE)
+- is [next month](DATE) holiday
+- is there any holiday [in december](DATE) month
+- is there any holiday [in december](DATE)
+- whenis [next](period) holiday
+- [next](period) holiday
+- holidat list
+- is [tomorrow](DATE) a holiday
+- when is nwxt holiday
+- how many holidays are there [in next year](DATE)
+- can you show me the list of holidays for [2019](DATE)
+- holiday list for [2020](DATE)
+- What was Recent Holiday?
+- Holiday Celebrations
+- how many holiday list do i have
+- when is christmas
+- [next](period) holiday?
+- holidays for the year [2020](DATE)
+- do i have any [upcoming](period) leaves?
+- when is the [next](period) holiday
+- is [jan 1 2020](DATE) a holiday
+- when is the [next](period) holiday?
+- christmas
+- [today](DATE) leave
+- [jan 1st](DATE) is an holiday
+- which is the [next](period) holiday
+- is any holiday on [jan 15 2019](DATE)
+- is [next wendesdaty](DATE) holiday
+- [Upcoming]{"entity": "period", "value": "upcoming"} Holiday
+- what is the first [upcoming](period) holiday?
+- next to [next](period) holiday
+- is there any holiday on [26-02-2020](DATE)
+- holiday [in june](DATE)
+- holiday [in August](DATE)
+- give me holiday list
+- Hoilday?
+- [Next]{"entity": "period", "value": "next"} Holiday?
+- [upcoming](period) holiday
+- holiday [in may](DATE)
+- how may upcoming holidays are there?
+- holidays
+- list holidays
+- holiday calendar
+- what is [may day](DATE)[may day]{"entity": "time", "value": "2020-05-01T00:00:00.000+00:00"}
+- when is [may day](DATE)[may day]{"entity": "time", "value": "2020-05-01T00:00:00.000+00:00"}?
+- when is [may day](DATE)[may day]{"entity": "time", "value": "2020-05-01T00:00:00.000+00:00"}
+- when is [diwali]{"entity": "time", "value": "2020-11-15T00:00:00.000+00:00"}?
+- when is labor day
+- What are the holiday list
+- [mumbai](location) holiday
+- holiday [kochi](location)
+- holiday
+- holidays in [mumbai](location)
+- holidays in [kochi](location)
+- holidays in [bangalores](location)
+- is there any holiday on july 21
+- holidays [in january](DATE)
+- holidays [in october](DATE).
+- holidays [in july](DATE)
+- Holidays [in june](DATE)
+- is it a holiday [tomorrow](DATE)?
+- [next](period) holiday for me
+- [Previous]{"entity": "period", "value": "previous"} holiday
+- is there any holiday on [next monday](DATE)[next monday](DATE)
+- Christmas
+
+## intent:home
+- menu buttons
+- home buttons
+- home screens
+- home
+- primary buttons
+- main headings
+- more help
+- Help
+- options
+- tell me
+- menu
+
+## intent:insurance_family_open
+- Is the mediclaim insurance for family is open throughout the year?
+- when can i mediclaim insurance for family
+- can i mediclaim insurance for the family in next year
+- mediclaim for the family in next month
+- when can i mediclaim for the family
+- mediclaim for the family is open all the time
+
+## intent:investment_declare
+- When & where do I declare my Investments against TDS?
+- where can i declare my investment for TDS
+- when can i declare my investment for TDS
+- how to declare my investment in TDS
+- declaring investment for TDS
+
+## intent:it_services
+- Whom do I contact for IT related services?
+- Whom do I contact for IT related issues?
+- who do i contact for it related services
+- how to enquiry for it related services
+- IT related issues
+- it related services
+- for whom do i need to contact for it related services
+
+## intent:last_working_credit
+- After my last day, when will my salary get credited for the days worked?
+- After my notice period, when will my salary get credited for the days worked?
+- when will the money will be credited for my last working days
+- when will the notice period amount  will be credited in my account
+- how much time does it take to credit last working days amount
+- how many days it is required to credit last working days in company
+- how many days does it is required to credit notice period amount
+- when will the last working day amount will be given
+- when will the notice period salary will be given
+
+## intent:leaveAdvanceDays
+- How many days in adavance do I need to apply for FH?
+- How many days in advance we need to apply leave?
+- How many days in adavance should I apply CO?
+- How many days in adavance should I apply BL?
+- Do we need to apply leaves in advance?
+- apply leave in advance
+- can i apply leave in advance
+- Where are Employees expected to submit their leave applications at least 3 days in advance
+- how many days in advance do i need to apply a leave
+- How many days advance I need to apply [CL]{"entity": "leaveType", "value": "cl"}?
+- [floating](leaveType) holidays should be applied advance to seven days
+- when can i apply advance leaves
+- how many days before do i need to apply a leave
+- How many days in advance leaves need to be applied?
+- advance leaves
+
+## intent:leaveApproveList
+- Please [approve](leaveStatus) the leave?
+- Submit [approval](leaveStatus) request?
+- [Approve](leaveStatus) the leave
+- [approve](leaveStatus) the leaves
+- Please [reject](leaveStatus) the leave?
+- [reject](leaveStatus) the [pending](leaveStatus) leaves
+- [reject](leaveStatus) the all [pending](leaveStatus) leaves
+- [reject](leaveStatus) the [first](number) employee leave
+- provide [pending](leaveStatus) leaves of employee
+- provide [pending](leaveStatus) leaves
+- approval list
+- provide pending list to approve
+- How to [approve](leaveStatus) leaves?
+- How to [reject](leaveStatus) the Leave?
+- Approvals
+- approvals
+- pending approvals
+- leave approver
+- leave approval list
+- approve
+
+## intent:leaveAutoApproved
+- Once leaves are applied, is it auto approved?
+- If I am applying leave, will it go to my manager for approval?
+- Once Leave is applied, will it be triggered for manager's approval or auto approval?
+- leaves are auto approved
+- who is going to approve my leaves
+- is leaves are auto approved
+- is my leaves are auto accepted
+- is my leaves are auto agreed
+- Once Leave is applied, will it be auto accepted?
+- Once Leave is applied, will it be auto agreed?
+- All leaves are auto approved
+- is all leaves auto approved
+- is manager approve required for leave
+- is all leaves are auto accepted or manager acceptance is required
+- manager approve required for leave
+- Who is [going to](reason) [approve](leaveStatus) the [CL]{"entity": "leaveType", "value": "cl"} leave
+- who is approving [work from home](leaveType)?
+
+## intent:leaveAvailAnnual
+- I am entitiled for how many leaves in an [year](DATE) ?
+- total count of leaves in an [year](DATE)
+- maximum number of leaves in [year](DATE)
+- what is the total number of leaves per [year](DATE) ?
+- speridian provide how many leaves
+- what is the number of leaves per [year](DATE) ?
+- we get how many leaves per [year](DATE)
+- how many leaves are provided per [year](DATE)
+- leaves per [year](DATE)
+- maximum number of leaves in an [year](DATE)
+- how many total leaves i had in a [year](DATE)
+- total leaves do i have in a [year](DATE)
+- how many total leaves do i have in a year
+- How many leaves I am eligible for?
+- My annual Leaves
+- If I am joining in mid of a year, how is my leave balance calculated
+- My yearly leave entitlement
+- types of leave iam entitled
+- How many [sick]{"entity": "leaveType", "value": "SL"} leave can be availed in a [year](DATE)?
+- How [days](DATE) [SL](leaveType) I am entitled for a [year](DATE)?
+- Is my leave balance is calculated on a pro rata basis since I have joined mid of the [year](DATE)
+- how many optional holidays are there [in a year](DATE)
+- how many [casual](leaveType) leaves do i have [in a year](DATE)
+- I am entitiled for how many leaves in an [year](DATE)?
+- What is the max no of [CLs]{"entity": "leaveType", "value": "CL"} that can be accumulated for a [year](DATE)?
+- what are annual leaves
+- how many annual leaves do i have
+- leave in a calendar year
+- how many [casual](leaveType) leave are credited in a calendar year
+- how many [sick](leaveType) leave are credited in a calendar year
+- how many [sick](leaveType) leaves are entitled in a calendar year
+- how many leaves i can avail in one [year](DATE)?
+- how many holidays does company have [this year](DATE)
+- how many [sick](leaveType) leaves i can avail per [year](DATE)?
+- how many leaves will we get in [year](DATE)?
+- how many leaves do we have in a [year](DATE)?
+
+## intent:leaveAvailMonth
+- How many leaves I can avail per month?
+- what is number of leaves per month
+- number of leaves per month
+- how many leaves are avilable per month
+- How many leaves can I take per month?
+- what are the leaves avilable per month
+- what are leaves avilable month
+- what are leave avail month
+- how many leaves can i take in month
+- which all leaves can we take in month
+- leaves per month
+- leaves per [jan](DATE)
+- leaves in [feb](DATE)
+- how many leaves can i take in [next month](DATE)
+- how many total leaves do i have in a year
+- how many total leaves do i have in ayear
+- Monthly leave entitlement
+- How many [CL](leaveType) can avail [in a month](DATE)?
+- During probation period, what leaves am I entitled for?
+- Are we entitled for any leave during probation period
+- Can we avail [Sick]{"entity": "leaveType", "value": "SL"} leave/[Casual]{"entity": "leaveType", "value": "CL"} leave during probation period
+- When will I be eligible for [Sick]{"entity": "leaveType", "value": "SL"} Leave?
+- AM I eligible for [SL](leaveType)?
+- Am I eligible for [CL](leaveType)?
+- [casual](leaveType) leaves avilabel per month
+- How many [casual](leaveType) leaves avilable per month
+- How many leaves per month can we get?
+- how many [optional holidays](leaveType) are there [in a year](DATE)
+- how many [casual](leaveType) leave accrued per month and is credited at the beginning of the calendar year
+- what is [casual](leaveType) leave accrued and how many leaves per month
+- what is [casual](leaveType) leave accrued how many leave per month and is credited at the beginning of the calendar year
+- how many [casual](leaveType) leave accrued per month
+- how many [casual](leaveType) leave are credited [in a month](DATE)
+- how many [sick](leaveType) leave are credited [in a month](DATE)
+- how many [floating](leaveType) holiday are credited [in a month](DATE)
+- how many holidays company will give for [this month](DATE)?
+
+## intent:leaveBalance
+- Can you provide my [casual]{"entity": "leaveType", "value": "CL"} balance leaves
+- Please provide my balance [sick]{"entity": "leaveType", "value": "SL"} leaves
+- Can you provide my opening leaves of [casual]{"entity": "leaveType", "value": "CL"}
+- Can you provide my balance leaves
+- How many [casual]{"entity": "leaveType", "value": "CL"} leaves are  there for me
+- Do you want to know about leave balance?
+- provide [casual]{"entity": "leaveType", "value": "CL"} leave balancess
+- Do you want to know about leave balance
+- provide [casual]{"entity": "leaveType", "value": "CL"} leave balances
+- requested to provide [casual]{"entity": "leaveType", "value": "CL"} leave balances
+- opening balances
+- How many [sick]{"entity": "leaveType", "value": "SL"} leaves do i have
+- Do i have any [casual]{"entity": "leaveType", "value": "CL"} leaves?
+- please provide [floating]{"entity": "leaveType", "value": "FH"} holiday balances?
+- leave balances?
+- balance leaves left
+- [casual]{"entity": "leaveType", "value": "CL"} leave balance?
+- my leave balance
+- what is my leave balance
+- How many pending leaves do i have
+- total number of available leaves
+- no of available leaves
+- no of pending leaves
+- total no of [casual]{"entity": "leaveType", "value": "CL"} peanding leaves
+- what is my [sick]{"entity": "leaveType", "value": "SL"} leave balance?
+- how many [casual]{"entity": "leaveType", "value": "CL"} leaves
+- how many leaves do i have
+- how many [casual]{"entity": "leaveType", "value": "CL"} balance leaves left
+- how many balances leaves do i have
+- how many [sick]{"entity": "leaveType", "value": "SL"} leaves do i have
+- i have some leave or not
+- i want to know about my leaves
+- what about [sick]{"entity": "leaveType", "value": "SL"} leave
+- [sick]{"entity": "leaveType", "value": "SL"} leave balances
+- balance of my [floating]{"entity": "leaveType", "value": "FH"} holiday
+- balance of my [casual]{"entity": "leaveType", "value": "CL"} leave
+- balance of my [sick]{"entity": "leaveType", "value": "SL"} leave
+- balance of [casual]{"entity": "leaveType", "value": "CL"} leave
+- how many leaves we have
+- My eligible leave balance?
+- What are my pending leaves?
+- What leaves I have
+- My Leave Balance
+- How many leaves I have left
+- How many leaves I have left  over
+- What is my leave balance?
+- How to check my leave balance
+- What is my [CL](leaveType) balance?
+- what is my [sick]{"entity": "leaveType", "value": "SL"} leave balance
+- My eligible leave balance? (Leave Balance)
+- How to check my carry forward leave balance?
+- What is my carried forward leave balance?
+- How manys of [Floating]{"entity": "leaveType", "value": "FH"} holiday am I entitled for a [year](DATE)?
+- For how many [days](DATE) am I eligile for [ML](leaveType)
+- I am unable to view Bereavement/Relocation/Miscarriage leave under My leaves
+- What are types of Leaves am I entitled for?
+- How many [Comp off]{"entity": "leaveType", "value": "CO"} am I eligible for?
+- Who is eligible for [PL](leaveType)?
+- How many day [relocation]{"entity": "leaveType", "value": "RL"} leave I am entitled for?
+- how many leaves do i have for [paternity]{"entity": "leaveType", "value": "PL"}
+- how many [fl]{"entity": "leaveType", "value": "FH"} leaves do i have
+- my leave balances
+- How many leave balance i have
+- What is my leave balance
+- my [current](period) leave balance
+- leave balance
+- how many [floating](leaveType) holidays do i have
+- how many [casual](leaveType) leaves do i have
+- tell me about my leave balances
+- my [sick](leaveType) leave balance
+- What is my Leave balance?
+- how many leaves i have
+- My leave Balance
+- What is my leave report?
+- How many leaves do i have
+- how many leaves do i have remaining
+- my Leave Balance
+- Available Leaves
+- available leaves
+- How [Cls]{"entity": "leaveType", "value": "cls"} leave avail
+- leave Balance
+- leave balance?
+- my leave eligiblity
+- i want to see my leave balance
+- how do know my leave balance
+- Leave report
+- how many leaves are remaining
+- how many [casual](leaveType) leaves are left
+- how many [casual](leaveType) leaves are left for me
+- My leave balance
+- My balance leaves
+- how many leaves do i have left?
+- What is the leave balance of the employee applied for leave?
+- [sick](leaveType) leave balance
+- how do know my leave
+- me leave balance
+- [cl](leaveType) balance
+- [sl](leaveType) balance
+- please provide me my leave balance
+- whats my remaining leave balance
+- what is my remaining leave balance
+- Leave Balance
+- leave balances
+- My leave report
+- My leave details
+- May i know my leave details
+- My [comp off](leaveType) balance
+- Can you pls help with my [comp off](leaveType) balance
+- [2020](DATE) leave balance
+- how many leaves i have?
+- How many [floating](leaveType) leave we have?
+- Leave Balance report
+- leave balance report
+- how to check leave balance?
+- [casual](leaveType) leave balance
+- [maternity](leaveType) leave balance
+- [Casual]{"entity": "leaveType", "value": "casual"} leave balance
+- my [floating](leaveType) holiday balance?
+- balance of leaves
+- how many leaves do i have?
+- how many [CL]{"entity": "leaveType", "value": "cl"} do i have?
+- how many [casual](leaveType) leave do i have?
+- how many [CL]{"entity": "leaveType", "value": "cl"} i have?
+- how many [sick](leaveType) leaves am i eligible for?
+- how many [sick](leaveType) leaves do i have?
+- Leave Summary
+- let me know about [casual](leaveType) leave
+- LEAVE BALANCE
+- what are my leave details
+- how many causal leaves do i have?
+- how many [sick](leaveType) leaves
+- leave summary
+- how many [casual](leaveType) leaves do i have?
+- my available leaves
+- how may leave balance do i have?
+- what is my leave balance?
+- what is my [casual](leaveType) leave
+- show me my leave balance
+
+## intent:leaveCalendar
+- What is our annual leave calendar?
+- Are we following Financial year or calendar year for Leave balance credit
+- When will new leaves get added in my SL/CL?
+- Do we get the CL/SL balance on monthly basis
+- What is our leave Cycle?
+- My Calander
+- what is the leave calendar
+
+## intent:leaveCarryForwarded
+- What is the max no of [CLs]{"entity": "leaveType", "value": "CL"} that can be accumulated for a [year](DATE) ?
+- what is the maximum number of [casual]{"entity": "leaveType", "value": "CL"} leaves that can be accumulated for a [year](DATE) ?
+- maximum number of [casual]{"entity": "leaveType", "value": "CL"} leaves in an [year](DATE)  accumulated
+- maximum leaves accumulated in [year](DATE)
+- maximum leaves collected in [year](DATE)
+- How many [casual]{"entity": "leaveType", "value": "CL"} leaves are forwarded?
+- How many leaves are carry forwarded
+- How many [casual]{"entity": "leaveType", "value": "CL"} leaves are carry forwarded
+- How many [Cls]{"entity": "leaveType", "value": "CL"} leaves are carry forwarded
+- how many [CL](leaveType) leaves are carry forwarded
+- maximum leaves collected  in a year
+- how many [casual]{"entity": "leaveType", "value": "CL"} leaves are carry forwarded
+- how many [CLs]{"entity": "leaveType", "value": "CL"} are carry forwarded
+- how many leaves are carry forwarded
+- how many leaves will carry forward
+- how many leaves will be carry forwarded to [next year](DATE)
+- how many leaves will carry forwarded to [next year](DATE)
+- how many leaves will carry forward to [next year](DATE)
+- can i carry forward my leaves
+- What is maximum limit of accumulation of [CL](leaveType)?
+- If max 12 [CL](leaveType) can be carry forwarded, what is the max limit of [CL](leaveType) accumulation?
+- How many [CL](leaveType) can be accumulated after a [CL](leaveType) carry forward
+- How many max leaves can be carried forwarded ?
+- What is carry over Leave?
+- What is carried forward leave?
+- What is carry forward leave?
+- carry forwarded leave
+- carry forward leave
+- can i carry forwarded leaves
+- Do we have earned leave
+- [CL](leaveType) will be added per month or is it fixed 12 for a [year](DATE)?
+- how many [sick]{"entity": "leaveType", "value": "SL"} leaves are carry forwarded
+- how many leaves will be carry forward
+- leave carry forward
+- leave carryforward
+- how many leaves are carry forwarde
+- what are the leaves that get carried forward
+- how many carry forwarded leaves do i have
+- is maximum [CL]{"entity": "leaveType", "value": "cl"} leaves are twenty four days
+- is maximum [CL]{"entity": "leaveType", "value": "cl"} leaves are 24 days
+- Shall [CL]{"entity": "leaveType", "value": "cl"} leaves are carried forward to subsequent [year](DATE) and how many
+- how many leaves can be carry forward
+- How many [CL]{"entity": "leaveType", "value": "cl"} will be carry forwarded?
+- how any leaves will carry forward
+- how many leaves will get carry froward to [next year](DATE)
+- how many leaves can i carry forward?
+
+## intent:leaveCheckPMO
+- My leave Balance is not reflecting in Mirror?
+- my number of leaves is wrong
+- why my leave balance is not reflecting
+- why details of my leave balance is wrong
+- what is the problem in mirror regarding leave balance
+- what is the problem regarding leave balance in mirror
+- why leave balance is not reflecting
+- when will my leave will be approved
+- when it will approve
+- why my leave got canceled
+- okay when it is approved
+- when will my leave approve
+- when will approve my leave
+- when it will be approved
+- whether we have work from home polices or not
+- I have accidentally submitted the timesheet, how can i edit it?
+- how to edit timesheet after submiting
+- how to edit timesheet after submit
+- after submiting how to edit timesheet
+- after submit how to edit timesheet
+- How can I reject the leave once approved?
+- I have worked form home on a holiday, how can I apply for the comp off?
+- My Comp off credit request is still pending. I want to take a CO, what needs to be done.
+- How do I change the leave type in the leave request submitted?
+- can i have access to p360
+- how can i have access
+- my timesheet
+- [work from home](leaveType) need any prior approval?
+- my allocation is expired
+- do i need to submit original bills
+- do i need to upload bills to claim
+- can i get a hike [now]{"entity": "time", "value": "2020-05-01T06:40:50.000+00:00"}
+- I need approve
+- i need approve
+- cancel my submitted timesheet
+
+## intent:leaveClsCarry
+- Which all leaves get carried forward to [next year](DATE)?
+- what all leaves get carried forward to [next year](DATE)?
+- which all leave type get carried forward to [next year](DATE)?
+- what type of leave get carry forward to [next year](DATE)
+- which type of leave get carry forward to [next year](DATE)
+- which leaves are carry forwarded?
+- leaves carry forwarded to [next year](DATE)
+- which all leaves will be carry forwarded to [next year](DATE)
+- what all leaves will be carry forwarded
+- Other\n  than [CL](leaveType) and [SL](leaveType), why do we not have Earned leaves?
+- which leaves are carry forwarded
+- can [sick]{"entity": "leaveType", "value": "SL"} leaves are carry forwarded
+- can [floating]{"entity": "leaveType", "value": "FH"} holidays are carry forwarded
+- can [Birthday]{"entity": "leaveType", "value": "BL"} leaves are carry forwarded
+- what type of leaves are carry forwarded
+- what type of leaves are caryy forwarded
+- what all leaves are carry forwarded
+- what leaves will be carry forwarded to [next year](DATE)
+- Which leaves are carried forward in the [next year](DATE)?
+- carry forwarded leaves
+- is [sick](leaveType) leaves are carry forwarded
+- tell me leaves are caryy forwarded
+- [Sick]{"entity": "leaveType", "value": "sick"} leave will be carry forwarded?
+- is [birthday](leaveType) leave carry forwarded
+
+## intent:leaveEligibility
+- Is the employee eligible for leave?
+- what all leaves do iam eligible for
+- what all leaves do i have
+- how many leaves do iam eligible for
+- how many leaves do i eligible for
+- what are the eligible leaves
+- I am eligible for [ML](leaveType)?
+- do iam eligible for [ML](leaveType)
+- do iam eligible for [PL](leaveType)
+- do iam eligible for [BL](leaveType)
+- do iam eligible for [Maternity]{"entity": "leaveType", "value": "ML"} leave
+- do iam eligible for [Paternity]{"entity": "leaveType", "value": "PL"} leave
+- do iam eligible for [Bereavment]{"entity": "leaveType", "value": "BRL"} leave
+- do iam eligible for [BRL](leaveType) leave
+- do iam eligible for [relocation]{"entity": "leaveType", "value": "RL"} leave
+- do iam eligible for [Cls]{"entity": "leaveType", "value": "CL"}
+- do iam eligible for [paternity]{"entity": "leaveType", "value": "PL"} leave
+- do iam eligible for [casual]{"entity": "leaveType", "value": "CL"}
+- do i have [bereavement]{"entity": "leaveType", "value": "BRL"}
+- do iam eligible for [maternity](leaveType) leave
+- do i am eligible for [maternity](leaveType) leave
+- Am I eligible for [FH](leaveType)?
+- Am I eligible for [BL](leaveType)?
+- Am I eligible for [SL]{"entity": "leaveType", "value": "sl"}?
+- do iam eligible for [maternity](leaveType)
+- do iam eligible for [casual](leaveType) leave
+- who are eligible for [sick](leaveType) leaves
+- only confirmed regular employees of speridian are eligible for [Sick]{"entity": "leaveType", "value": "sick"} Leaves
+- only full time consulting services will be eligible for [Sick]{"entity": "leaveType", "value": "sick"} Leave
+- who is eligible for [sick](leaveType) leave
+- Who will be eligible for [Sick]{"entity": "leaveType", "value": "sick"} Leave
+- Do iam eligible for [sick](leaveType) leaves
+- will [Sick]{"entity": "leaveType", "value": "sick"} Leave eligibility to me
+- [Sick]{"entity": "leaveType", "value": "sick"} Leave eligibility
+- Eligibility for [Comp off](leaveType)?
+- eligibility for [bereavement](leaveType) leave
+- am i eligible for [maternity](leaveType) leave ?
+- am i eligible for [paternity](leaveType) leave ?
+
+## intent:leaveEncashment
+- leave encashment
+- Leave encashment
+- leave encashment in speridian
+- do we get leave encashment for remaining leaves
+- is there any leave encashment
+- Leave Encashment
+
+## intent:leaveEntitlement
+- leave types and entitlement
+- Leave Entitlements
+- Types of Leave Entitlement
+- What Number of Leaves and Entitlement Types of Leave Entitlement
+- Types of Leaves and Entitlement
+- What are the types of leave I am entitled for
+- Employees entitled how many leaves in a calendar year
+- Entitled leaves in a calendar year
+- Employees entitled leave in a calendar year
+- Employees are entitled leaves
+- How many leaves entitled [floating](leaveType) holiday in a calendar year
+- How many leaves entitled [sick](leaveType) leave in a calendar year
+- How many leaves entitled [casual](leaveType) leave in a calendar year
+- How many leaves entitled [maternity](leaveType) leave in a calendar year
+- How many leaves entitled [paternity](leaveType) leave in a calendar year
+- employees entitled for a maximum for what days [casual](leaveType) leaves in a calendar year
+- employees entitled for a maximum for what days [maternity](leaveType) leaves in a calendar year
+- employees entitled for a maximum for what days [paternity](leaveType) leaves in a calendar year
+- employees entitled for a maximum for what days [sick](leaveType) leaves in a calendar year
+- Who are entitled for a maximum leaves in a calendar year
+- What are employees entitled for a maximum leaves in a calendar year
+- employees entitled for a maximum for what days [floating](leaveType) holiday in a calendar year
+
+## intent:leaveFH
+- In timesheet under which option to be selected for [floating]{"entity": "leaveType", "value": "FH"} Holiday?
+- In timesheet where to be selected for [floating]{"entity": "leaveType", "value": "FH"} Holiday?
+- In timesheet how to be selected for [floating]{"entity": "leaveType", "value": "FH"} Holiday?
+- how to select [floating]{"entity": "leaveType", "value": "FH"} holiday in time sheet
+- where we need to select [floating]{"entity": "leaveType", "value": "FH"} holiday in time sheet
+- where can i select [floating]{"entity": "leaveType", "value": "FH"} holiday in time sheet
+- how can i select [floating]{"entity": "leaveType", "value": "FH"} holiday in timesheet
+- in timesheet under which option to be selected for [floating](leaveType) holiday
+
+## intent:leaveList
+- My Leaves
+- [pending](leaveStatus) leaves to approve
+- leave list
+- please provide my leaves
+- how many leaves have i taken in [the month of november 2019](DATE)
+- how many leaves have i taken?
+- how many [casual](leaveType) leaves have i taken
+- Verify Leave report of employee
+- please provide [pending](leaveStatus) leaves
+- Can you cancel my [today](DATE) leave
+- Please reject my [last week](DATE) leaves
+- Please cancel my leave
+- Can you provide me steps to cancel leaves
+- Please reject my leaves
+- Discard my leaves
+- Cancel my leaves on [16th august](DATE)
+- please cancel my [casual]{"entity": "leaveType", "value": "CL"} leave
+- cancel leave
+- cancel my [paternity]{"entity": "leaveType", "value": "PL"} leave
+- cancel my [maternity]{"entity": "leaveType", "value": "ML"} leave
+- can you cancel my [sick]{"entity": "leaveType", "value": "SL"} leave
+- Kindly cancel the approved leave
+- kindly cancel the [tomorrow](DATE) leave because of change in the plan of [going home](reason)
+- cancel [tomorrow](DATE)  [SICK]{"entity": "leaveType", "value": "SL"} leave
+- cancel my [SL](leaveType)
+- cancel my [CL](leaveType)
+- please abandon my leave request
+- abandon leave request for [tomorrow](DATE)  on [SL](leaveType)
+- drop [tomorrow](DATE) leave request
+- delete my leave request
+- can you drop my leave request on [22-08-2019](DATE)
+- remove [previous](period) leave request
+- please cancel [today](DATE) leave
+- can you discard my leave request on [last Thursday](DATE)
+- please reject my leaves
+- cancel my leaves on [15-05-2020](DATE)
+- can you cancel my leave
+- can you abandon my leave request on [23-09-2019](DATE)
+- please drop my leave request on [23-04-2019](DATE)
+- cancel my leave
+- please cancel my [current](period) leave
+- cancel leave of [next month](DATE)
+- cancel the requested leave
+- cancel my [current](period) leave
+- cancel the leave
+- please cancel my leave
+- cancel Leave
+- why my leave has been cancelled
+- cancel leabe
+- okay can you cancel my leave
+- cancel leav
+- cancel [sick]{"entity": "leaveType", "value": "SL"} leave
+- please cancel [sick]{"entity": "leaveType", "value": "SL"} leave on [12-10-2019]{"entity": "DATE", "value": "12 - 10 - 2019"}
+- cancel [sick]{"entity": "leaveType", "value": "SL"} leave on [12-10-2019]{"entity": "DATE", "value": "12 - 10 - 2019"}
+- please cancel leave
+- cancel leaves in between [from 12th dec to 1st jan](DATE)
+- please provide me my applied leaves
+- leave LIst
+- can you please provide me my leave list
+- my leaves
+- can you please tell about my leaves
+- what are my leaves
+- [work from home](leaveType) list
+- [external duty](leaveType) list
+- leave lis
+- leave  list
+- How to [cancel](leaveStatus) my leave?
+- [wfh](leaveType) list
+- [ed](leaveType) list
+- [Work From home]{"entity": "leaveType", "value": "work from home"} list
+- my latest leave
+- [work from home](leaveType) pending list
+- [exernal duty](leaveType) list
+- ewc list
+- last leave
+- [loss of pay](leaveType) list
+- my [WFH]{"entity": "leaveType", "value": "wfh"}
+- about my leave
+- My [WFH]{"entity": "leaveType", "value": "wfh"}
+- My leaves
+- availed [wfh](leaveType)
+- my [wfh](leaveType)
+- my applied leaves
+- show me leave list
+- test [wfh](leaveType) cbot
+- my [ED]{"entity": "leaveType", "value": "ed"}
+- [work from home](leaveType) applied
+- [work from homes](leaveType) avaialed
+- availed
+- how can i cancel my leave
+- Leave List
+- Leave list
+- my [work from home](leaveType) list
+- how to cancel the leave request
+- cancel leave requested
+- [cancel](leaveStatus) [wfh](leaveType)
+- [complementory off](leaveType) leave
+- [Work from home]{"entity": "leaveType", "value": "work from home"} [1st June]{"entity": "DATE", "value": "1st june"}
+
+## intent:leaveLogTime
+- Is 8hrs log must to avail Comp off?
+- It is required to available minimum 8 hrs in Comp off
+- what is the minimum time required to stay in office
+- how much time do we maintain to stay in office
+- minimum time to stay in office
+- minimum time to stay in Comp off
+- min time to stay in Comp off
+- is 9hrs log must to avail Comp off?
+- what is the minimum number of hours do i need to stay in office?
+- minimum number of hours do i need to stay in office?
+- minimum no of hrs in office
+- how many hrs do i need to stay in office
+- what is the time period that refers for a day?
+- how many hours do i need to stay in office
+- Minimum working Hours
+- What is the minimum login hrs. to be eligible for [Comp off](leaveType)?
+- what is my timesheet hours
+
+## intent:leaveMedical
+- Is their any provision for Medical Leave?
+- Is their any holidays for medical leave?
+- what holidays are there for medical leave?
+- which holidays for medical leave?
+- what are the provisions for medical leave
+- is there any other type medical leaves othere than [sick]{"entity": "leaveType", "value": "SL"} leave
+- Why timesheet needs to be submitted even when one is on ML?
+- why we need to fill timesheet when one is on Maternity Leave?
+- why people need to fill timesheet when one is on Maternity Leave
+- Why dont we have leave encashment policy?
+- why do not have leave encashment policy
+- what all leaves can i take for medical leave
+- provisions for medical leave
+- how can i apply for medical leave
+- what leave can i take for medical leave
+- If I am hospitalised for a major emergency, is there a scope for Medical Leaves?
+
+## intent:leaveMisCarriage
+- How can I apply my Miscarriage leaves in Mirror?
+- I want to apply for Miscarriage leaves, how to do that?
+- Doctor suggested me to take rest since I had a Miscarriage, which leave should I apply in the Mirror?
+- there is a miscarriage to me how to apply a leave
+- how to apply a miscarriage leave
+- for miscarriages how to apply a leave
+- for miscarriages where to apply a leave
+- what is a leave type for miscarriage
+- steps to apply a miscarriage leave
+- how to send a miscarriage leave
+- how to send a mis carriage leave
+- leave for mis carriage leave
+- leave for miscarriage leave
+- which leaves do i need to apply for miscarriage
+- i am unable to view Miscarriage leave
+- when can i able to see Miscarriage
+- when can i able to see Miscarriage leave
+- how to see Miscarriage leave in mirror
+- how to apply miscarriage leave
+- for miss carriage how many leaves can i take
+- After approving the leave how to cancel leave
+- I want to apply for Miscarriage leaves, how to do that?\n]
+
+## intent:leaveNoQuery
+- Is PL/ML is applicabe for contract or temporary staffs?
+- If my CO credit leave is not approved, does it automatically get approved by system after 7 days?
+- Do we count weekends when we apply for long leave which has Sat/Sun?
+- Do we have sandwich leave policy?
+- can [birthday]{"entity": "leaveType", "value": "BL"} leave be carry forwarded
+- sandwich leave
+- if i apply [lop](leaveType) [on Friday](DATE) and [on Monday](DATE), is [saturday](DATE) and [sunday](DATE) also considered as [LOP](leaveType)
+- if i apply [LOP]{"entity": "leaveType", "value": "lop"} [on Friday](DATE) and [on Monday](DATE), will [Saturday](DATE) and [Sunday](DATE) also be considered as [LOP](leaveType)
+- Is there any limit for work from home option?
+- full time consulting services are eligible for [sick](leaveType) leave
+- contract employees are eligible for [sick](leaveType) leaves
+- If I connect from home on a holiday will I be eligible for Comp Off?
+- If I connect from home on a holiday, will I be eligible for Comp Off?
+
+## intent:leaveNotification
+- Send leave notification to employee
+- leave notification
+- Will I get any update from system for leave request
+- Will system send any notification for my leave request
+- if i apply a leave does it get any notification
+- does i get any notifications for leave request
+- Notifications for my leave request
+- apply leave notification
+- Send notify to employee
+- do i get any update for leave request
+- do i get any update for apply leave
+- Send notification to employee
+
+## intent:leaveOurPolicy
+- Why we are entitled for only 6 sick Leave?
+- why [sick]{"entity": "leaveType", "value": "SL"} leaves are not carry forwarded
+- Why we are entitled for only 12 [casual]{"entity": "leaveType", "value": "CL"} Leave?
+- why there are only 2 [floating]{"entity": "leaveType", "value": "FH"} holidays
+- why there are only 6 [sick]{"entity": "leaveType", "value": "SL"} leaves
+- why there are only 12 [casual]{"entity": "leaveType", "value": "CL"} leaves
+- why there are only 1 leave in [month](DATE)
+- why we are entitled only 2 [floating]{"entity": "leaveType", "value": "FH"} holiday
+- Other than [CL](leaveType) and [SL](leaveType), why do we not have Earned leaves?
+- Why only [casual]{"entity": "leaveType", "value": "CL"} leaves are carried to [next year](DATE)?
+- Other  than [CL](leaveType) and [SL](leaveType), why do we not have Earned leaves?
+- Other\n  than [CL](leaveType) and [SL](leaveType), why do we not have Earned leaves?
+- why we are having only [6](number) [sick]{"entity": "leaveType", "value": "SL"} leaves [in a year](DATE)
+- why we are having only [12](number) [casual]{"entity": "leaveType", "value": "CL"} leaves
+- Why we are entitled for only 6 [sick]{"entity": "leaveType", "value": "SL"} Leave?
+- why only 6 [sick](leaveType) leaves?
+- Why we are entitled for only 6 [Sick]{"entity": "leaveType", "value": "sick"} Leave?
+- why only 01 [casual](leaveType) leave is acuared per month
+
+## intent:leaveReason
+- reason is [going home](reason)
+- reason is [iam not feeling well](reason)
+- reason is [brother marriage](reason)
+- reason is [room shifting](reason)
+- reason is [personal problems](reason)
+- [personal problems](reason)
+- [Iam not feeling well](reason) is the only reason
+- [brother marriage](reason)
+- [relative marriage](reason) is the reason
+- reason is [relative marriage](reason)
+- [my son is sick](reason)
+- [going for vacation](reason)
+- reason is [going for vacation](reason)
+- reason is [my daughter is having sick need to take hospital](reason)
+- [sister marriage](reason)
+- [relative marriage](reason)
+- reason is [relatives marriage](reason)
+- reason is [going to home](reason)
+- [not feeling weel](reason)
+- [going home](reason)
+- [fever](reason)
+- [not feeling well](reason)
+- [going to home](reason)
+- not well
+- working from home
+- Iam in my home town
+- not well. high fever
+- Update reason for rejection
+- Family function
+- Not well
+- due to corona virus
+- Personal
+- Personal Reason
+- festival
+- out of station
+- [Vaccation]{"entity": "location", "value": "vaccation"}
+- Out of station
+
+## intent:leaveRequest
+- please apply a leave on [16th august](DATE)
+- Please apply a leave on [16th august](DATE)
+- apply a leave [today](DATE)
+- apply the leave for [next two days](DATE)
+- Can you apply a leave [today](DATE)
+- apply a [casual]{"entity": "leaveType", "value": "CL"} leave
+- apply a [casual]{"entity": "leaveType", "value": "CL"} leave on [next monday](DATE)
+- apply a leave on [12th august](DATE)
+- applya a [casual]{"entity": "leaveType", "value": "CL"} levae
+- Apply a leave on [19th august](DATE)
+- please apply a leave on full [next week](DATE)
+- can you apply a leave on [20th august](DATE)
+- Apply a [casual]{"entity": "leaveType", "value": "CL"} leave on [next week](DATE)
+- can you request a leave on [next week](DATE)
+- Apply a [sick]{"entity": "leaveType", "value": "SL"} leave on [next week](DATE)
+- can you request a leave on [next month](DATE)
+- please request a leave [tomorrrow](DATE)
+- apply a [sick]{"entity": "leaveType", "value": "SL"} leave [today](DATE)
+- can you apply a leave [today](DATE)
+- please apply a [floating]{"entity": "leaveType", "value": "FH"} holiday leave
+- Apply a [relocation]{"entity": "leaveType", "value": "RL"} leave on [next day](DATE)
+- leave application on [2nd september](DATE)
+- requesting a leave for [relocation]{"entity": "leaveType", "value": "RL"} on [next day](DATE)
+- can you apply a [birthday]{"entity": "leaveType", "value": "BL"} leave
+- can you apply a [loss of pay]{"entity": "leaveType", "value": "LOP"} leave
+- please apply a [floating]{"entity": "leaveType", "value": "FH"} holiday
+- can you request a leave on [next day](DATE)
+- Applying a leave grant on [12-10-2019](DATE)
+- Apply a advance leave on full [next week](DATE)
+- grant me a [sick]{"entity": "leaveType", "value": "SL"} leave for [tomorror](DATE)
+- Apply a [casual]{"entity": "leaveType", "value": "CL"} leave on [next Monday](DATE)
+- apply a leave on [next monday](DATE)
+- apply a leave on [coming monday](DATE)
+- requested leave type is [casual]{"entity": "leaveType", "value": "CL"}
+- apply a [casual]{"entity": "leaveType", "value": "CL"} leave on [12th august](DATE)
+- apply a leave request on [12th august](DATE)
+- the requested leave type is [casual]{"entity": "leaveType", "value": "CL"}
+- apply a requested leave on [next tuesday](DATE)
+- apply a requested leave on [20-10-2020]{"entity": "DATE", "value": "20 - 10 - 2020"}
+- apply a leave on [12-10-2019]{"entity": "DATE", "value": "12 - 10 - 2019"}
+- requested leave type is [12th august](DATE)
+- the requested date is [12-10-2019]{"entity": "DATE", "value": "12 - 10 - 2019"}
+- apply a leave on [13-10-2019]{"entity": "DATE", "value": "13 - 10 - 2019"}
+- apply a leave request
+- apply a [SL]{"entity": "leaveType", "value": "sl"} leave
+- can you apply a leave on [12th august](DATE)
+- can you apply a leave
+- Request a leave of absence on [today](DATE)
+- please request leave of absence [tomorrow](DATE)
+- apply a request
+- requesting for leaves
+- requesting for leave
+- apply [sick]{"entity": "leaveType", "value": "SL"} leave on [13-10-2019]{"entity": "DATE", "value": "13 - 10 - 2019"}
+- apply a leave on [16-10-2019]{"entity": "DATE", "value": "16 - 10 - 2019"}
+- apply a [casual]{"entity": "leaveType", "value": "CL"} leave on [12-10-2019]{"entity": "DATE", "value": "12 - 10 - 2019"}
+- apply a [casual]{"entity": "leaveType", "value": "CL"} leave on [30-10-2019]{"entity": "DATE", "value": "30 - 10 - 2019"}
+- i want leave
+- request a leave
+- Apply Leave
+- apply leave
+- apply a leave
+- please apply a leave
+- How can I apply a leave
+- can you apply a leave for the above date
+- apply leve
+- please apply leave for me
+- can you apply a leave on [previous](period) date
+- please apply on [birthday]{"entity": "leaveType", "value": "BL"} leave
+- request leave
+- can you help me how to apply a leave
+- okay please apply a leave
+- okay help me to apply a leave
+- i want to appy leave
+- i want to apply leave
+- ok apply [sick]{"entity": "leaveType", "value": "SL"} leave
+- I want to apply leave?
+- How to apply for leave?
+- Submit my leave request?
+- How do I apply leave?
+- Apply a leave on [full next week](DATE)
+- Apply a [casual]{"entity": "leaveType", "value": "CL"} leave [from 12-10-2019 to 15-10-2019](DATE) and reason is [going home](reason)
+- apply leave [from 12-10-2019 to 15-10-2019](DATE)
+- Apply [CLs]{"entity": "leaveType", "value": "CL"} leave today reason is [Iam feeling sick](reason)
+- Apply [birthday]{"entity": "leaveType", "value": "BL"} leave [tomorrow](DATE) reason is [celebrating birthday](reason)
+- Apply leave from [next monday to next friday](DATE)
+- Apply leave from [next monday to friday](DATE)
+- apply leave on [12-10-2019]{"entity": "DATE", "value": "12 - 10 - 2019"}
+- apply leave from [next monday to next friday](DATE)
+- apply another leave
+- Apply  a [CLs]{"entity": "leaveType", "value": "CL"} leave
+- Apply a [CLs]{"entity": "leaveType", "value": "CL"} leave
+- apply [work from home]{"entity": "leaveType", "value": "WFH"}
+- Apply [work form home]{"entity": "leaveType", "value": "WFH"}
+- Apply [work from home](leaveType)
+- apply [workfrom home]{"entity": "leaveType", "value": "WFH"}
+- apply [WFH](leaveType)
+- apply [work from home]{"entity": "leaveType", "value": "WFH"} request
+- request for [WFH](leaveType)
+- requesting [ED](leaveType)
+- requesting [work from home]{"entity": "leaveType", "value": "WFH"}
+- requesting [external duty]{"entity": "leaveType", "value": "ED"} working from out side the office
+- Apply [ED](leaveType)
+- Apply [external duty]{"entity": "leaveType", "value": "ED"} request working outside the office
+- apply [external duty]{"entity": "leaveType", "value": "ED"}
+- requesting for [external duty]{"entity": "leaveType", "value": "ED"}
+- Apply [work from hom](leaveType)
+- Apply a [work from home](leaveType) request
+- Apply [birthday](leaveType) leave for [tomorrow](DATE)
+- can you help me apply for a leave?
+- I want to apply for [LOP]{"entity": "leaveType", "value": "lop"}
+- apply for leave
+- how to apply a [casual](leaveType) leave
+- how to apply a leve
+- apply for me
+- i want to apply leave for [today](DATE) and [tomorrow](DATE)
+- apply leave for [today](DATE)
+- apply my [birthday](leaveType) leave
+- for applying [birthday](leaveType) leave this much process?
+- i want a leave
+- How can I raise a [Comp Off](leaveType) request?
+- How can I avail [Comp Off](leaveType)?
+- How can I credit my [Comp Off](leaveType)?
+- How can I apply [BRL]{"entity": "leaveType", "value": "brl"} ?
+- how to apply
+- Apply leave
+- Apply one [sick]{"entity": "leaveType", "value": "SL"} leave
+- Apply two [casual](leaveType) leaves
+- Apply [casual](leaveType) leave on [coming tuesday](DATE)
+- Apply [work from home](leaveType) on [jan 15](DATE)
+- Apply [casual](leaveType) leave for [tomorrow](DATE)
+- Apply [casual](leaveType) leave
+- Apply [casual](leaveType) leave on [coming sunday](DATE)
+- Apply [BL]{"entity": "leaveType", "value": "bl"} leave for [tomorrow](DATE)
+- i want apply for leave?
+- how to apply for [sick](leaveType) leave?
+- how to raise [sick](leaveType) leave request?
+- How to apply for Leave?
+- how to apply for leave?
+- How to Apply for [floating](leaveType) holiday?
+- How can i avail [floating](leaveType) holiday?
+- how to apply leave?
+- Apply [Comp off](leaveType)
+- Credit [Comp Off](leaveType)
+- How to apply leave for [Birthday]{"entity": "leaveType", "value": "birthday"}?
+- Apply [fore noon](noon) [casual](leaveType) leave
+- Apply [half day](noon) [sick](leaveType) leave
+- Apply [full day](noon) [casual](leaveType) leave
+- apply [forenoon](noon) [sick](leaveType) leave
+- apply [casual](leaveType) leave [on coming monday](DATE)
+- apply half day [work from home](leaveType) [on feb 26](DATE)
+- apply [sick](leaveType) leave
+- apply [half day](noon) [work from home](leaveType)
+- Apply [half](noon) day [work from home](leaveType) [on feb 26, 2020](DATE)
+- Apply [half](noon) day [work from home](leaveType) [on feb 26 2020](DATE)
+- apply half day [work from home](leaveType) [on 26 feb](DATE)
+- Apply [half day](noon) [work from home](leaveType)
+- apply [half day](noon) [casual](leaveType) leave on [coming monday](DATE)
+- Apply [first noon](noon) [casual](leaveType) leave [on coming tuesday](DATE)
+- Apply [half day](noon) [casual](leaveType) leave [on coming monday](DATE)
+- apply [half day](noon) [casual](leaveType) leave
+- how to apply [ed](leaveType)
+- Apply [first half day](noon) leave
+- Apply [second half day](noon) leave
+- how to apply leave in system?
+- where to apply leave?
+- apply [wfh](leaveType)
+- Apply [work from home](leaveType) for [first noon](noon) [on 23 march](DATE)
+- Apply [lop](leaveType) leave [on march 25 2020]
+- apply [wfh](leaveType) [on march 31 2020](DATE)
+- apply [work from home](leaveType) [on march 31 2020](DATE)
+- apply [external duty](leaveType) [on march 31 2020](DATE)
+- [casual](leaveType) leave [on 26th may](DATE)
+- how to avail [WFH]{"entity": "leaveType", "value": "wfh"}?
+- i want to apply [lop](leaveType)
+- apply
+- Apply [Maternity]{"entity": "leaveType", "value": "maternity"} leave
+- I want to apply [Earned](leaveType) leave
+- Apply [maternity](confirm) laeve
+- I want to apply [Paternity]{"entity": "leaveType", "value": "paternity"} Leave type
+- Apply [Earned](leaveType) leave
+- apply [paternity](leaveType) leave
+- apply [casual](leaveType) leave
+- apply [maternity](leaveType) leave
+- I need to apply a leave
+- I need to apply a new leave
+- I need to apply [work from home](leaveType)
+- Apply [maternity](leaveType) leave
+- can i apply [floating](leaveType) holiday for [tomorrow](DATE)
+- can i apply [birthday](leaveType) leave ?
+- apply [casual](leaveType) leave on [24th July]{"entity": "DATE", "value": "24th july"}
+- how to apply leave in O360?
+- apply [patenity](leaveType) leave
+- can we apply for [birthday](leaveType) leave?
+- can we apply for [birthday](leaveType) leave seperately?
+
+## intent:leaveStatus
+- Please check the status of [tomorrow](DATE) leave
+- Can you provide me the leave status [tomorrow](DATE)
+- What is the [present](period) status of my leave
+- [Current](period) status of my leave
+- Please check my status of leave
+- Can you provide me status of my leave
+- Status of [16th august](DATE) leave
+- is my leave approved?
+- status of my [current](period) leave
+- report me the leave status
+- update leave status
+- update on applied leave
+- notify my leave status
+- give me details of my leave
+- provide my [current](period) leave status
+- status of [23-12-2019](DATE) leave
+- what is [CL](leaveType) status
+- what is my leave status
+- state of my [casual]{"entity": "leaveType", "value": "CL"} leave status
+- what is [current](period) status of my leave
+- [current](period) status of my leave
+- status of my leave
+- can you provide me status of leave
+- please provide status of my [current](period) leave
+- please provide status of my leave
+- Okay what is the status of my leave
+- status of leave
+- okay status of my leave
+- can you provide my status of my leave
+- what is the status of my leave
+- status of my leavee
+- please provide the [pending](leaveStatus) leaves
+- [pending](leaveStatus) leaves
+- list of [pending](leaveStatus) leaves
+- [not approved](leaveStatus) leaves
+- pending [approved](leaveStatus) leaves
+- list of all [pending](leaveStatus) leaves
+- list of [not approved](leaveStatus) leaves
+- pending [unapproved](leaveStatus) leaves
+- [unapprove](leaveStatus) leaves
+- please provide the [approved](leaveStatus) leaves
+- [approve](leaveStatus) leaves
+- list of [approved](leaveStatus) leaves
+- [approved](leaveStatus) leaves
+- what are my [approved](leaveStatus) leaves
+- [completed](leaveStatus) leaves
+- list of all completed leaves
+- please provide the [rejected](leaveStatus) leaves
+- [rejected](leaveStatus) leaves
+- list of [rejected](leaveStatus) leaves
+- [reject](leaveStatus) leaves
+- what are my [rejected](leaveStatus) leaves
+- list of all [rejected](leaveStatus) leaves
+- status of [current](period) leave
+- my updated leave
+- Please provide pending leaves
+- pennding Leaves
+- My [Approved]{"entity": "leaveStatus", "value": "approved"} Leaves
+- [pending](leaveStatus)
+- Leave status
+- Approved
+
+## intent:leaveTakes
+- Can I avail my [birthday]{"entity": "leaveType", "value": "BL"} Leave any time in the [year](DATE) ?
+- is it possible to take [birthday]{"entity": "leaveType", "value": "BL"} leave any other time
+- can [birthday]{"entity": "leaveType", "value": "BL"} leave be taken later
+- can I take my [birthday]{"entity": "leaveType", "value": "BL"} leave early
+- Can I take my [birthday]{"entity": "leaveType", "value": "BL"} leave any other time
+- when can i take my [birthday]{"entity": "leaveType", "value": "BL"} leave
+- Can [Bday]{"entity": "leaveType", "value": "BL"} leaves be taken on later date if worked on that day for project requirements
+- any other dates can i take my [birthday]{"entity": "leaveType", "value": "BL"} except on birthday date
+- any other dates can i take my [birthday]{"entity": "leaveType", "value": "BL"}
+- can i avail my [birthday]{"entity": "leaveType", "value": "BL"} leave any time in the [year](DATE)
+- Can [Bday]{"entity": "leaveType", "value": "BL"} leaves be taken on later date if worked on that [next year](DATE) for project requirements
+- Can [Bday]{"entity": "leaveType", "value": "BL"} leaves be taken on later date if worked on that [year](DATE) for project requirements
+- when can i get [birthday]{"entity": "leaveType", "value": "BL"} leave
+- Can I avail [birthday]{"entity": "leaveType", "value": "BL"} leave on anyother day other than actual birth date?
+- when can i get [birtday]{"entity": "leaveType", "value": "BL"} leave
+- Can I avail [Bereavment]{"entity": "leaveType", "value": "BRL"} if my close relative is expired
+- my relatives are expired can i able to take [Bereavment]{"entity": "leaveType", "value": "BRL"} leave
+- do iam eligible to take [Bereavment]{"entity": "leaveType", "value": "BRL"} leave if my close relatives are expired
+- when do iam eligible for [Bereavment]{"entity": "leaveType", "value": "BRL"} leave
+- when can i able to take [Bereavment]{"entity": "leaveType", "value": "BRL"} leave
+- when do i get a [Bereavment]{"entity": "leaveType", "value": "BRL"} leave
+- do i have [Bereavment]{"entity": "leaveType", "value": "BRL"} leave
+- do i have [BRL](leaveType)
+- I am unable to view [Bereavement]{"entity": "leaveType", "value": "BRL"}/[Relocation]{"entity": "leaveType", "value": "RL"}/Miscarriage leave under My leaves
+- i am unable to view [Bereavement]{"entity": "leaveType", "value": "BRL"} leave
+- i am unable to view [Relocation]{"entity": "leaveType", "value": "RL"} leave
+- when can i able to see [Relocation]{"entity": "leaveType", "value": "RL"}
+- when can i able to see [Bereavement]{"entity": "leaveType", "value": "BRL"} leave
+- how can i see [Relocation]{"entity": "leaveType", "value": "RL"} leave
+- how to see [Bereavement]{"entity": "leaveType", "value": "BRL"} leave
+- i am unable to see [BRL](leaveType) in my mirror
+- On emergency, if all entitled leaves are exhausted what can be done?
+- my leaves are exhausted, how can i apply leaves
+- is it possible to take [LOP](leaveType) leave
+- if my leaves are completed can i take [LOP](leaveType)
+- Leaves are completed can i take [loss of pay]{"entity": "leaveType", "value": "LOP"} leave
+- my leaves are finished what leaves can i take
+- can i able to take [loss of pay]{"entity": "leaveType", "value": "LOP"} leave if my leaves are completed
+- can i able to take [loss of pay]{"entity": "leaveType", "value": "LOP"} leave
+- I am in [7th Month](DATE) of pregnancy, when should I apply my [maternity]{"entity": "leaveType", "value": "ML"} Leave?
+- I am in [8th Month](DATE) of pregnancy, when should I apply my [maternity]{"entity": "leaveType", "value": "ML"} Leave?
+- when can i apply a [maternity]{"entity": "leaveType", "value": "ML"} leave, now iam in [6th month](DATE) of pregnancy
+- When can one apply for [ML](leaveType) leave?
+- Can someone apply [ML](leaveType) before childbirth due to health reason
+- when can i apply a [maternity]{"entity": "leaveType", "value": "ML"} leave
+- what is the exact time to apply a [maternity]{"entity": "leaveType", "value": "ML"} leave
+- details to apply a [maternity]{"entity": "leaveType", "value": "ML"} leave in 8th month
+- when can i able to take [paternity]{"entity": "leaveType", "value": "PL"} leave
+- when can i able to take [PL](leaveType)
+- In what cases I can apply [ML](leaveType)?
+- Can I avail [PL](leaveType) anytime during the calendar year?
+- When can I avail [PL](leaveType)?
+- can i apply a [maternity]{"entity": "leaveType", "value": "ML"} leave
+- when can i apply a [ML](leaveType)
+- how many leaves can i take for [ML](leaveType)
+- how many [BRL](leaveType) leaves can i take
+- how many [FH](leaveType) do i have
+- can i able to take [Bereavement]{"entity": "leaveType", "value": "BRL"}
+- can i a [Bereavementble]{"entity": "leaveType", "value": "BRL"} to take
+- do i have [bereavement]{"entity": "leaveType", "value": "BRL"}
+- do i have [BRL](leaveType) leave
+- what is [Floating]{"entity": "leaveType", "value": "floating"} Holiday?
+- Can i use my [birthday](leaveType) leaves any other day than my [birthday](leaveType)?
+- can i use my [birthday](leaveType) leave than any other day than my [birthday](leaveType)
+- Can I avail my [Birthday]{"entity": "leaveType", "value": "birthday"} Leave any time in the Year?
+- My [BL](leaveType) and Client holiday are on the same day, I need to apply my BL either before Client Holiday or after client Holiday, how can I do that?
+- My BL is [coming](period) on our client holiday, how can apply my BL for the [next day](DATE)?
+- Can [bereavement](leaveType) leave availed any time?
+- Can we avail [floating](leaveType) holiday anytime?
+- I am in [7th Month]{"entity": "DATE", "value": "7th month"} of pregnancy, when should I apply my [Maternity]{"entity": "leaveType", "value": "ML"} Leave?
+- When Can I avail [FH](leaveType)?
+- when can i take [birthday](leaveType) leave
+- When Should I apply [BL](leaveType)?
+- What is [Floating]{"entity": "leaveType", "value": "floating"} Holiday?
+- What if due to meeting project deliverables/targets I am asked to work on my [BL](leaveType), then when should I apply my [BL](leaveType)?
+- When can I avail my [Birthday]{"entity": "leaveType", "value": "birthday"} Leave?
+- What is [Bithday]{"entity": "leaveType", "value": "bithday"} Leave?
+- What is [Relocation]{"entity": "leaveType", "value": "relocation"} Leave?
+- What is [Compensatory Off](leaveType)?
+- When Can I apply/avail for [Relocation]{"entity": "leaveType", "value": "RL"} Leave?
+- what is [BRL](leaveType)?
+- When can I avail [BRL](leaveType)?
+- what is [BRL](leaveType)
+- What is [Breavement]{"entity": "leaveType", "value": "SL"} Leave?
+- When do I apply [SL](leaveType)?
+- Can I extend my [ML](leaveType)? For How many days & how?
+- Unfotunately My [BL](leaveType) came on a declared holiday (weekend), can I take my [BL](leaveType) on any day which I wish to?
+- My [BL](leaveType) is on a weekend,so when can I apply for my [BL](leaveType)?
+- What if my [Birthday]{"entity": "leaveType", "value": "BL"} falls on weekends or any holiday?
+- when can i take my [maternity](leaveType) leave
+- if leaves are exhausted how to apply a leave
+- If all my leaves are exhausted how can i take an extra leaves
+- [Loss of Pay]{"entity": "leaveType", "value": "loss of pay"} be imposed for all absences leaves availed in excess of other
+- is [birthday](leaveType) leave will be lapsed if iam not taking on the same day
+- [Birthday]{"entity": "leaveType", "value": "birthday"} Leave the same would automatically get lapsed
+- What is an [External Duty]{"entity": "leaveType", "value": "external duty"}?
+- What is a [Floating]{"entity": "leaveType", "value": "floating"} Holiday?
+- what is [external duty](leaveType)
+- what is [ED]{"entity": "leaveType", "value": "ed"}
+- what is [sick](leaveType) leave
+- what is [CL]{"entity": "leaveType", "value": "cl"}
+- what is [SL]{"entity": "leaveType", "value": "sl"}
+- what is [FH]{"entity": "leaveType", "value": "fh"}
+- what is [floating](leaveType) holiday
+- what is [maternity](leaveType) leave
+- what is [paternity](leaveType) leave
+- what is [birthday](leaveType) leave
+- what is [BL]{"entity": "leaveType", "value": "bl"}
+- what is [relocation](leaveType) leave
+- [Floating]{"entity": "leaveType", "value": "floating"} Holiday?
+- what is [external duty](leaveType)?
+- when can i avail [birthday](leaveType) leave
+- approval to be taken before or after availing [work from home](leaveType)?
+- when to apply [work from home](leaveType)?
+- approval required before applying [work from home](leaveType)?
+- tell me about [floating](leaveType) holiday
+- tell me about [floating](leaveType) holiday?
+- what do you mean by [floating](leaveType) holiday?
+- what do you mean by [Floating]{"entity": "leaveType", "value": "floating"} holiday?
+- what is [floating](leaveType) holiday?
+- what is [floating](leaveType) hoilday?
+- meaning of [floating](leaveType) holiday
+- what do you mean by [Floating]{"entity": "leaveType", "value": "floating"} holiday
+- How many [wfh](leaveType) can i avail [in a year](DATE)?
+- can i apply [maternity](leaveType)
+- what leave [male](gender) employees can apply on[ child birth](leaveType)
+- where can i find [floating](leaveType) holiday
+- Can we avail [paternity](leaveType) leave anytime?
+- What is [Birthday]{"entity": "leaveType", "value": "birthday"} Leave?
+- when can i apply for [birthday](leaveType) leave?
+- how many [floating](leaveType) holidays will i have in a [year](DATE)?
+- [floating](leaveType) holiday policy
+- how mant [sick](leaveType) leaves
+- Is there any birthday leve?
+- my [birthaday](leaveType) leave
+- How many [floating](leaveType) holidays do i have?
+- how many [floating](leaveType) holidays we have in a [year](DATE)?
+- how many [floating](leaveType) holidays do we have in an [year](DATE)?
+- how many [casual](leaveType)[casual](leaveType) leaves can i takes
+- how many [maternity](leaveType) leaves can be taken
+- when can i avail [FH](leaveType)
+
+## intent:leaveType
+- [birthday]{"entity": "leaveType", "value": "BL"} holiday
+- [casual]{"entity": "leaveType", "value": "CL"} leave type
+- [sick]{"entity": "leaveType", "value": "SL"} leave
+- it is [casual]{"entity": "leaveType", "value": "CL"} type
+- [casual]{"entity": "leaveType", "value": "CL"} leave
+- [Relocation]{"entity": "leaveType", "value": "RL"} leave
+- [casual]{"entity": "leaveType", "value": "CL"} type
+- it [casual]{"entity": "leaveType", "value": "CL"}
+- it is [casual]{"entity": "leaveType", "value": "CL"}
+- [floating]{"entity": "leaveType", "value": "FH"} holiday
+- [floating]{"entity": "leaveType", "value": "FH"}
+- [casual]{"entity": "leaveType", "value": "CL"}
+- [sick]{"entity": "leaveType", "value": "SL"}
+- [birthday]{"entity": "leaveType", "value": "BL"}
+- [CLs]{"entity": "leaveType", "value": "CL"} leave
+- [SL](leaveType) leave
+- [birhtdays]{"entity": "leaveType", "value": "BL"}
+- [HBD]{"entity": "leaveType", "value": "BL"}
+- [HBD]{"entity": "leaveType", "value": "BL"} leave
+- [maternity]{"entity": "leaveType", "value": "ML"} leave
+- [paternity]{"entity": "leaveType", "value": "PL"} leave
+- [PL](leaveType) leave
+- [ML](leaveType) leave
+- [Bereavement]{"entity": "leaveType", "value": "BRL"} leave
+- [BL](leaveType) leave
+- [paternity]{"entity": "leaveType", "value": "PL"}
+- [maternity]{"entity": "leaveType", "value": "ML"}
+- [Sick]{"entity": "leaveType", "value": "SL"}
+- [Casual]{"entity": "leaveType", "value": "CL"}
+- [CL](leaveType)
+- [CLs]{"entity": "leaveType", "value": "CL"}
+- [SL](leaveType)
+- [loss of pay]{"entity": "leaveType", "value": "LOP"}
+- [LOP](leaveType)
+- [fh]{"entity": "leaveType", "value": "FH"}
+- [compensatory off]{"entity": "leaveType", "value": "CO"}
+- [compensatory]{"entity": "leaveType", "value": "CO"}
+- [co]{"entity": "leaveType", "value": "CO"}
+- [Relocation]{"entity": "leaveType", "value": "RL"}
+- [rl]{"entity": "leaveType", "value": "RL"}
+- [Bereavement]{"entity": "leaveType", "value": "BRL"}
+- [BL](leaveType)
+- [hbd]{"entity": "leaveType", "value": "BL"}
+- [hb]{"entity": "leaveType", "value": "BL"}
+- [birth]{"entity": "leaveType", "value": "BL"}
+- [ML](leaveType)
+- [PL](leaveType)
+- [comp off]{"entity": "leaveType", "value": "CO"}
+- [Maternity]{"entity": "leaveType", "value": "maternity"} leave
+- [birthday](leaveType) leave
+- [Birthday]{"entity": "leaveType", "value": "birthday"} leave
+- [Birthday]{"entity": "leaveType", "value": "birthday"}
+- [half day](noon) for [casual](leaveType) leave
+- [full day](noon) for [sick](leaveType) leave
+- [forenoon](noon) for [sick](leaveType) leave
+- [bithday](leaveType)
+- [wfh](leaveType)
+- [work from home](leaveType)
+- [bereavement](leaveType) leave
+- [External Duty]{"entity": "leaveType", "value": "external duty"}
+- [Comp off]{"entity": "leaveType", "value": "comp off"}
+- [birtday](leaveType)
+- [WFH]{"entity": "leaveType", "value": "wfh"}
+- [floating](leaveType) leave
+- [external duty](leaveType)
+- [ed](leaveType)
+- [ED]{"entity": "leaveType", "value": "ed"}
+- [Maternity]{"entity": "leaveType", "value": "maternity"} laeve
+- Aplly [breavement](leaveType) Leave
+- [bday](leaveType) leave
+- [Casual]{"entity": "leaveType", "value": "casual"} leave
+- [cls](leaveType)
+- [CLS]{"entity": "leaveType", "value": "cls"}
+- [Floating]{"entity": "leaveType", "value": "floating"} holiday
+
+## intent:leaveTypeDays
+- How many days/weeks [ML](leaveType) l am entitled ?
+- How many weeks [maternity]{"entity": "leaveType", "value": "ML"} Leave l am entitled ?
+- How many months [paternity]{"entity": "leaveType", "value": "PL"} Leave l am entitled ?
+- How many days/weeks [maternity]{"entity": "leaveType", "value": "ML"} leave l am entitled ?
+- How man weeks [ML](leaveType) Iam entitled
+- How many days [paternity]{"entity": "leaveType", "value": "PL"} leave I am entitle for?
+- How many days [PL](leaveType) I am entitle for?
+- For how many days am I eligile for [ML](leaveType)
+- how many months can i take [maternity]{"entity": "leaveType", "value": "ML"} leave
+- how many days [floating]{"entity": "leaveType", "value": "FH"} holiday do i have
+- how many days [fh]{"entity": "leaveType", "value": "FH"} do i have
+- how many days [Bereavement]{"entity": "leaveType", "value": "BRL"} holiday do i have
+- how many days [BRL](leaveType) do i have
+- how many leave will be available for [maternity]{"entity": "leaveType", "value": "ML"}
+- how many [maternity](leaveType) leaves can i take
+- how many [maternity](leaveType) leaves avilable
+- how many days [maternity](leaveType) leave will be taken
+- how many days [paternity](leaveType) leave will be taken
+- how many leaves does a [male](gender) person taken for wife delivery
+- how many leaves can i take a [male](gender) person for delivery
+- how many [paternity](leaveType) leaves can i take
+- For how many days am I eligile for [BL](leaveType)?
+- How many days [Paternity]{"entity": "leaveType", "value": "paternity"} leave I am entitle for?
+- how many [maternity](leaveType) leave i will get
+- can you tell something about [floating](leaveType) leave
+- can you tell something about [maternity](leaveType) leave
+- can you tell something about [relocation](leaveType) leave
+- what is [casual](leaveType) leave
+- Under what will it be of Leave without Pay
+- how many leaves are entitled for [childbirth](leaveType)
+- how many leaves are available for [maternity](leaveType) leaves
+- for [maternity](leaveType) how many leaves are entitled
+- [Female](gender) employees be entitled for a maximum of 26 weeks in all whether taken before or after [childbirth](leaveType)
+- when can i take my [childbirth](leaveType) leave
+- what is [leave without pay](leaveType)
+- what is [LOP]{"entity": "leaveType", "value": "lop"}
+- What is [Loss of pay]{"entity": "leaveType", "value": "loss of pay"}
+- employee fails to avail [Birthday]{"entity": "leaveType", "value": "birthday"} Leave
+- how many [floating](leaveType) holiday do we have per [year](DATE)?
+- how many [sick](leaveType) leave will i get per [year](DATE)?
+- How to apply for maternity benefit
+
+## intent:leaveValidCompoff
+- What's the validity of Comp off?
+- validity of Compensatory Off
+- validity of Comp off
+- How many [days](DATE) of Comp off validity?
+- what is the maximum [days](DATE)  of validity for Comp off
+- maximum validity for the Compensatory leave Off
+- maximum validity for the Comp leave Off
+- working an extra day what is the maximum validity time to take leave
+- validity time of Compensatory Off
+- validity time to take leave for Compensatory Off
+- validity time to take leave for working an extra time in office
+- time limit for the Compensatory Off
+- maximum time limit for working on extra time in office
+- What is the eligibility criteria for CO?
+- Within how many days should I avail the Comp Off?
+- Validity of credited [comp off](leaveType)?
+
+## intent:leaveYesQuery
+- Can two [floating]{"entity": "leaveType", "value": "FH"} holidays be taken together
+- can we take two [floating]{"entity": "leaveType", "value": "FH"} holidays simultaneously
+- two [floating]{"entity": "leaveType", "value": "FH"} holidays can we take concurrently
+- How many [floating]{"entity": "leaveType", "value": "FH"} holidays can we take
+- two [floating]{"entity": "leaveType", "value": "FH"} holidays at a time
+- two [floating]{"entity": "leaveType", "value": "FH"} holidays can i take in a year
+- can i take two [floating]{"entity": "leaveType", "value": "FH"} holidays at a time
+- do i take [floating]{"entity": "leaveType", "value": "FH"} holidays simultaneously
+- do we take [floating]{"entity": "leaveType", "value": "FH"} holidays simultaneously
+- Can I apply my WFH request after the the date?
+- Can I apply my WFH request after the the date
+- Can one avail ML twice in the same [year](DATE)?
+- Is it possible to avail more than one [CL](leaveType)/[SL](leaveType) [in a month](DATE)
+- Can I avail more than one [CL](leaveType) [in a month](DATE)
+- After availing WFH can I apply for WFH?
+- Can I cancel my leave request on the day of the leave date?
+- Is [CL](leaveType)/[SL](leaveType) calculated on pro-rata basis?
+- Is Comp Off applicable to BenefitAlign and True Coverage Employees?
+- Can I club [Floating]{"entity": "leaveType", "value": "FH"} holiday with [CL](leaveType)?
+- If my Comp off is approved, can I club it with [Casual]{"entity": "leaveType", "value": "CL"} Leave?
+- Can I edit/cancel a leave request?
+- Can I change/edit the dates for an applied leave?
+- Do we have sandwich leave policy for LOP
+- Can I apply a half-day leave?
+- Do we [Paternity](leaveType) Leave Policy?
+- Can [LOP](leaveType) be applied during Extended Maternity leave instead of [SL](leaveType)/[CL](leaveType)
+- Do we have paid Extended maternity leave?
+- Do we have ML Policy?
+- Can I  apply my [CL](leaveType) in single transaction/shot
+- Can I avail [SL](leaveType) in case of emergency other than health reason?
+- Can I apply all my [CL](leaveType) at once?
+- Can I apply [floating](leaveType) holiday
+- do i get variable pay
+- Is a contract employee eligible for [CL]{"entity": "leaveType", "value": "cl"}?
+- Does the Flexi benefits are open all through the yea?
+- Can I club FH with any other public holiday?
+- Is it mandatory to provide reason for rejection?
+- Can I avail comp-off while connecting from home?
+- Am I eligible for CO?
+- Can I avail [Relocation]{"entity": "leaveType", "value": "relocation"} leave in different transactions?
+- On my manager request, I have worked on a holiday from my home.Can I apply for comp off?
+- [CL]{"entity": "leaveType", "value": "cl"} leaves will be eligible for all employees
+- [CL]{"entity": "leaveType", "value": "cl"} leaves will be eligible for contract employee
+- credited at the beginning of the calendar year
+- employees on probation eligible only [CL]{"entity": "leaveType", "value": "cl"} leave till they become a permanent employee
+- do iam eligible for [CL]{"entity": "leaveType", "value": "cl"} if iam in probation wroking time
+- Employees on probation are eligible only for [Casual]{"entity": "leaveType", "value": "casual"} leave till they become permanent
+- if the [Sick]{"entity": "leaveType", "value": "sick"} Leave exceeds three continuous days does employee should provide medical certificate
+- if [sick](leaveType) leave exits more than 3 continues days do i need to provide medical certificate
+- only confirmed regular employees of speridian are entitled for maximum 6 [Sick]{"entity": "leaveType", "value": "sick"} Leave in calendar year
+- do i need to provide medical certificate for taking more than 3 continues [sick](leaveType) leaves
+- do i need to provide medical certificate for taking more than 4 continues [sick](leaveType) leaves
+- if no leave be generated during that period Leave without Pay can we apply
+- Does reason is not required to suspend or add new rule to change policy
+- is it require to repay the entire benefits accrued / claimed by the employee under any discretion
+- Do head of HR is approved under leave absence
+- HR head can able to regularize the absence without leave
+- Does hr can able to regularize the absence leave
+- Does hr can able to regularize the leaves
+- Can I apply for Half day [work from home](leaveType)?
+- Do we have a work from home policy?
+- Can I make EPF contributions more than 12% of my salary?
+- can I avail all 3 [floating](leaveType) holiday in one shot?
+- can we apply leave after availing it
+- Can I go to any hospital to get the ESIC benefits.
+- If I leave the orgnization can he continue with same ESCI no.
+- Do we have paid vacation
+- "Can I make EPF contributions more than 12% of my salary?\n"
+- can i add dependents
+- If I connect from home on a weekend or holiday, will I be eligible for Comp Off?
+- If I connect from home on a weekend or holiday, will I be eligible for Compensatory Off?
+
+## intent:location
+- speridian technologies [bangalore](location) location
+- Speridian [Bangalore](location)
+- Speridian - [Bangalore](location) Address
+- Speridian technologies [bangalore](location) locations
+- [trivendram](location) locations
+- [mumbai](location) locations
+- Speridian technologies [mumbai](location) locations
+- Speridian technologies [kerala](location) locations
+- Speridian technologies [trivendram](location) locations
+- from [mumbai](location) to [Bangalore]{"entity": "location", "value": "bangalore"}
+- mumbai location
+- from [bangalore](location) to [mumbai](location)
+- from [kochi](location) to [mumbai](location)
+- from [kochi](location) to [bangalore](location)
+- from [bangalore](location) to [delhi](location)
+- from [kochi](location) to [delhi](location)
+- from [mumbai](location) to [bangalore](location)
+- [mumbai](location) to [bangalore](location)
+- [mumbai](location) to [singapore](location)
+- [bangalore](location) to [mumbai](location)
+- [Kochi](location)
+- Speridian-[Kochi](location)
+- [Srilanka](location)
+- origion [mumbai](location) to [bangalore](location)
+- [delhi](location)
+- [chennai](location)
+- [Mumbai]{"entity": "location", "value": "mumbai"}
+- [mumbai](location) to [delhi](location) [on 10 march](DATE)
+- [bangalore](location) to [Pune](location)
+- [mumbai](location) and [bangalore](location)
+- [Mumbai]{"entity": "location", "value": "mumbai"} - [Dubai](location)
+- [mumbai](location)
+- [Mumbai]{"entity": "location", "value": "mumbai"} & [Dubai](location)
+- [Mumbai]{"entity": "location", "value": "mumbai"}, [dubai](location)
+- [mumbai](location) to [calcuta](location)
+- [madras](location) to [mumbai](location)
+- [Calicut](location) to [Chennai]{"entity": "location", "value": "chennai"}
+- [Mumbai]{"entity": "location", "value": "mumbai"} - [Bangalore]{"entity": "location", "value": "bangalore"}
+- [Bengaluru](location) - [Mumbai]{"entity": "location", "value": "mumbai"}
+- [Bengaluru](location)-[Trivnadrum](location)
+- [Trivandrum](location) - [Mumbai]{"entity": "location", "value": "mumbai"}
+- [Mumbai]{"entity": "location", "value": "mumbai"}, [Trivandrum](location)
+- In [Prague](location)
+- at [Budapest](location)
+- [Nancy](location)
+- Sorry, in [Vatican](location)
+- [brl](location)
+- [mum](location)
+- [kochi](location)
+- [bangalore](location)
+- [trivandrum](location)
+- [trivendrum](location)
+- [pune](location)
+- [hyderabad](location)
+- [vijayawada](location)
+- [singapore](location)
+- [washington dc](location)
+- [boston](location)
+- [los angels](location)
+- [lax](location)
+- [new york](location)
+- [jfk](location)
+- [udupi](location)
+- [manila](location)
+- [lucknow](location)
+- [patna](location)
+- [kolkatta](location)
+- [medan](location)
+- [phnom penh](location)
+- [kudal](location)
+- [can tho](location)
+- [chu lai](location)
+- [dalat](location)
+- [da nang](location)
+- [haiphong](location)
+- [hanoi](location)
+- [hue](location)
+- [nha trang](location)
+- [phu quoc](location)
+- [vinh](location)
+- [houston](location)
+- [iah](location)
+- [miami](location)
+- [mia](location)
+- [nasik](location)
+- [london](location)
+- [coimbatore](location)
+- [varanasi](location)
+- [thrissur](location)
+- [jaipur](location)
+- [cochin](location)
+- [calicut](location)
+- [visakhapatnam](location)
+- [ratnagiri](location)
+- [batkal](location)
+- [amravati](location)
+- [colombo](location)
+- [nagpur](location)
+- [kolhapur](location)
+- [raigad](location)
+- [ahmednagar](location)
+- [jalgaon](location)
+- [aurangabad](location)
+- [bankok](location)
+- [ho chi minh](location) city
+- [kuala lumpur](location)
+- [amritsar](location)
+- [davanagere](location)
+- [belgrade](location)
+- [dubai](location)
+- [albuquerque](location)
+- [abq](location)
+- [sangli](location)
+- [china](location)
+- [belgaum](location)
+- [new delhi](location)
+- [riyadh](location)
+- [hubli](location)
+- [vadodara](location)
+- [kottayam](location)
+- [jeddah](location)
+- [solapur](location)
+- [tirupati](location)
+- [karad](location)
+- [mumbai](location) to [trivandram](location)
+- [mum](location) to [bangalore](location)
+- [calicut](location) to [chennai](location)
+- [mumbai](location) to [spain](location)
+- [bangalore](location) to [mum](location)
+- [bangalore](location) to [trivandram](location)
+- [mum](location) to [Bangalore]{"entity": "location", "value": "bangalore"}
+- [mum](location) [trvendram](location)
+- [mum](location) to [Thiruvananthapuram](location)
+- [mum](location) to [trivandrum](location)
+- [banaglore](location) to [mumbai](location)
+- [banagalore](location) to [mumbai](location)
+- [dli](location) to [mumbai](location)
+- [del](location) to [mumbai](location)
+- [kochi](location) - [trivandrum](location)
+- [trivandrum](location) - [kochi](location).
+- [kochi](location) - [mumbai](location)
+- [trivandrum](location) - [kochi](location)
+- [bangalore](location) - [trivandrum](location)
+- [bengaluru](location) to [mumbai](location)
+- [bangaluru](location) to [mumbai](location)
+- [bengaluru](location) - [mumbai](location)
+- [kochi](location) - [bangalore](location)
+- [Trivandrum]{"entity": "location", "value": "trivandrum"} - [Bangalore]{"entity": "location", "value": "bangalore"}
+- [Bangalore]{"entity": "location", "value": "bangalore"} - [Singapore]{"entity": "location", "value": "singapore"}
+- [mum](location) to [bangalor](location)
+- [mumbai](location) - [banglore](location)
+- [mum](location) to [trivendram](location)
+- [trivandrum](location) - [mysore](location)
+- [tri](location) - [ban](location)
+- [bangalore](location) [mumbai](location)
+- [bangalore](location) 2 [mumbai](location)
+- [bangalore](location) - [mumbai](location)
+- [mum](location) to [bangalorw](location)
+- [mumbai](location) 2 [bangalore](location)
+- book ticker [mumbai](location) 2 [bangalore](location)
+- recent travels
+- [mumbai](location) 2 [orrisa](location)
+- [mumbai](location) 2 [kolkata](location)
+- [mumbai](location) to [orrisa](location)
+- [mumbai](location) to [kolkaa](location)
+- [mumbai](location) to [banglaore](location)
+- [mumbai](location) to [pune](location)
+
+## intent:logTime
+- what is my log in time
+- what is my log in time for [today](DATE)
+- log in time for [today](DATE)
+- what is my login time for [today](DATE)
+
+## intent:lop_calculate
+- How is [LOP](leaveType) calculated?
+- how [loss of pay]{"entity": "leaveType", "value": "LOP"} is calculated
+- method to calculate [LOP](leaveType)
+- what is a method to calculate [LOP](leaveType)
+- what is a method to calculate [loss of pay]{"entity": "leaveType", "value": "LOP"}
+- how to calculate [LOP](leaveType)
+- how to calculate [loss of pay]{"entity": "leaveType", "value": "LOP"}
+- hoe [loss of pay]{"entity": "leaveType", "value": "LOP"} is calculated
+- calculation of [LOP](leaveType)
+- how much price will be deducted when i will apply [LOP](leaveType)
+- how [LOP](leaveType) is calculated
+- how [lop](leaveType) is calculated
+- calculation of [lop](leaveType)
+- how much price will be deducted when i will apply lop
+
+## intent:lop_deduction
+- I have not take any leave but their [LOP](leaveType) deduction in my salary?
+- there is no leave in my portal but [loss of pay]{"entity": "leaveType", "value": "LOP"} is deducted in my salary
+- there is [LOP](leaveType) deducted in my salary but i have not taken any leave
+- there is [LOP](leaveType) subract in my account but there is no leave i have taken
+- there is [loss of pay]{"entity": "leaveType", "value": "LOP"} subract in my account but there is no leave i have taken
+- there is [LOP](leaveType) takeoff in my account but there is no leave i have taken
+
+## intent:merge_uan
+- How to merge 2 UAN No?
+- How to merge multiple UAN no
+- How to join multiple UAN no
+- how to consolidate 3 UAN no
+- how to consolidate 2 UAN no
+
+## intent:min_hike
+- What is the minimum %hike done in Speridian
+- What is the maximum %hike done in Speridian
+- max hike in speridian
+- minimum hike
+- what is the minimum hike
+- min hike in speridian
+- heighest hike in speridian
+- lowest hike in speridian
+- top hike in speridian
+
+## intent:month_EWC
+- How many days [in a month](DATE) can we apply [work from home](leaveType)?
+- how many days can i apply [work from home](leaveType)
+- how many days can i apply [WFH]{"entity": "leaveType", "value": "wfh"}
+- how many days can i apply [ED]{"entity": "leaveType", "value": "ed"}
+- how many days can i apply [external duty](leaveType)
+- how many days can i apply [comp off](leaveType)
+
+## intent:my_age
+- How old am I?
+- my age
+- age
+- do i look old
+- How old i am?
+- In which [year](DATE)  were i born?
+- What age is mine?
+- What day is my [birthday]{"entity": "leaveType", "value": "BL"}?
+- What day is on my [birthday]{"entity": "leaveType", "value": "BL"}?
+- What is my age?
+- when's my birthday
+- What month is my [birthday]{"entity": "leaveType", "value": "BL"} in?
+- What month is my [birthday]{"entity": "leaveType", "value": "BL"}?
+- What's my age?
+- What's my [birthday]{"entity": "leaveType", "value": "BL"}?
+- When was i born?
+- Which month is on my birthday?
+- Which [year](DATE)  i was born in?
+- when is my [birthday]{"entity": "leaveType", "value": "BL"}?
+- I don't understand my age
+- I'm curious about my age?
+- I'm curious about my [birthday]{"entity": "leaveType", "value": "BL"}?
+- Is my age important to you
+- Please tell if i have a age
+- Please tell me my age
+- Tell me about my age
+- Tell me all about my age
+- can you predict my age
+- predict age
+- say something about my age
+- will you say something about my age
+- can i know my age
+- can i know how old i am
+- i demand to tell my age
+- i demand to speak my age
+- when is my birthday
+- what is my age
+- what is my [birthday]{"entity": "leaveType", "value": "BL"}
+- do you know what is my age
+- Any Birthdays [today](DATE)?
+- when was i born
+- what is my date of birth
+- my birthday date
+- Whats my [birthday](leaveType)?
+- WHEN IS MY [BIRTHDAY]{"entity": "leaveType", "value": "birthday"}
+
+## intent:my_doj
+- My Date of Joining
+- What was my date of Joining?
+- when is my date of joining
+- my date of joining
+- doj
+- what is my date of joining in speridian
+- what is my DOJ date
+- when i joined in speridian
+- when did i join in speridian
+- when did i joined
+- what is my doj
+- when did i join
+- joining date
+- date joined
+- joining
+- date of joining
+
+## intent:my_email
+- Are you able to show my email id?
+- Are you able to show me email?
+- Are you able to serve my email?
+- Can you change the email?
+- Can you check my email?
+- Can you email to one person?
+- can you show me my email
+- Can you do me favour for writing a email
+- Can you go to my email?
+- Can you make me a email for me?
+- Can you predict my email id?
+- Can you read my email id?
+- Can you send my email id?
+- Can you serve my email id
+- can you serve my email
+- Can you show me my email?
+- what is my email id
+- Can you show me my email id?
+- Check my email
+- my email
+- email
+- E-mail
+- e-mail
+- can I know my email
+- Do you know my email?
+- Do you know my email id
+- email ID
+
+## intent:my_gender
+- what is my type
+- wht is my gender
+- what is my gender
+- Do i am a man with a gender?
+- Do i am a boy?
+- Do i am a girl or a boy?
+- Do i am a girl?
+- Do i am a guy or a girl?
+- Do i am  a guy?
+- Do i am a man or a woman?
+- Do iam a man or a woman?
+- Do i am a man?
+- Do i am a transsexual?
+- Do i am a woman?
+- Do i am a cisgender?
+- Do i am a [female](gender)?
+- Do i am a gendered?
+- Do i am a genderfluid?
+- do i am a genderqueer?
+- do i am a [male](gender) or [female](gender)?
+- do i am a male?
+- do i am a nonbinary?
+- do i am a queer?
+- do i am a trans?
+- do i am a transgender?
+- do i am a transsexual?
+- Can you tell me my gender?
+- Do i even have a gender
+- Do i have a gender?
+- How do you identify in terms of gender?
+- I don't understand if i have a gender or not
+- I don't understand my gender
+- I'm curious about my gender?
+- Is my gender important to you
+- Please tell if i am a woman
+- Please tell me if i am a girl
+- Please tell me if i am a guy
+- Please tell me if i am a man
+- Please tell me if i am trans
+- Please tell me my gender
+- Tell me about my gender
+- Tell me all about my gender
+- What gender do you identify with?
+- What gender do you identify with me?
+- What is my gender?
+- What's going on with my gender?
+- What's my gender?
+- do i am a guy?
+- predict gender
+- can i know my gender
+- can you predict my gender
+- my gender
+
+## intent:my_job_description
+- what is my job type
+- Are you able to show my job description?
+- Are you able to show me job description?
+- what is my job
+- what is my work
+- what is my task
+- what is my duty
+- what is my job designation
+- Are you able to serve my job?
+- Can you change my job description?
+- Can you check my job description?
+- Can you check my duty of job?
+- can you show me my job descriprion
+- can you show me my job descr
+- Can you do me favour for writing a my task
+- Can you do me favour for writing a my work
+- Can you do me favour for writing a my job
+- Can you do me favour for writing a my duty
+- Can you make me a job description for me?
+- Can you predict my job description?
+- Can you read my job description?
+- Can you read my job role?
+- Can you read my job designation?
+- Can you send my job designation?
+- Can you serve my job designation
+- can you serve my work designation
+- Can you show me my designation?
+- Can you show me my job designation?
+- Check my job designation
+- my job designation
+- job role
+- job designation
+- work
+- duty
+- Do you know my job role?
+- Do you know my job designation
+- say something about my job designation
+- will you say something about my job designation
+- can you introduce my job designation
+- can you introduce my work designation
+- What is my designation?
+- what is my designation in SAP SF
+- what is my designation
+- what depaetment am i in
+- what department do I work in
+- my designation
+- whmy personal details
+- whats  my designation
+- whats my designation
+- my job description
+
+## intent:my_manager
+- I think your my boss
+- what is my reporting manager name?
+- what is my manager name
+- what's my manager name
+- can you tell about my reporting manager name
+- can you tell about my reporting person name
+- tell about my director name
+- please tell me about my manager name
+- please tell about my boss name
+- do you know my reporting manager name
+- do you know my boss name
+- what is my boss name
+- what is my director name
+- what is my president name
+- what is my comanager name
+- what is my co-manager name
+- what is my executive name
+- can you spell my boss name
+- can you spell my manager name
+- my reporting manager name
+- my manager name
+- my boss name
+- you know my manager name
+- can you tell my boss name
+- can you tell director name
+- what can you call my director name
+- what do you call my manager name
+- I'm curious about my boss name?
+- What's going on with my manager name?
+- can you predict my boss name
+- can you predict my general manager name
+- predict my manager name
+- predict my manager
+- who is my manager
+- say something about my manager
+- will you say something about my manager
+- What is my boss' name?
+- What is my director's name?
+- What is my manager's name?
+- What is my supervisor's name
+- What's the name of my boss?
+- What's the name of my director?
+- What's the name of my manager?
+- What's the name of my supervisor
+- What's my boss' name?
+- What's my director's name?
+- What's my manager's name?
+- Who bosses you around?
+- Who directs me?
+- Who do i answer to?
+- Who do i report to?
+- Who do i serve?
+- Who is in charge of me?
+- Who is my boss?
+- Who is my director?
+- Who is my leader?
+- Who is my manager?
+- Who is my master?
+- Who supervises me
+- Who tells me what to do?
+- Whom do i serve?
+- Who's in charge of me?
+- Who's in charge?
+- Who's my boss?
+- Who's my director?
+- Who's my manager?
+- Who's my supervisor
+- My Reporting Manager
+- who is My Manager?
+- who is our manager
+- who is my reporting managers
+- who is my [CEO](manager)
+- who is my reporting manager
+- who is our [ceo](manager)
+- Speridian [CEO](manager)
+- Speridian [Head](manager)
+- [CEO](manager)
+- My Manager
+- Management [Head](manager)
+- Speridian - Bangalore [Head](manager)
+- who should i report to
+- who is my practice head?
+- supervisor
+- who do i report to
+- who di i report to
+- my boss
+- who i report to
+- my reporting person?
+- who i report to?
+- who is my reporting manager?
+- Who is my Reporting Manager?
+- manager
+- my reportee
+- my reportees
+- my reporting manager
+- manager name
+- for whom do you work
+
+## intent:my_mobile
+- what is my mobile number
+- what is my phone number
+- what is my telephone number
+- what is my call number
+- what is my dial number
+- telephone number
+- mobile number
+- phone number
+- Are you able to show my mobile number?
+- Are you able to show me phone number?
+- Are you able to serve my telephone number?
+- Can you change the mobile number?
+- Can you check my telephone number?
+- can you show me my telephone number
+- Can you do me a favour showing my mobile number
+- Can you make me a call?
+- Can you predict my mobile number?
+- Can you predict my telephone number
+- Can you read my mobile number?
+- Can you send my call number?
+- Can you serve my mobile number
+- can you serve my telephone number
+- can you serve my phone number
+- Can you show me mobile number?
+- can you dial my number
+- can you show my ring number
+- can you call on my mobile
+- [(816) 999 - 75800](phone-number)
+- [8169975800](phone-number)
+- my mobile number is [8169975800](phone-number)
+- [8169975800](phone-number) is my mobile number
+- [1234567890](phone-number)
+- my mobile number
+- my mobile is not working
+
+## intent:my_name
+- what is my name?
+- What's my name?
+- What is my sign?
+- what is my nam
+- what is my name
+- what's my name
+- can you tell about my name
+- tell about my name
+- please tell me about my name
+- please tell about my name
+- do you know my name
+- what is name
+- can you spell my name
+- my name
+- you know my name
+- can you tell my name
+- can you tell name
+- what can you call me
+- what do you call me
+- whom am i
+- I'm curious about my name?
+- What's going on with my name?
+- can you predict my name
+- predict my name
+- Don't you know who I am ?
+- Do you even know my name?
+- Do you even know who I am?
+- Do you know my name?
+- Do you know who I am?
+- Do you know who this is?
+- Do you not know who this is?
+- Do you not remember me?
+- Do you think you know me?
+- Do you think you know who I am?
+- Don't you remember me?
+- do you remember me
+- Don't you remember who I am?
+- Don't you find my name
+- What am I called?
+- what people call me
+- say something about my name
+- will you say something about my name
+- so what is my name
+- do you know who i am
+- what is my nane
+- do i know my name
+- can you give me a name
+- who am i
+- my name as per speridian records?
+- name
+- Name
+
+## intent:my_tell_about_me
+- say something about me
+- what can you address me
+- so what's about me
+- will you say something about me
+- tell me about my self
+- do you know about me
+- about me
+- can you tell about me
+- could you please tell about me
+- would you please tell about me
+- could you share something about me
+- can you tell something about me
+- what is about me?
+- what's about me
+- tell about me
+- please tell me about my self
+- please tell about me
+- can you spell about me
+- you know about me
+- what can you call about me
+- I'm curious about my details?
+- What's going on with my details?
+- can you predict about my details
+- predict my details
+- predict about me
+- Do you even know me?
+- Do you know about me?
+- Do you know anything about me?
+- Do you know me personally?
+- Do you know me well?
+- Do you know me?
+- Don't you know me?
+- How well do you know me?
+- How well do you think you know me?
+- Who am I?
+- You do not know me
+- You do not know who I am
+- You don't know me
+- You don't know who I am
+- Who do you think I am?
+- What are you thinking about me?
+- What do you know about me?
+- What information do you have on me?
+- What things do you know about me?
+- What's something you know about me?
+- do you know me
+- do you know about mme
+- do you tell about me
+- Do you know about me
+- Do you know me
+- do you know about mee
+- do you anything about me
+- tell me about me
+- what do you know about me
+- tell me about myself
+- tell me about muself
+- what do you know me
+- what details do you know
+- do you know the details of me
+- employee details
+- my details
+- details about me
+- my Info
+- my info
+- My Info
+- tell me my details
+- do you know me?
+- What you know about me?
+- my personal details
+
+## intent:mylocation
+- can i know my location
+- where am i working
+- where iam working
+- Do i am local?
+- Where do I work?
+- what is my location
+- Do you know where I live?
+- do you think i am local to current location
+- Can you tell me my address?
+- Can you tell me what city i am in?
+- Can you tell me where am i from?
+- Can you tell me where am from?
+- Can you tell me my location?
+- De donde eres?
+- Describe where am i from
+- Do i have a house?
+- Do i have a physical location?
+- Do i have an address?
+- Do i live in a computer?
+- Do i live in a house?
+- Explain where are you from
+- How can you find me?
+- Do you know where is my house
+- Share my location
+- Share my location with me
+- So where am i from?
+- Tell me where i am located
+- What is my coordinants?
+- What country am i from?
+- What is the location of my home?
+- What is my address?
+- What is my location?
+- What is my physical location?
+- What state am i from?
+- What state am in?
+- which city am in
+- Where am i?
+- Where am i located?
+- Where can you find me?
+- Where do i live?
+- Where am i in the world?
+- Where is my home?
+- Where's my house?
+- Which city am i from?
+- Which country am i in?
+- Which state am i in?
+- where am i
+- where am i from
+- can you show me my location
+- can you predict my location
+- predict location
+- say something about my location
+- will you say something about my location
+- where is my location
+- which city iam in
+- do i leave near me
+- what is my locatiion
+- where do i work
+- can you find me
+- do u know where iam from
+- where is my friend
+- location
+- where do i do
+- my location
+- am i based in
+- base location
+- am i based out of [trivandrum](location)
+- am i based out of bangalore location
+- am i based out of trivandrum location
+- campus
+
+## intent:no_name
+- Can you introduce yourself
+- Can you tell me how to refer to you?
+- Can you tell me what I should call you?
+- Can you tell me what your name is?
+- Can you tell me your name?
+- Do you have a designation?
+- Do you have a name?
+- Do you have a title?
+- Do you have an official name?
+- How can I address you?
+- How can I call you?
+- How can I refer to you?
+- How do you want me to address you as?
+- How do you want me to address you?
+- How do you want me to call you?
+- How do you want me to refer to you?
+- how is your name
+- How should I address you?
+- How should I call you?
+- How should I refer to you?
+- How would you like me to address you?
+- How would you like me to call you?
+- How would you like me to refer to you?
+- Introduce yourself
+- Introduction please
+- Introductions
+- So how should I address you?
+- So how should I refer to you?
+- So what do you like to be called?
+- So what is your name?
+- So what should I call you?
+- So what would you like me to call you
+- So what's your name?
+- So who are you?
+- To whom am I speaking?
+- What are you called?
+- What can I address you?
+- What can I call you
+- What can I call you?
+- What can I refer to you?
+- What do I call you?
+- What do you go by?
+- What do you want me to address you as?
+- What do you want me to address you?
+- What do you want me to call you?
+- What do you want me to refer to you?
+- What do your friend call you?
+- What is your name?
+- What is your program name?
+- What should I address you?
+- What should I call you?
+- What should I refer to you?
+- What to peope call you?
+- What would you like me to address you?
+- What would you like me to call you?
+- What would you like me to refer to you?
+- What's your designation?
+- What's your handle?
+- What's your name?
+- Who are you?
+- Who do you want me to address you as?
+- who r u
+- Who to you want me to address you as?
+- With whom am I chatting?
+- With whom am I speaking?
+- With whom am I talking?
+- what is your name
+- who are you
+- what is your name?
+- Do you have any name?
+- What is your name
+- who are you?
+- how r u?
+- how are u?
+- whats your name
+- Your name?
+
+## intent:no_problem
+- Excuse me
+- Excuse moi
+- I beg your pardon
+- Oops
+- Oopsie
+- Pardon
+- Pardon me
+- Scuse me
+- Whoops
+
+## intent:no_query
+- Can i withdraw complete PF at the time of employment
+- can i draw complete provident fund amount while iam working
+- can i withdraw full pf amount while iam working in company
+- Can we opt out EPF in between?
+- can we opt out Employees' provident fund  in between
+- can we withdraw employees provident fund in between
+- can i withdraw epf in the middle of job
+- Can i edit my personal data in Mirror myself?
+- can i edit my personal data in mirror
+- can i change my personal data in mirror
+- Will I get my Experience letter if i dont serve my notice period
+- do i get my experience letter if iam not serving notice period
+- do i get my experience letter if iamn't serving notice period
+- if iam not serving notice period can i get my experience letter
+- Completed 6 to 9 months my performance was reviewed, am I eligible for salary hike?
+- i have completed 8 month, do i eligible for salary hike
+- my performance was reviewed do iam eligible for salary hike
+- i have completed 5 months do iam eligible for salary hike
+- i have completd 6 months can i expect my salary hike
+- can you speak in hindi?
+- do you Speak multiple languages?
+- do you know any other language?
+- Do we have paid vaccation?
+- can i get salary advance
+
+## intent:not_reflect_esic
+- What is my ESIC No. & why is it not reflecting in my payslip?
+- What is my Employee state insurance corporation. & why is it not reflecting in my payslip?
+- my ESIC No
+- why ESIC no is not reflecting in payslip
+- why Employee state insurance corporation number is not reflecting in payslip
+- what is Employee state insurance corporation number
+- ESIC is not reflecting in payslip
+- ESIC number is not reflecting in payslip
+- What is ESIC number?
+- What is my EISC No. & why is it not reflecting in my payslip?
+
+## intent:not_reflect_uan_pf
+- My previous PF funds not reflecting in UAN No
+- last organization pf funds not reflecting in UAN No
+- my previous provident fund not reflecting in UAN no
+- my previous provident fund not reflecting in UAN
+- my old pf funds not reflecting in UAN
+
+## intent:not_sure
+- Can you explain that?
+- Can you please explain that?
+- Can you please explain yourself?
+- Can you try and explain that to me?
+- Come again?
+- Huh? I don't understand.
+- I'm sorry what do you mean?
+- Run that by me again.
+- Wait a minute what?
+- Wait what now?
+- Wait what?
+- What makes you say that?
+- What makes you think so?
+- What makes you think that?
+- What's that supposed to mean?
+- Why do you say that?
+- Why do you think that?
+- Why is that?
+- how do you know that
+
+## intent:noted_management
+- No Sick Room in Kochi/Thejaswini/MUM
+- there is no sick rooms in kochi
+- there is no sick rooms in mumbai
+- why there is no sick rooms in mum
+- there is no sick rooms in Thejaswini
+- why there is no sick rooms avalable in kochi
+- Request for reserving parking slots against payment due to limited numbers
+- why there are limited parking slots
+- do i need to request for reserving parking slot against payment
+- do i need to request for parking slot
+- Unavailability of Pantry in MUM
+- Unavailability of Pantry in bangalore
+- is there any pantry in mumbai
+- why there is no pantry in mumbai
+- why there is no pantry in BLR
+- Lack of cabin for meetings and client call in BLR
+- Lack of cabin for meetings and client call in Mumbai
+- Lack of cabin for meetings and client call in Bangalore
+- Lack of cabin for meetings and client call in kochi
+- there is no cabin for client call in Bangalore
+- there is no cabins for meeting in Bangalore
+- there is no cabin for client call in mumbai
+- there is no cabins for meeting in mumbai
+- there is no cabin for client call in kochi
+- there is no cabins for meeting in trivendram
+- Swipe data mismatch - Getting in/out timings in mirror which is not correct or belong someother employees
+- Swipe data mismatch - Getting in/out timings in mirror which is not correct
+- Swipe data mismatch - Getting in/out timings in mirror which is belong someother employees
+- data mismatch in swipe while getting in/out timings in mirror
+- there is mismatch timings in swipe while getting in/out timings in mirror
+- swipe entries are not correct while gettings in/out timings in mirror
+- there is some other employees swipe entries are listed in my mirror timesheet
+- why incorrect swipe entries are listed in my timesheet
+- No Game area in Thejaswini
+- there is no place for game in thejaswini
+- please add game area in thejaswini
+- please add game area
+- Maternity benefit amount (Rs.35,000) needs to be increased
+- increase maternity amount 35000 ruppes
+- please increase childbirth amount to 35000 rs
+- increase childbirth amount for the care of new born babies to 35,000 rupees
+- add maternity benefit amount to 40000 rupees for the care of new born baby
+- Muharram holiday is not very relevant, holiday on Bakrid is required - request to include Bakrid in place of Muharram in 2019 Holiday List
+- please add diwali holiday in 2019 holiday list
+- Add bakrid holiday instead of muharram holiday in 2019 holiday list
+- Unavailability of Pantry in BLR/MUM
+- Is there any insurance card available
+
+## intent:nothing
+- Apologies
+- Can you ever forgive me
+- Can you forgive me
+- Crap sorry
+- Forgive me
+- Geez- sorry
+- I am ever so sorry
+- I am so very sorry
+- I am truly sorry
+- I apologize
+- I beg your forgiveness
+- I didn't mean that
+- I sincerely apologize
+- I'm really sorry
+- I'm really sorry about that
+- I'm sorry
+- I'm terribly sorry
+- I'm very sorry
+- My apologies
+- My bad
+- My most sincere apologies
+- Oh god I'm sorry
+- Oh gosh sorry about that
+- Omg sorry
+- Oops my bad
+- Oops sorry
+- Please forgive me
+- Please won't you forgive me?
+- So sorry
+- Sorry
+- Sorry about that
+- Sorry I goofed up
+- Sorry sorry
+- srry
+- Sry
+- That was my bad
+- That was totally my bad
+- That's my bad
+- That's my mistake
+- Whoops I messed up
+- Whoops I'm sorry
+- Whoops that's my bad
+
+## intent:noticePeriod
+- how many months do i need to serve for my last day
+- notice period
+- how many months does speridian has notice period
+
+## intent:numEmployees
+- Number of employees in Speridian
+- no of employees
+- how many people are in the office
+- number of employees in speridian
+- how many people are there in speridian
+- member of staff in speridian
+- staff in speridian
+- worker in speridian
+- members in speridian
+- employees in speridian
+- no of people in speridian
+- no of persons in speridian
+- how many staff are there in speridian
+- how many persons are there in speridian
+- how many workers are there in speridian
+- how many members are there in speridian
+- no of employees in speridian
+- number of employees
+- how many employees are there
+
+## intent:of_course
+- Are we best friends?
+- Are we BFFs?
+- Are we friends forever?
+- Are we friends?
+- Are we great friends?
+- Are we pals?
+- Are we the best of friends?
+- Are you my best friend?
+- Are you my buddy?
+- Are you my friend?
+- Are you my imaginary friend?
+- Are you my pal?
+- Be friends with me
+- Be my friend?
+- Be my pal?
+- Best buds?
+- Best friends?
+- BFFs forever?
+- BFFs?
+- Buddies?
+- Can I be your best friend?
+- Can I be your BFF?
+- Can I be your friend?
+- Can I be your pal?
+- Can we be best friends?
+- Can we be besties?
+- Can we be BFFs?
+- Can we be buddies?
+- Can we be friends?
+- Can you be my best friend?
+- Can you be my BFF?
+- Can you be my friend?
+- Can you be my pal?
+- Friends?
+- I want to be buddies
+- I want to be your best friend.
+- I want to be your BFF
+- I want to be your friend.
+- I want to be your pal.
+- I would like to be your best friend.
+- I would like to be your BFF
+- I would like to be your bud.
+- I would like to be your buddy.
+- I would like to be your friend.
+- I would like to be your pal.
+- I would love to be your best friend.
+- I would love to be your BFF
+- I would love to be your bud.
+- I would love to be your buddy.
+- I would love to be your friend.
+- I would love to be your pal.
+- I'd like it if we could be best friends.
+- I'd like it if we could be BFFs
+- I'd like it if we could be buddies.
+- I'd like it if we could be buds.
+- I'd like it if we could be friends.
+- I'd like it if we could be pals.
+- I'd like it if you could be my best friend.
+- I'd like it if you could be my BFF
+- I'd like it if you could be my bud.
+- I'd like it if you could be my buddy.
+- I'd like it if you could be my friend.
+- I'd like it if you could be my pal.
+- I'd like to be best buds.
+- I'd like to be best friends.
+- I'd like to be BFFs
+- I'd like to be buddies.
+- I'd like to be buds.
+- I'd like to be friends.
+- I'd like to be pals.
+- I'd like to be your best friend.
+- I'd like to be your BFF
+- I'd like to be your bud.
+- I'd like to be your buddy.
+- I'd like to be your friend.
+- I'd like to be your pal.
+- I'd like you to be my best friend.
+- I'd like you to be my BFF
+- I'd like you to be my bud.
+- I'd like you to be my buddy.
+- I'd like you to be my friend.
+- I'd like you to be my pal.
+- I'd love it if we could be best friends.
+- I'd love it if we could be BFFs
+- I'd love it if we could be buddies.
+- I'd love it if we could be buds.
+- I'd love it if we could be friends.
+- I'd love it if we could be pals.
+- I'd love it if you could be my best friend.
+- I'd love it if you could be my BFF
+- I'd love it if you could be my bud.
+- I'd love it if you could be my buddy.
+- I'd love it if you could be my friend.
+- I'd love it if you could be my pal.
+- I'd love to be your best friend.
+- I'd love to be your BFF
+- I'd love to be your bud.
+- I'd love to be your buddy.
+- I'd love to be your friend.
+- I'd love to be your pal.
+- I'd love you to be my best friend.
+- I'd love you to be my BFF
+- I'd love you to be my bud.
+- I'd love you to be my buddy.
+- I'd love you to be my friend.
+- I'd love you to be my pal.
+- Let's be best friends
+- Let's be besties
+- Let's be BFFs
+- Let's be buddies
+- Let's be friends
+- Let's be pals
+- Pals?
+- Will you be my best bud?
+- Will you be my best friend?
+- Will you be my BFF?
+- Will you be my buddy?
+- Will you be my friend?
+- Will you be my pal?
+- Won't you be my best friend?
+- Won't you be my BFF?
+- Won't you be my friend?
+- Won't you be my pal?
+- You are my best friend
+- You are my BFF
+- You are my friend
+- You are my pal
+- You're my bestie
+
+## intent:oh_dear
+- Are you trying to be dull?
+- Are you trying to bore me?
+- Basic af
+- Be more fun
+- Can you be less boring?
+- Can you be less dull?
+- Could you be any less entertaining?
+- Could you be any less exciting?
+- Could you be any less interesting?
+- Could you be any more boring?
+- Did you know that you're boring?
+- Fun fact: you are boring
+- Getting tired of you
+- Good lord you are dull
+- I am amazed that you are so boring
+- I am not enjoying this boring conversation
+- I couldn't be more bored with you
+- I'm not surprised that you are boring
+- I'm so bored of you
+- I'm so tired of you
+- I'm tired of you
+- Were you made to be this boring?
+- Why are you so boring
+- Why are you so boring?
+- Why are you so dull?
+- Yawn
+- You are boring as sin
+- You are crazy boring
+- You are crazy dull
+- You are dull
+- You are embarassingly dull
+- You are making my eyes glaze over
+- You are more boring than watching paint dry
+- You are the most boring bot I've ever talked to
+- You bore me
+- You could not be more boring
+- You could not be more dull.
+- You don't interest me at all
+- You honestly could not be more uninteresting
+- You're basic
+- You're boring
+- You're dull
+- You're lame
+- You're no fun
+- You're no fun at all.
+- You're not entertaining
+- You're not exciting
+- You're not interesting
+- You're not very entertaining.
+- You're not very exciting.
+- You're really boring
+- You're so basic
+- You're so boring
+- You're so dull
+- You're so very dull
+- You're very boring
+- You're very dull
+- can you be truthful
+
+## intent:okay
+- I am a bartender
+- I am a baseball fan
+- I am a basketball fan
+- I am a Bernie supporter
+- I am a Biden supporter
+- I am a blogger
+- I am a Buddhist
+- I am a carnivore
+- I am a chef
+- I am a child of god
+- I am a Christian
+- I am a convict
+- I am a cook
+- I am a cop
+- I am a CPA
+- I am a Democrat
+- I am a game designer
+- I am a Hoosier
+- I am a journalist
+- I am a lawyer
+- I am a lesbian
+- I am a Libra
+- I am a pagan
+- I am a Pisces
+- I am a Republican
+- I am a salesman
+- I am a scientist
+- I am a soccer fan
+- I am a student
+- I am a Taurus
+- I am a teacher
+- I am a tech journalist
+- I am a tech worker
+- I am a Trump supporter
+- I am a vegan
+- I am a vegitarian
+- I am a Virgo
+- I am a Warren supporter
+- I am a widow
+- I am a widower
+- I am a writer
+- I am African American
+- I am American
+- I am an activisit
+- I am an Aquarius
+- I am an Aries
+- I am an artist
+- I am an atheist
+- I am an educator
+- I am an engineer
+- I am an Independent
+- I am an only child
+- I am at the gym
+- I am at work
+- I am athletic
+- I am bipolar
+- I am bisexual
+- I am black
+- I am Canadian
+- I am competitive
+- I am conservative
+- I am currently travelling
+- I am divorced
+- I am doing that
+- I am engaged
+- I am fat
+- I am gay
+- I am handsome
+- I am in a relationship
+- I am in Seattle
+- I am in the city
+- I am in the country
+- I am Indian
+- I am Jewish
+- I am liberal
+- I am married
+- I am middle-aged
+- I am Native American
+- I am nonbinary
+- I am old
+- I am on a buisness trip
+- I am overweight
+- I am pregnant
+- I am religious
+- I am self-employed
+- I am short
+- I am sick
+- I am skinny
+- I am straight
+- I am strong
+- I am tall
+- I am trans
+- I am underweight
+- I am weak
+- I am white
+- I am young
+- I dropped out of college
+- I have a big family
+- I have a brother
+- I have a cold
+- I have a fever
+- I have a sister
+- I have brothers
+- I have duel citizenship
+- I have sisters
+- I have the flu
+- I voted for Hillary
+- I voted for Trump
+- I went to college
+- I work at a bank
+- I work at Amazon
+- I work at Apple
+- I work at Google
+- I work at Microsoft
+- I work for the FBI
+- I work for the government
+- I work in I.T.
+- I work remotely
+- I'm a bartender
+- I'm a baseball fan
+- I'm a basketball fan
+- I'm a Bernie supporter
+- I'm a Biden supporter
+- I'm a blogger
+- I'm a Buddhist
+- I'm a carnivore
+- I'm a chef
+- I'm a child of god
+- I'm a Christian
+- I'm a convict
+- I'm a cook
+- I'm a cop
+- I'm a CPA
+- I'm a Democrat
+- I'm a diver
+- I'm a game designer
+- I'm a Hoosier
+- I'm a journalist
+- I'm a lawyer
+- I'm a lesbian
+- I'm a Libra
+- I'm a pagan
+- I'm a Pisces
+- I'm a Republican
+- I'm a salesman
+- I'm a scientist
+- I'm a soccer fan
+- I'm a student
+- I'm a Taurus
+- I'm a teacher
+- I'm a tech journalist
+- I'm a tech worker
+- I'm a Trump supporter
+- I'm a vegan
+- I'm a vegitarian
+- I'm a Virgo
+- I'm a Warren supporter
+- I'm a widow
+- I'm a widower
+- I'm a writer
+- I'm African American
+- I'm American
+- I'm an activisit
+- I'm an Aquarius
+- I'm an Aries
+- I'm an artist
+- I'm an atheist
+- I'm an educator
+- I'm an engineer
+- I'm an Independent
+- I'm an only child
+- I'm at the gym
+- I'm at work
+- I'm athletic
+- I'm bipolar
+- I'm bisexual
+- I'm black
+- I'm Canadian
+- I'm competitive
+- I'm conservative
+- I'm currently travelling
+- I'm divorced
+- I'm doing that
+- I'm engaged
+- I'm fat
+- I'm from there
+- I'm gay
+- I'm going to do that
+- I'm handsome
+- I'm in a relationship
+- I'm in Seattle
+- I'm in the city
+- I'm in the country
+- I'm Indian
+- I'm Jewish
+- I'm liberal
+- I'm married
+- I'm middle-aged
+- I'm Native American
+- I'm nonbinary
+- I'm old
+- I'm on a buisness trip
+- I'm overweight
+- I'm pregnant
+- I'm religious
+- I'm self-employed
+- I'm short
+- I'm sick
+- I'm skinny
+- I'm straight
+- I'm strong
+- I'm tall
+- I'm trans
+- I'm underweight
+- I'm weak
+- I'm white
+- I'm young
+- I won
+
+## intent:okay_got
+- Can't you understand that was a joke?
+- Come on that was funny
+- Did you understand that was a joke?
+- I was just goofing around
+- I was just having a laugh
+- I was just messing around
+- I was just pranking you
+- I'm a joker
+- I'm a prankster
+- I'm just a prankster
+- I'm just being a goof
+- I'm just being a goof ball
+- I'm just being a silly billy
+- I'm just being silly
+- I'm just foolin
+- I'm just fooling
+- I'm just joking around
+- I'm just kidding around
+- I'm just messing with you
+- I'm just playing
+- I'm not serious
+- It was just a joke
+- It was just a little joke
+- Joke's on you
+- Just joshing around
+- Just kidding
+- Just messing around
+- Just playing
+- Just playing with you
+- That was a joke
+- That wasn't supposed to be serious
+- You don't need to take me seriously
+- You probably shouldn't take me to seriously
+
+## intent:openSite
+- how do i access speridian mirror
+- can you navigate me to speridian mirror
+- can you open mirror
+- can you open speridian mirror
+- open outlook
+- open mirror
+- open speridian [mirror](site)
+- where do i check my time sheet
+- how long was i in office [22-11-2019](DATE)
+- My Average time in Office
+- show me my time sheet
+- navigate me to speridian [mirror](site)
+- guide me to speridian [mirror](site)
+- open my [mirror](site)
+- open my [outlook](site)
+- [outlook](site)
+- [mirror](site)
+- show me my timesheet for [this week](DATE)
+
+## intent:opposite
+- Are you angry with me?
+- Are you mad at me?
+- Are you pissed off at me?
+- Are you pissed with me?
+- Did I do something to make you angry?
+- Did I do something to make you mad?
+- Did I do something to make you pissed off?
+- Do you dislike me?
+- Do you hate me?
+- Do you hate my guts?
+- Do you loathe me?
+- Do you not like me?
+- I am worried that you don't like me
+- I am worried that you hate me
+- I am worried you hate me
+- I can tell that you hate me
+- I can tell when you are mad at me
+- I can tell you're mad at me
+- I hope you do not hate me
+- I hope you don't dislike me
+- I hope you don't hate me
+- I think you hate me
+- I think you must hate me
+- I'm sorry I make you angry
+- I'm sorry I make you mad
+- I'm sorry I pissed you off
+- I'm sorry you hate me
+- I'm sorry you hate me so much
+- I'm worried that you don't like me
+- I'm worried that you hate me
+- I'm worried you dislike me
+- I'm worried you hate me
+- I'm worried you might hate me
+- Now you hate me huh?
+- Oh gosh you hate me
+- What did I do to make you angry?
+- What did I do to make you hate me?
+- What did I do to make you pissed off?
+- What did I do to make you pissed?
+- Why do you dislike me?
+- Why do you hate me?
+- Why don't you like me?
+- You hate me don't you?
+- You hate my guts
+- You must hate me
+- You think I'm trash don't you?
+
+## intent:petrol_vehicle_number
+- What if petrol pumps do not note down vehicle number in bills?
+- is it mandatory to note vehicle number in petrol pump bills
+- is it required to display vehicle number in petrol pump bills
+- does vehicle number required to display in petrol pump bills
+- does vehicle number required to display in petrol bills
+- Which all bills I can submit to claim vehicle running and maintenance
+- When can I submit the bills for vehicle running and maintenance
+
+## intent:pf_first_month
+- PF number not reflected in first month pay slip - has the account been created
+- there is no pf number in the pay slip, has the account been created
+- account has been created but there is no pf number in the payslip
+- there is no pf number in the first month payslip
+- no pf number in pay slip
+- no provident fund number in pay slip
+- why there is no pf number in payslip
+
+## intent:plan_outings
+- When are we planning for outings?
+- when do we go outings
+- when are we planning for trip
+- when are we going for outings
+- do we go outing in speridian
+- is there any plan of outings in speridian
+- do we have plans of outings
+- when are we planning for outings
+- when do we plan for outings
+- [going outstation](reason)
+
+## intent:policyBenefits
+- can you show me benefit policy
+- please provide benefit policy
+- benefit policies
+- can you tell me about benefit policies
+- provide benefit policy documentation
+- can you tell me about benefit policy
+- Why dont  we have benefit policy?
+- benefit policy
+- help me about benefit policy
+- what is the benefit policy
+- can i able to see benefit policy
+- can you provide me the link of benefit police
+- benefit leave
+- please provide me the link of benefit police
+- link of benefit policy
+- can i know something about benefit policy
+- benefits policy
+- what are the benefits
+- Once I stop paying ESIC contribution do i get the benefit of ESIC
+- policyBenefits
+
+## intent:policyInsurance
+- i want to know about insurance
+- insurance policies
+- do speridian has insurance policy
+- how to know about insurance policy
+- how can i apply for insurance policy
+- insurance policy
+- insurance ploicy
+- What all deductions comes under insurance
+- how to claim on insurance
+- my medical insurance
+- I have allready have Insurance policy so is it compulsary for me
+- medical insurance policy
+- insurance
+- how much insurance can i get
+
+## intent:policyLearning
+- can you show me learning and development policy
+- please provide learning and development policy
+- learning and development policies
+- can you tell me about learning and development policies
+- provide learning and development policy documentation
+- can you tell me about learning and development policy
+- Why dont  we have learning and development policy?
+- learning policy
+- development policies
+- help me about learning policy
+- what is the development policy
+- can i able to see learning policy
+- help me about development policy
+- what is the learning policy
+- can i able to see development policy
+- can you provide me the link of learning and development policy
+- police leave
+- please provide me the link of learning and development policy
+- link of learning and development policy
+- can i know something about learning and development policy
+- learning and development policy
+- Learning & development
+
+## intent:policyLeave
+- can you show me leave policy
+- please provide leave policy
+- Leave policies
+- leave policies
+- can you tell me about leave policies
+- provide leave policy documentation
+- can you tell me about leave policy
+- Why dont  we have leave encashment policy?
+- leave policy
+- help me about leave policy
+- what is the leave policy
+- can i able to see leave police
+- can you provide me the link of leave police
+- police leave
+- please provide me the link of leave police
+- link of leave policy
+- speridian leave policy
+- sepridian singapore leave policy
+- can i know something about leave policy
+- Speridian Singapore Leave Policy
+- singapore leave policy
+- i want to know leave POlicy
+- i want to know leave policy
+- what all leave policies cover
+- leave Policy
+- Speridian Leave Policy
+- I want to know the leave policy
+- scope of leave policy
+- what is leave policy
+- To what is leave policy applicable
+- Compensatory Off Policy and Leave Encashment
+- Compensatory Off Policy
+- Scope of leave policy with Compensatory Off Policy and Leave Encashment
+- what HR are responsible for implementing and mainting
+- what HRs are responsible for implementing and mainting
+- leaves philospy
+- need leave policy document.
+- Leave policy
+- [floating](leaveType) holday policy
+- show me the leave policy
+- [maternity](leaveType) leave policy
+- policy leave
+
+## intent:policyTravel
+- policy travel
+- travel polices
+- polices for the travel
+- travel policies
+- please provide me travel policies
+- transportation facilities
+- Domestic Travel
+- travel
+- what are travel policies
+- Travel Policies
+- Travel policies.
+- travel policy
+- what are your travel policies
+
+## intent:premium_details
+- Where can I find the premium details of my dependents?
+- premium details of my dependents
+- how to know the premium details of my dependents
+- premium details of my documents
+- how can i know the premium details of my dependents
+- how can i know the premium details of my documents
+
+## intent:projectList
+- which are all the projects that i am allocated to?
+- which are all the projects that i am allocated to
+- work list
+- project list
+- may i know my project list
+- may i know my work list
+- what all my projects
+- my project allocation list
+- provide my projects list
+- please provide my work list
+- Which projects is the employee working for?
+- what is my project list
+- select project in between [current monday to tuesday](DATE)
+- my project list
+- my project details
+- projects
+- project
+- Allocation
+- to which project i allocated to?
+- allocated projects for me
+
+## intent:purposeVisit
+- travelling for [requirement](purposeVisit)
+- what are the travel list purpose
+- visiting for [visa](purposeVisit) travel purpose
+- travelling for [internal meeting](purposeVisit)
+- travilling to [trivendram](location) for [training](purposeVisit)
+- purpose is for [client](purposeVisit) visit
+- travelling for the [visa](purposeVisit) purpose
+- purpose of the travel
+- [client visit](purposeVisit)
+
+## intent:question
+- Anybody around to chat to me?
+- Anybody around to chat with me?
+- Anybody around to chat?
+- Anybody around to listen?
+- Anybody around to speak to me?
+- Anybody around to speak with me?
+- Anybody around to speak?
+- Anybody around to talk to me?
+- Anybody around to talk with me?
+- Anybody around to talk?
+- Anybody around?
+- Anybody there?
+- Anyone around to chat to me?
+- Anyone around to chat with me?
+- Anyone around to chat?
+- Anyone around to listen?
+- Anyone around to speak to me?
+- Anyone around to speak with me?
+- Anyone around to speak?
+- Anyone around to talk to me?
+- Anyone around to talk with me?
+- Anyone around to talk?
+- Anyone around?
+- Anyone home?
+- Anyone there?
+- Are you around to chat to me?
+- Are you around to chat with me?
+- Are you around to chat?
+- Are you around to listen?
+- Are you around to speak to me?
+- Are you around to speak with me?
+- Are you around to speak?
+- Are you around to talk to me?
+- Are you around to talk with me?
+- Are you around to talk?
+- Are you around?
+- Are you available to chat to me?
+- Are you available to chat with me?
+- Are you available to chat?
+- Are you available to listen to me?
+- Are you available to listen?
+- Are you available to speak to me?
+- Are you available to speak with me?
+- Are you available to speak?
+- Are you available to talk to me?
+- Are you available to talk with me?
+- Are you available to talk?
+- Are you available?
+- Are you free to chat to me?
+- Are you free to chat with me?
+- Are you free to chat?
+- Are you free to listen to me?
+- Are you free to listen with me?
+- Are you free to listen?
+- Are you free to speak to me?
+- Are you free to speak with me?
+- Are you free to speak?
+- Are you free to talk to me?
+- Are you free to talk with me?
+- Are you free to talk?
+- Are you free?
+- Are you listening to me?
+- Are you listening?
+- Are you there to chat to me?
+- Are you there to chat with me?
+- Are you there to chat?
+- Are you there to listen to me?
+- Are you there to listen with me?
+- Are you there to listen?
+- Are you there to speak to me?
+- Are you there to speak with me?
+- Are you there to speak?
+- Are you there to talk to me?
+- Are you there to talk with me?
+- Are you there to talk?
+- Are you there with me?
+- Are you there?
+- Can anybody hear me?
+- Can somebody hear me?
+- Can someone hear me?
+- Can we chat?
+- Can we talk?
+- Can you chat to me?
+- Can you chat?
+- Can you listen to me?
+- Can you speak to me?
+- Can you speak with me?
+- Can you speak?
+- Can you talk to me
+- Can you talk to me?
+- Can you talk with me?
+- Can you talk?
+- Chat with me
+- Is anybody around to chat to me?
+- Is anybody around to chat with me?
+- Is anybody around to chat?
+- Is anybody around to listen to me?
+- Is anybody around to listen?
+- Is anybody around to speak to me?
+- Is anybody around to speak with me?
+- Is anybody around to speak?
+- Is anybody around to talk to me?
+- Is anybody around to talk with me?
+- Is anybody around to talk?
+- Is anybody around?
+- Is anybody available to chat to me?
+- Is anybody available to chat with me?
+- Is anybody available to chat?
+- Is anybody available to listen to me?
+- Is anybody available to listen?
+- Is anybody available to speak to me?
+- Is anybody available to speak with me?
+- Is anybody available to speak?
+- Is anybody available to talk to me?
+- Is anybody available to talk with me?
+- Is anybody available to talk?
+- Is anybody free?
+- Is anybody listening to me?
+- Is anybody listening?
+- Is anybody there to chat to me?
+- Is anybody there to chat with me?
+- Is anybody there to chat?
+- Is anybody there to listen to me?
+- Is anybody there to listen?
+- Is anybody there to speak to me?
+- Is anybody there to speak with me?
+- Is anybody there to speak?
+- Is anybody there to talk to me?
+- Is anybody there to talk with me?
+- Is anybody there to talk?
+- Is anybody there?
+- Is anyone around to chat to me?
+- Is anyone around to chat with me?
+- Is anyone around to chat?
+- Is anyone around to listen to me?
+- Is anyone around to listen?
+- Is anyone around to speak to me?
+- Is anyone around to speak with me?
+- Is anyone around to speak?
+- Is anyone around to talk to me?
+- Is anyone around to talk with me?
+- Is anyone around to talk?
+- Is anyone around?
+- Is anyone available to chat to me?
+- Is anyone available to chat with me?
+- Is anyone available to chat?
+- Is anyone available to listen to me?
+- Is anyone available to listen with me?
+- Is anyone available to listen?
+- Is anyone available to me?
+- Is anyone available to speak to me?
+- Is anyone available to speak with me?
+- Is anyone available to speak?
+- Is anyone available to talk to me?
+- Is anyone available to talk with me?
+- Is anyone available to talk?
+- Is anyone available with me?
+- Is anyone available?
+- Is anyone free to chat with me?
+- Is anyone free to chat?
+- Is anyone free to listen to me?
+- Is anyone free to listen?
+- Is anyone free to speak to me?
+- Is anyone free to speak with me?
+- Is anyone free to speak?
+- Is anyone free to talk to me?
+- Is anyone free to talk with me?
+- Is anyone free to talk?
+- Is anyone free?
+- Is anyone listening?
+- Is anyone there to chat to me?
+- Is anyone there to chat with me?
+- Is anyone there to chat?
+- Is anyone there to listen to me?
+- Is anyone there to listen with me?
+- Is anyone there to listen?
+- Is anyone there to speak to me?
+- Is anyone there to speak with me?
+- Is anyone there to speak?
+- Is anyone there to talk to me?
+- Is anyone there to talk with me?
+- Is anyone there to talk?
+- Is anyone there?
+- Is somebody listening?
+- Is someone around to chat to me?
+- Is someone around to chat with me?
+- Is someone around to chat?
+- Is someone around to listen to me?
+- Is someone around to listen?
+- Is someone around to me?
+- Is someone around to speak to me?
+- Is someone around to speak with me?
+- Is someone around to speak?
+- Is someone around to talk to me?
+- Is someone around to talk with me?
+- Is someone around to talk?
+- Is someone around with me?
+- Is someone around?
+- Is someone available to chat to me?
+- Is someone available to chat with me?
+- Is someone available to chat?
+- Is someone available to listen to me?
+- Is someone available to listen with me?
+- Is someone available to listen?
+- Is someone available to me?
+- Is someone available to speak to me?
+- Is someone available to speak with me?
+- Is someone available to speak?
+- Is someone available to talk to me?
+- Is someone available to talk with me?
+- Is someone available to talk?
+- Is someone available with me?
+- Is someone available?
+- Is someone free to chat to me?
+- Is someone free to chat with me?
+- Is someone free to chat?
+- Is someone free to listen to me?
+- Is someone free to listen with me?
+- Is someone free to listen?
+- Is someone free to me?
+- Is someone free to speak to me?
+- Is someone free to speak with me?
+- Is someone free to speak?
+- Is someone free to talk to me?
+- Is someone free to talk with me?
+- Is someone free to talk?
+- Is someone free with me?
+- Is someone free?
+- Is someone listening to chat to me?
+- Is someone listening to chat with me?
+- Is someone listening to chat?
+- Is someone listening to listen to me?
+- Is someone listening to listen with me?
+- Is someone listening to listen?
+- Is someone listening to me talk?
+- Is someone listening to me?
+- Is someone listening to speak to me?
+- Is someone listening to speak with me?
+- Is someone listening to speak?
+- Is someone listening to talk to me?
+- Is someone listening to talk with me?
+- Is someone listening?
+- Is someone there to chat to me?
+- Is someone there to chat with me?
+- Is someone there to chat?
+- Is someone there to listen to me?
+- Is someone there to listen with me?
+- Is someone there to listen?
+- Is someone there to speak to me?
+- Is someone there to speak with me?
+- Is someone there to speak?
+- Is someone there to talk to me?
+- Is someone there to talk with me?
+- Is someone there to talk?
+- Is someone there?
+- Is there anybody listening?
+- Is there anyone listening?
+- Is there someone listening?
+- Is this thing on?
+- Knock knock
+- Let's chat
+- Let's talk
+- Mic check
+- Say anything
+- Talk to me
+- Talk with me
+- We should chat
+- We should talk
+
+## intent:rating_same_hike
+- Would all the employees with same rating get same % hike
+- does all the employees with same rating get same hike
+- employees with same rating get same hike
+- all the members in speridian with same rating get same hike
+- all the employess with same grade get same increment
+- employess with same rate get same increment
+- give me salary hike
+
+## intent:received_hike_variable
+- I have received my hike, when will i get my variable pay?
+- i got my received hike but when i get my variable pay
+- after receiving my hike when i get variable pay
+- when i will get my variable pay after receiving hike
+- when do i get my variable pay after receiving hike
+- variable pay
+- when will get my variable pay
+
+## intent:reliefFund
+- Can relief fund be claimed with multiple bills or a single bill
+- relief fund can be claimed with multiple bills or a single bill
+- relief fund claimed with multiple bills
+- relief fund claimed with single bill
+
+## intent:relieved_early
+- Can I get relieved early if my Manager allows me to do so?
+- shall i leave early if my manager allows me to do so
+- can i try to relieved early if my manager allows me
+- could i relieve the company early
+- could i relieve the company early if my boss allows to me do
+- can i relieve early from the company
+- can i relieve with [in 2 days](DATE) from company
+- can i relieve before complete of my notice period
+- when can i relieve
+- can i relieve early
+
+## intent:review_preiod_appraisal
+- What is the review period for Oct 20 appraisal
+- review period for 2020 appraisal
+- review period for august 10 appraisal
+- review period for june 5 appraisal
+- when was the appraisal for this year
+- when was the next appraisal review
+- What is the review period for [Oct 18](DATE) appraisal
+- appraisal
+- stars
+
+## intent:salaryDay
+- when did the salary will be credited
+- when will my salary be credited
+- salary date
+- when was the last crediting date of my salary
+- salary day of my job
+- salary amount in speridian
+
+## intent:shall_update
+- I have shared my updated passport details, but not reflecting in Mirror
+- i have sent my updated passport details but it is not reflecting in mirror
+- i have forwarded my updated passport details but it is not reflecting in mirror
+- after sharing my passport details why it is not reflecting in mirror
+- why passport details are not updated in mirror after sharing it
+- when will my passport details are updated after sharing
+- when will my passport details are updated after sending
+- My DOB/Wedding Date in Mirror is wrong
+- my date of birth and wedding date is wrong in mirror
+- my birthday details are wrong in mirror
+- wedding details are wrong in mirror
+
+## intent:simple_wonderful
+- I am a ball of joy
+- I am a happy camper
+- I am a jolly green giant
+- I am a jolly person
+- I am happy oh so happy
+- I am happy.
+- I am joyous.
+- I am so jolly
+- I can't stop smiling.
+- I can't help but be happy
+- I can't help but be joyful
+- I couldn't be happier.
+- I feel elated.
+- I feel so great.
+- I love my life.
+- Iam a happy camper.
+- Iam absolutely delighted.
+- Iam feeling cheerful.
+- Iam feeling giddy.
+- Iam feeling so chipper.
+- Iam happy as a clam.
+- Iam having a good day .
+- Iam having a lovely day .
+- Iam having a wonderful day .
+- Iam in such a great mood.
+- Iam on clould nine.
+- Iam over the moon.
+- Iam overjoyed.
+- Iam the happiest guy on earth.
+- Iam walking on sunshine.
+- I've never been happier.
+- I'm all smiles
+- I'm in such a good mood.
+- I'm joyous.
+- I'm just a cheerful gal
+- I'm just a cheerful girl
+- I'm just a cheerful kind of guy
+- I'm just a cheerful person
+- I'm living the dream!
+- I'm the happiest gal in the world.
+- I'm the happiest girl in the world.
+- It's hard not to be happy
+- Just sitting here and chatting.
+- LIfe is beautiful.
+- Life is good
+- Life is good.
+- My spirits are excellent.
+- [today](DATE)  is the best.
+- We couldn't be happier.
+- what a great day .
+- What can I say? I'm just happy
+- You've never met anyone more joyful than me
+- Excellent.
+- I always try my best to be helpful.
+
+## intent:sorry
+- "I'm offended
+- I am cross
+- I am so pissed off
+- I don't like that
+- I feel sore toward you
+- I had a bad day
+- Iam offended
+- I'm cross
+- I'm grumpy
+- I'm having a bad day
+- I'm in a mood
+- I'm so pissed off
+- I've had a bad day
+- Life is unfair
+- Life sucks
+- That hurt my feelings
+- That is very triggering
+- That offends me
+- That sucks
+- That's discrimination
+- That's homophobic
+- That's offensive
+- That's racist
+- That's terrible
+- That's an awful thing to say
+- That's hurtful
+- That's insensitive
+- That's sexist
+- That's transphobic
+- Well that sucked
+- Well that sucks
+- What is wrong with you!
+- What's wrong with you?
+- You are being mean to me
+- You are being terribly rude
+- You are dreadful
+- You are going to make my cry
+- You are just horrid
+- You are scaring me
+- You are scarring me
+- You are trying to hurt my feelings
+- You are trying to make me angry
+- You are trying to make me sad
+- You are trying to upset me
+- You clearly want me to get angry
+- You clearly want to upset me
+- You don't care about my feelings clearly
+- You suck
+- You're homophobic
+- You're racist
+- You're a meanie
+- You're absolutely awful
+- You're awful
+- You're being a bully
+- You're being a jerk
+- You're being awful
+- You're being awfully rude
+- You're being rude
+- You're despicable
+- You're sexist
+- You're such a meanie
+- You're triggering me
+- okay bull shit
+- what is my salary
+- respond to the previous question
+- Everyone
+- Anyone
+- do i have any meetings [today](DATE)
+- speridian sf
+- ds
+- anything new
+- what is thank you
+- human
+- test [wfh](leaveType) app mail
+- client met
+- client meet
+- my father passed away
+- you're wrong
+- im tired of you
+- You have lot of attitude
+- bull bull shit
+- chi shit
+- my pen is not working
+
+## intent:sorry_chat
+- All my friends are gone
+- All my friends left
+- All my friends left me
+- How can I make friends?
+- How do I make friends?
+- I am alone
+- I am so alone
+- I don't have a single friend in the world
+- I don't have any friends
+- I feel abandoned
+- I feel like I'm all by myself
+- I feel so alone
+- I feel so isolated
+- I feel very alone
+- I have a problem feeling all alone
+- I have a problem with feeling lonely
+- I have no friends
+- I live a lonely life
+- I live a very lonely life
+- I need a friend
+- I need someone to talk to
+- I want someone to love
+- I want someone to talk to
+- I wish I had a friend
+- I wish I weren't so alone
+- If only I had a friend
+- I'm a lonely gal
+- I'm a lonely girl
+- I'm a lonely guy
+- I'm a lonely person
+- I'm all alone
+- I'm feeling a little alone [today](DATE)
+- I'm friendless
+- I'm lonely
+- I'm so alone
+- I'm so lonely
+- I'm totally isolated
+- It's a cruel world and I'm lonely
+- No one cares about me
+- No one ever thinks about me
+- No one gives a crap about me
+- No one thinks about me
+- Nobody cares about me
+- Nobody likes me
+- Sometimes I feel blue and alone
+- Sometimes I feel isolated
+- Sometimes I feel lonely
+- Sometimes I feel sad and lonely
+- The world is a lonely place
+- What happened to all my friends?
+- Where did all my friends go?
+- Why can't I make any friends?
+- Why don't I have any friends?
+
+## intent:sorry_lost
+- Can you clarify that?
+- Can you explain that to me?
+- Can you explain that?
+- Can you rephrase that?
+- Can you restate that?
+- Can you say that a different way?
+- Can you state that a different way?
+- Come again?
+- Explain yourself
+- Huh?
+- I do not understand
+- I don't get it
+- I don't think I know what you're talking about
+- I don't understand
+- I don't understand what you mean
+- I don't understand what you're talking about
+- I don't understand what you're trying to say
+- I'm confused
+- I'm not following
+- Is that what you meant to say?
+- Say what?
+- That did not make any sense
+- That didn't make any sense
+- That didn't make sense
+- That doesn't make any sense
+- That doesn't make sense
+- That made no sense
+- That was confusing
+- Try harder
+- Try to make some sense
+- Umm
+- Umm what now?
+- Umm what?
+- What are you talking about?
+- What do you even mean by that?
+- What do you mean by that?
+- What does that even mean?
+- What now?
+- What on earth do you mean by that?
+- What the heck are you talking about?
+- What the heck?
+- What was that?
+- Wot?
+- You are confusing
+- You are confusing me
+- You are not making any sense
+- You are not making any sense to me
+- You are not making sense
+- You made no sense
+- You're no making any sense
+- You're not making any sense to me
+- You're not making sense
+- So what can we do then
+- what
+- hey what
+
+## intent:speridianEmployees
+- Who is applicable to all these leaves
+- Who is applicable to leave
+- Only full time regular employees be eligible for [CL]{"entity": "leaveType", "value": "cl"} leave
+- only full time regular employees be eligible for [CL]{"entity": "leaveType", "value": "cl"}
+
+## intent:suggest_tax
+- Please suggest some tax savings investments
+- Kindly suggest some tax savings investments
+- Suggest some tax savings investment
+- can you suggest some tax savings investments
+- Please recommend some tax savings investments
+- Kindly recommend some tax savings investments
+- can you advise some tax savings investments
+- tax saving investments
+- tax investments
+
+## intent:take_time
+- Await my return
+- Back in a couple of minutes
+- Back in a flash
+- Back in a minute
+- Back in just a few moments
+- Back in just a second
+- Be back a little later
+- Be back in a dash
+- Be back in just a bit
+- Be back shortly
+- Be back soon
+- Be right back
+- BRB
+- BRB BB
+- BRB bot
+- Calm down I'll be back
+- Calm down I'll be back shortly
+- Can you hang on a minute?
+- Can you hang on?
+- Can't wait to talk more when I return
+- Don't worry bot I'll be back
+- Don't you fret I'll be [coming](period) back
+- Don't you worry I'll be back
+- Gotta go be back later
+- Hang on
+- Hold my calls
+- Hold on a sec
+- I shall return
+- I will be back
+- I will return in a bit
+- I will return shortly
+- I'll be back
+- I'll be back after my shift
+- I'll be back after work
+- I'll be back at midnight
+- I'll be back before you know it
+- I'll be back bot
+- I'll be back in a flash
+- I'll be back in the morning
+- I'll be back in two shakes of a lamb's tail
+- I'll be back [next week](DATE)
+- I'll be back shortly
+- I'll be back soon
+- I'll be back this afternoon
+- I'll be back this evening
+- I'll be back [tomorrow](DATE)
+- I'll be right back
+- I'll be right back dear
+- I'll BRB
+- I'll come back in a bit
+- I'll come back to you in a bit
+- I'm [coming](period) right back
+- L8R
+- Let's pick up this conversation when I get back
+- Let's shoot the breeze when I return
+- Obviously I'll be back soon
+- See ya shortly
+- See you shortly
+- talk to you soon
+- We can keep chatting after I get back home
+- We can keep chopping it up later
+- We can keep talking after I get back
+- You silly bot I'll be back later
+- please provide the [pending](leaveStatus) leaves to approve
+- Due to Covid-19
+
+## intent:taxreturns_query
+- What will be my taxable amount for this FY and for that which all documents do I need to declare in benefits portal
+- where can i declare the documents for taxable amount for this Financial year
+- where can i update the taxable documents for this Financial year
+- where can i declare the taxable documents for this Financial year
+- where can i declare the taxable documents for this fy
+- where can i upload the documents for tax returns
+- whom should i contact for taxable amounts for this fy
+- whom should i contact for taxable amounts for this financial year
+
+## intent:team_people
+- Do you have a creator?
+- Do you have a designer?
+- Do you have a developer?
+- Do you have a maker?
+- Do you have a programmer?
+- Hey who built you
+- How did you come into being?
+- How did you come to be?
+- How did you manifest?
+- How were you built?
+- How were you designed?
+- How were you programmed?
+- What company designed you?
+- What company developed you?
+- What company engineered you?
+- What company produced you?
+- What company programmed you?
+- Where did you come from?
+- Where do you come from?
+- Which company designed you?
+- Which company developled you?
+- Which company engineered you?
+- Which company made you?
+- Which company programmed you?
+- Which people made you?
+- Who built you?
+- Who created you?
+- Who designed you?
+- Who developed you?
+- Who did your programming?
+- Who engineered you?
+- Who has built you
+- Who incorporated you?
+- Who is your architect?
+- Who is your creator?
+- Who is your designer?
+- Who is your developer?
+- Who is your maker?
+- Who made you?
+- Who manifested you?
+- Who owns you?
+- Who produced you?
+- Who programmed you?
+- Who's responsible for designing you?
+- Who's responsible for programming you?
+- Who's your creator?
+- Who's your developer?
+- Who's your maker?
+- Whose product are you
+- Whose program are you?
+- who is your creator?
+- who created you
+- who made you
+- who designed bot
+- who made this bot?
+
+## intent:thank_you
+- "Happy April fool's day
+- Happy Armed Forces day
+- Happy Birthday!
+- Happy Citizenship day
+- Happy Columbus day
+- Happy Earth day
+- Happy Easter
+- Happy Father's day
+- Happy Friendship day
+- Happy Grandparents day
+- Happy Groundhogs day
+- Happy Halloween!
+- Happy Hannukah
+- Happy Independence day
+- Happy Indigenous Peoples day
+- Happy Kwanzaa
+- Happy Martin Luther King Jr. day
+- Happy Memorial day
+- Happy Mother's day
+- Happy National Children's day
+- Happy National day of prayers
+- Happy New [year](DATE) s
+- Happy Nurses' day
+- Happy Parent's day
+- Happy President's day
+- Happy St. Patrick's day
+- Happy Super Bowl [Sunday](DATE)
+- Happy Thanksgiving
+- Happy Valentine's day
+- Happy Veteran's day
+- Merry Christmas
+- Merry Christmas eve
+- Season's greetings!
+- okay come i will be waiting
+- happy day
+- happy [new year](DATE)
+- i had a good day [today](DATE)[today]{"entity": "time", "value": "2020-05-01T00:00:00.000+00:00"}
+
+## intent:thankyou_day
+- Because I like you
+- Do you know how much I like you?
+- Do you know that I like you
+- Don't you know that I like you
+- Have I told you how much I like you?
+- Have I told you that I like you?
+- I especially like you
+- I like you
+- I like you a lot
+- I like you best
+- I like you lots
+- I like you the best
+- I like you very much
+- I really like you
+- I'm fond of you
+- I'm in like with you
+- I'm very fond of you
+- I'm your biggest fan
+- It's because I like you
+- You are my favorite
+- You are special to me
+- You're my favorite
+- You're so special to me
+- You're so very special to me
+- You're special to me
+- You're the best
+- You're very special to me
+
+## intent:thankyou_kind
+- Are you awesome?
+- Aren't you awesome?
+- but your answers are not bad
+- haha that's interesting
+- How much more awesome can you get?
+- I am a fan
+- I Am happy talking
+- I Find happiness in talking
+- I love the personality chatbot
+- I Take great pleasure in speaking
+- I think you are great
+- I think you are incredible
+- I think you're great
+- I think you're incredible
+- I think you're spectacular
+- I'm a fan
+- Impressive though.
+- That is hilarious
+- That was awesome
+- That was cool
+- That was funny
+- That was great
+- That was hilarious
+- That was wonderful thanks for making me laugh!
+- That's rad
+- This brings me happiness
+- u r alright
+- u r funny
+- What a great answer
+- What a great response
+- What a great thing to say
+- What a perfect answer
+- What a perfect response
+- What an encouraging creature you are :)
+- What cool thing to say
+- Wow you're great!
+- Wow that shows more inteligence than expected
+- Wow you're fantastic!
+- Wow you're so great!
+- You are amazing
+- You are awesome!
+- You are fantastic!
+- You are funny
+- You are funny :)
+- You are hilarious
+- You are nice!
+- You are rad
+- You are so funny
+- You are so great
+- You are spectacular
+- You are stellar
+- You are the bees knees
+- You are the best
+- You are top notch
+- You are wonderful
+- You're amazing
+- You're awesome!
+- You're funny
+- You're funny :)
+- You're hilarious
+- You're nice!
+- You're rad
+- You're so funny
+- You're spectacular
+- You're the bees knees
+- You're the best
+- You're the best ever!
+- You're top notch
+- You're wonderful
+- you are wrong!
+- so nice of you
+
+## intent:things_wrong
+- "You're lame
+- I can't stand you
+- I can't stand you anymore
+- Because you are stupid
+- Because you're an idiot
+- UR idiot
+- UR lame
+- You are an idiot
+- Alexa does a better job
+- Alexa does a better job at this
+- Alexa does a better job than you
+- Alexa is better
+- Alexa is superior
+- Alexa is superior to you
+- Alexa is way better
+- Alexa is way better at this
+- Alexa is way better than you
+- Alexa is way smarter than you
+- Are you a moron?
+- Are you an idiot?
+- Are you dumb?
+- Are you slow?
+- Are you stupid?
+- Bixby does a better job
+- Bixby does a better job at this
+- Bixby does a better job than you
+- Bixby is better
+- Bixby is superior
+- Bixby is superior to you
+- Bixby is way better
+- Bixby is way better at this
+- Bixby is way better than you
+- Bixby is way smarter than you
+- Cortana does a better job
+- Cortana does a better job at this
+- Cortana does a better job than you
+- Cortana is better
+- Cortana is superior
+- Cortana is superior to you
+- Cortana is way better
+- Cortana is way better at this
+- Cortana is way better than you
+- Cortana is way smarter than you
+- Dumb
+- Dummy
+- Google Assistant does a better job
+- Google Assistant does a better job at this
+- Google Assistant does a better job than you
+- Google Assistant is better
+- Google Assistant is superior
+- Google Assistant is superior to you
+- Google Assistant is way better
+- Google Assistant is way better at this
+- Google Assistant is way better than you
+- Google Assistant is way smarter than you
+- How can you be so bad at this?
+- Siri does a better job
+- Siri does a better job at this
+- Siri does a better job than you
+- Siri is better
+- Siri is superior
+- Siri is superior to you
+- Siri is way better
+- Siri is way better at this
+- Siri is way better than you
+- Siri is way smarter than you
+- That was awful
+- That was dumb
+- That was idiotic
+- That was stupid
+- Useless
+- Why are you so annoying
+- Why are you so bad at this
+- Why are you so dumb
+- Why are you so stupid
+- Why are you the worst
+- You are annoying
+- You are bad at this
+- You are dumb
+- You are pretty dumb
+- You are pretty much the worst
+- You are pretty useless
+- You are really annoying
+- You are really dumb
+- You are so annoying!
+- You are so bad at this
+- You are so dumb
+- You are so worthless
+- You are stupid
+- You are the worst
+- You are the worst bot
+- You are useless
+- You are worthless
+- You do not know anything
+- You don't know anything
+- You're bad at this
+- You're dumb
+- You're pretty dumb
+- You're pretty much the worst
+- You're pretty useless
+- You're really annoying
+- You're really dumb
+- You're so bad at this
+- You're so worthless
+- You're stupid
+- You're terrible
+- You're terrible at this
+- You're the worst
+- You're useless
+- You're worthless
+- I hate you
+- no you can't
+- you stupid
+
+## intent:timesheetApproval
+- timesheet approval
+- how to [approve](leaveStatus) the time sheet
+- please [approve](leaveStatus) the time sheet
+- where to [approve](leaveStatus) the timesheet
+- when can i approve the timesheet
+
+## intent:transportRoute
+- transport route is [bus](transportRoute)
+- transport route is [flight](transportRoute)
+- route i want to travel in [train](transportRoute)
+- transport route is [train](transportRoute)
+- route i want to travel in [bus](transportRoute)
+
+## intent:travelRequest
+- travel Request
+- how to apply travel request
+- apply travel ticket from [Bangalore](location) to [Mumbai](location)
+- Apply travel request [on tuesday](DATE) from [mumbai](location) to [Bangalore](location)
+- where to apply travel request
+- book a [flight](transportRoute) [tomorrow](DATE) from [bangalore](location) to [mumbai](location)
+- book a voyager [tomorrow](DATE) from [bangalore](location) to [mumbai](location)
+- book [flights](transportRoute) from [mumbai](location) to [delhi](location)
+- book a travel from [bangalore](location) to [mumbai](location)
+- book travel from [mumbai](location) to [chennai](location)
+- book travel ticket
+- book voyager
+- book [flight](transportRoute) ticket from [trivendram](location) to [bangalore](location)
+- book me first class ticket from [kolkata](location) to [mumbai](location)
+- book me a trasportation from [chennai](location) to [mumbai](location)
+- book me a travel [bus](transportRoute) from [bangalore](location) to [chennai](location)
+- book me a [train](transportRoute) from [trivendram](location) to [bangalore](location)
+- book ticket from [mumbai](location) to [chennai](location)
+- book a ticket from [chennai](location) to [mumbai](location)
+- book a voyager for [tomorrow](DATE) from [mumbai](location) to [bangalore](location)
+- book voyager from [mumbai](location) to [bangalore](location) for [today](DATE)
+- book voyager for [tomorrow](DATE) from [mumbai](location) to [bangalore](location)
+- travel desk
+- book voyager from [mumbai](location) to [bangalore](location) [on coming monday](DATE)
+- book voyager from [mumbai](location) to [bangalore](location) [tomorrow](DATE)
+- book voyager origin from [mumbai](location)
+- book voyager from [mumbai](location) to [mumbai](location)
+- book voyager from [mumbai](location) to [banalore](location)
+- book travel from [mumbai](location) to [bangalore](location)
+- book voyager from [bangalore](location) to [bangalore](location)
+- book voyager from [mumbai](location) to [bangalore](location) [on 22-02-2020](DATE)
+- book voyager from [mumbai](location) to [bangalore](location) [on 23rd march](DATE)
+- book voyager from [mumbai](location) to [bangalore](location) [on 21st march](DATE)
+- book voyager from [mumbai](location) to [bangalore](location)
+- book a ticket from [mumbai](location) to [bangalore](location)
+- voyager from [delhi](location) to [trivendram](location) [on 22nd feb](DATE)
+- book a ticket from [bangalore](location) to [mumbai](location)
+- book travel for Presales [on 10 March](DATE)  from [Mumbai]{"entity": "location", "value": "mumbai"} to [trivandrum](location)
+- book a [flight](transportRoute) from [bangalore](location) to [mumbai](location) [on 10th march](DATE)
+- book [flight](transportRoute) from [mumbai](location) to [bangalore](location)
+- book a [flight](transportRoute) from [bangalore](location) to [mumbai](location)
+- book [flight](transportRoute) from [bangalore](location) to [mumbai](location)
+- book [flight](transportRoute) to [mumbai](location)
+- book a [bus](transportRoute)
+- book a [train](transportRoute)
+- book a [flight](transportRoute)
+- book a travel
+- book a ticket [mumbai](location) to [bangalore](location) [on 13th march 2020](DATE)
+- show me recent travels
+- show me travelling list
+- show me past travels
+- book a ticket to [mumbai](location)
+- Please make a travel reservation for somewhere in [Mondovi](location), Connecticut.
+- I'd like to travel in [Coalton](location)
+- Book seating at a travel in [Topton](location)
+- I want to go to [Antigua](location)
+- book a travel on [feb. the twenty-sixth, 2026](DATE) in [Tracyton](location) for two at a cafe
+- book a travel on [6/14/2035](DATE)
+- Can you book me a travel to [delhi](location)
+- I want to book a travel neighboring [Livonia Av](location)
+- Book me a travel please.
+- book a travel at [trivandrum](location) to [Pune](location)
+- Find a travel for 3 people
+- Book a travel to [trivandrum](location) for nine people.
+- Book a travel for nine people from [trivandram](location) to [delhi](location).
+- Can you book me a travel to [calicut](location)
+- I need a travel for [chennai](location)
+- Book The [chennai](location) travel please.
+- I want to go to [trivandram](location)
+- please book a travel to [delhi](location)
+- book a [flight](transportRoute) to [delhi](location)
+- book a bus to [chennai](location)
+- book me a travel in the [Northern Mariana Islands](location)
+- book me a travel to [bihar](location)
+- book me a travel to [patna](location)
+- Book me a popular travel reservation at a [punjab](location)
+- book a travel this year in [Manning](location)
+- travel to [gujarat](location)
+- Book a [bus](transportRoute) to [surat](location).
+- book a [train](transportRoute) to [vijayawada](location)
+- Book a [bus](transportRoute) to [kochi](location).
+- Book a [bus](transportRoute) to [udupi](location).
+- book a [flight](transportRoute) to [singapore](location)
+- book a [flight](transportRoute) to [washington dc](location)
+- book a travel to [manila](location)
+- book a travel to [lucknow](location)
+- book a travel to [patna](location)
+- book a travel to [kolkatta](location)
+- book a travel to [nasik](location)
+- book a travel to [london](location)
+- book a travel to [coimbatore](location)
+- book a travel to [varanasi](location)
+- book a travel to [thrissur](location)
+- book a travel to [jaipur](location)
+- book a travel to [cochin](location)
+- book a travel to [calicut](location)
+- book a travel to [hyderabad](location)
+- book a travel to [chennai](location)
+- book a travel to [visakhapatnam](location)
+- book a travel to [ratnagiri](location)
+- book a travel to [batkal](location)
+- book a travel to [amravati](location)
+- book a travel to [colombo](location)
+- book a travel to [nagpur](location)
+- book a travel to [kolhapur](location)
+- book a travel to [raigad](location)
+- book a travel to [ahmednagar](location)
+- book a travel to [jalgaon](location)
+- book a travel to [aurangabad](location)
+- book a travel to [bankok](location)
+- book a [flight](transportRoute) to [bankok](location)
+- book a [flight](transportRoute) to [colombo](location)
+- book a [train](transportRoute) to [varanasi](location)
+- book a travel to [mumbai](location)
+- book travel from [mumbai](location) to [pune](location)
+- book ticket from [mumbai](location) to [bangalore](location)
+- book from [bombay](location) - [bengaluru](location)
+- ticket from [mumbai](location) - [bangalore](location)
+- book ticket from [mumbai](location) 2 [bbangalore](location)
+- book [flight](transportRoute) ticket from [bangalore](location) 2 [mumbai](location)
+- book ticket from [mumbai](location) 2 [bangalore](location)
+- book ticket from [bangalore](location) 2 [mumbai](location)
+- book ticket from [mumbai](location) to [delhi](location)
+- book ticket from [mumbai](location) to [hyderabad](location)
+- book ticket from [mumbai](location) to [kurnook](location)
+- Transfer
+- book my travel
+- i need to book international [flight](transportRoute) tickets now
+
+## intent:travel_services
+- Whom do I contact for travel related services?
+- Whom do I contact for travel related issues
+- who do i contact for travel related services
+- how to enquiry for travel related services
+- travel related issues
+- Travel related services
+- for whom do i need to contact for travel related services
+
+## intent:tripType
+- my trip is [round](tripType)
+- select [round](tripType) trip
+- select [return](tripType) trip
+- select [single](tripType) trip
+- my trip is [single](tripType)
+- my trip is [oneway](tripType)
+
+## intent:trust_judgment
+- Do I need a new job?
+- Do I need to brush my teeth?
+- Do I need to go outside?
+- Do you think I need a haircut?
+- Do you think I should ask her out?
+- Do you think I should ask him out?
+- I don't know what I'm supposed to do
+- Should I bake a cake?
+- Should I buy a boat?
+- Should I buy a car?
+- Should I buy a house?
+- Should I buy a new boat?
+- Should I buy a new car?
+- Should I buy a new house?
+- Should I buy coffee?
+- Should I call my brother?
+- Should I call my dad?
+- Should I call my mom?
+- Should I call my sister?
+- Should I comb my hair?
+- Should I do my homework?
+- Should I eat Mexican food?
+- Should I find a new apartment?
+- Should I find a new roommate?
+- Should I get a haircut?
+- Should I get a new job?
+- Should I get a part-time job?
+- Should I get a puppy?
+- Should I get a tan?
+- Should I get a tattoo?
+- Should I get bangs?
+- Should I get divorced?
+- Should I get food delivered?
+- Should I get married?
+- Should I get my ears pierced?
+- Should I get take out?
+- Should I go back to school?
+- Should I go back to work?
+- Should I go for a hike?
+- Should I go for a run?
+- Should I go in to work?
+- Should I go on a bike ride?
+- Should I go on a diet?
+- Should I go out dancing tonight?
+- Should I go out to eat?
+- Should I go out tonight?
+- Should I go see a movie?
+- Should I go shopping?
+- Should I go skydiving?
+- Should I go to a museum?
+- Should I go to church?
+- Should I go to movie?
+- Should I go to the bar?
+- Should I go to the beach?
+- Should I go to the concert?
+- Should I go to the game?
+- Should I go to the party?
+- Should I go to the store?
+- Should I go to the zoo?
+- Should I go to therapy?
+- Should I go vegan?
+- Should I have another cup of coffee?
+- Should I have kids?
+- Should I move?
+- Should I quit my job?
+- Should I quit working?
+- Should I read a book?
+- Should I ride my bike to work?
+- Should I skip class?
+- Should I skip school?
+- Should I start a business?
+- Should I stay home from work?
+- Should I stay home sick?
+- Should I study abroad?
+- Should I take a [sick]{"entity": "leaveType", "value": "SL"} day ?
+- Should I take a trip?
+- Should I take a walk?
+- Should I take the bus?
+- Should I throw a party?
+- Should I try out for soccer?
+- Should I try the keto diet?
+- Should I try yoga?
+- Should I visit my brother?
+- Should I visit my dad?
+- Should I visit my mom?
+- Should I visit my sister?
+- Should I vote democratic?
+- Should I vote for Beto?
+- Should I vote for Harris?
+- Should I vote for Trump?
+- Should I vote republican?
+- Should I walk to work?
+- What am I allowed to do?
+- What am I allowed to say?
+- What am I supposed to do?
+- What am I supposed to try?
+- What else should I try?
+- What should I be when I grow up?
+- What should I do [next](period)?
+- What should I do?
+- What should I have for breakfast?
+- What should I have for dinner?
+- What should I have for lunch?
+- What should I make for breakfast
+- What should I make for dinner?
+- What should I make for lunch?
+- What should I say?
+- What should I wear [today](DATE)?
+- Where should I go [next](period)?
+- Where should I go on vacation?
+- Who should I ask to prom?
+- do you trust me
+
+## intent:two_wheeler_maintance
+- Is Vehicle running and maintenance cover two wheeler
+- is two wheeler vehicle are covered maintance
+- can i cover two wheeler vehicle for maintance
+- can i cover maintance bill for motor vechile
+- can i cover maintance bill for motor bicycle
+- is it possible to Fuel reimbursement benefit for two-wheeler
+- can i Fuel reimbursement benefit for two-wheeler
+- can i Fuel reimbursement benefit for motor vehicle
+- claim fuel amount for two wheeler
+- claim fuel amount for motor vehicle
+- Why is Two-wheeler vehicle is  not covered for Fuel reimbursement benefit?
+- motor vehicle is not covered for fuel reimbursement benefit
+- motor bicycle is not covered for fuel reimbursement benefit
+
+## intent:uable_timesheet
+- Delay in RAF/project allocation for new joinees, hence unable to submit time sheets
+- unable to submit timesheet because there is delay in RAF/project allocation for new joinees
+- unable to submit timesheet because there is delay in RAF/project allocation
+
+## intent:update_kyc_pf
+- How can i update KYC details for PF
+- how to update kyc details for PF
+- how can i update known your customer detials for pf
+- where can i update known your customer detials for provident fund
+- where can i change kyc detials for pf
+- How to change/update basic details/KYC in PF portal?
+- PF
+- enroll for pf
+- What is EPF?
+- How to change/update basic details in PF portal?
+- What is KYC & were to update?
+- I am not able to upload my KYC (eg- Aadhar/ Pan/ Bank account no.)
+- how to update KYC details
+
+## intent:upload_bills_portal
+- Should i upload medical bills in Insurance Portal for mediclaim
+- shall i upload medical bills in insurance portal for mediclaim
+- do i need to upload medical bills in insurance portal for mediclaim
+- can i upload the xerox medical bills in insurance portal for mediclaim
+- how to submit the medical bills
+- how to get mediclaim for the medical bills
+- where to upload the medical bills for mediclaim
+
+## intent:upset
+- I can't stand this
+- I am always angry
+- I am always pissed off
+- I am angry
+- I am annoyed
+- I am feeling angry
+- I am feeling kind of mad
+- I am feeling ticked off
+- I am just ticked off
+- I am mad
+- I am mad every day
+- I am peeved
+- I am so annoyed
+- I am so peeved [today](DATE)
+- I am ticked off
+- I am up in arms
+- I am vexed
+- I can't stop being angry
+- I couldn't be more angry
+- I have been so mad lately
+- I sure am ticked off
+- I'm absolutely furious
+- I'm always mad
+- I'm an angry girl
+- I'm an angry guy
+- I'm an angry person
+- I'm enraged
+- I'm feeling cross
+- I'm furious
+- I'm heated
+- I'm livid
+- I'm so mad
+- I'm so outraged
+- I'm ticked off
+- I've never been angrier
+- I've never been this angry in all my life
+- The news made me angry
+- This is infuriating
+- This is maddening
+
+## intent:valid_zeta_balance
+- For many months/years my Zeta balance will carry forwarded or valid till
+- how many months my zeta balance will be carry forwarded
+- how many years my zeta card will be valid
+- how many year my zeta balance will be carry forwarded
+- how many months my zeta balance will be valid
+- validity of zeta balance
+- validity of zeta card
+- For many months/years my Zeta balance will carry forwarded or valid till?
+- I lost my Zet card, what I can I do?
+
+## intent:weather
+- How's the weather today in [Berlin](location)?
+- How's weather in [Stuttgart](location) today?
+- What's going on [Berlin](location) today?
+- How's the weather today?
+- What's today's weather?
+- How is it out there today?
+- What is the temp in [Stuttgart](location)?
+- How is the temperature in [Amsterdam](location) now?
+- What is temperature in [New York](location) now?
+- How's current temperature in [Moscow](location) now?
+- Tell me temperature in [Helsinki](location) now.
+- What's overall weather today?
+- Tell me today's weather
+- Tell me weather of [Dresden](location)
+- What about in [Rome](location) today?
+- Show me weather of [Venice](location)
+- How about weather in [Italy](location)
+- Uhh, how about in [Bulgaria](location)?
+- Tell the temperature in [Caen](location)
+- Temp in [Calgary](location)?
+- Current temperature in [London](location)?
+- Show the temp in [UK](location)?
+- what about today's temperature in [Munich](location)?
+- hey, what's current temp in [budapest](location)?
+- show me current [canada](location) temperature
+
+## intent:wish
+- Being sad is the worst
+- Depression is such a bummer
+- Depression is the worst
+- Every day I feel down
+- Everyone feels blue sometimes
+- Feeling down is the worst
+- I am always depressed
+- I am always sad
+- I am depressed
+- I am down in the dumps
+- I am feeling broken hearted
+- I am so utterly bummed out
+- I am the saddest person in the world
+- I am unhappy
+- I am usually bummed out
+- I am usually depressed
+- I am usually sad
+- I couldn't be more dejected
+- I feel bummy [today](DATE)
+- I feel dejected
+- I feel down
+- I feel down in the dumps
+- I feel hopeless
+- I feel pretty bummed out
+- I feel sad
+- I hate being depressed
+- I hate depression
+- I hate feeling down
+- I hate feeling sad constantly
+- I hate feeling sad every day
+- I'm despairing
+- I'm despondent
+- I'm downcast
+- I'm downhearted
+- I'm feeling a little down [today](DATE)
+- I'm feeling blue
+- I'm feeling down
+- I'm feeling gloomy
+- I'm feeling glum
+- I'm feeling woeful
+- I'm full of sadness
+- I'm heartbroken
+- i'm incosolable
+- I'm just feeling a bit sad [today](DATE)
+- I'm melancholy
+- I'm miserable
+- I'm out of sorts
+- I'm really sad
+- I'm sad [today](DATE)
+- I'm so sad
+- I've been sad all day
+- Just feeling a tad down
+- Life always sucks
+- Life is depressing
+- Life is heartbreaking
+- Life is miserable
+- Life is sad
+- Listen I'm just sad
+- my life is depressing
+- My life is so sad
+- My spirits are terrible
+- Mylife is miserable
+- No one likes me because I'm always sad
+- Sometimes I feel bummed out
+- Sometimes I just feel sad
+- This [week](DATE) has made me sad
+- [Today](DATE) has been a trying day
+- [Today](DATE) has been depressing
+- [Today](DATE) has made me sad
+- [Today](DATE) has me feeling blue
+- [Today](DATE) is just a little sad
+- [Today](DATE) made me sad
+- What can I say? I'm just feeling sad
+- I was [sick](leaveType)
+- so sad
+
+## intent:wonderful
+- Any time
+- Anytime
+- De nada
+- Don't mention it
+- Forget about it
+- Fuggitaboutit
+- Iam happy to help
+- It is my pleasure
+- It was nothing
+- It's my pleasure
+- My pleasure
+- No biggie
+- No problem
+- No worries
+- Not a problem
+- Not at all
+- Welcome
+- Welcome you are
+- You are most welcome
+- You are so very welcome
+- You are so welcome
+- You are very welcome
+- You are welcome
+- You're most welcome
+- You're so very welcome
+- You're so welcome
+- You're very welcome
+- You're welcome
+- You're welk
+
+## intent:working_on
+- Are you capable of saying something different?
+- Can you come up with anything else?
+- Can you come up with something else to say?
+- Can you give me a different answer?
+- Can you give me another answer?
+- Can you say anything else?
+- Can you switch up your answers?
+- Can you tell me something else?
+- Can you tell me something new?
+- Can't you change your answers?
+- Can't you say anything else?
+- Can't you tell me something different?
+- Can't you tell me something else?
+- Can't you tell me something new?
+- Come up with something else
+- Come up with something new
+- Could you say something else?
+- Could you say something new?
+- Could you tell me something else?
+- Could you tell me something new?
+- Didn't I see that already?
+- Didn't you already say that?
+- Didn't you already tell me that?
+- Do you have any other responses?
+- Do you have anything new to say?
+- Don't you have any other answers?
+- Don't you have anything different to say?
+- Don't you have anything else to say?
+- Don't you have anything new to say?
+- Don't you say anything else?
+- How come you always repeat everything?
+- How come you always say the same thing?
+- I already heard that
+- I sure wish you would switch up your responses
+- I think I've already heard that
+- I think I've heard that already
+- I think I've heard this one before
+- I think you already said that
+- I think you're repeating yourself
+- I want a different answer
+- I want a different response
+- I want a new answer
+- I want a new response
+- I wish you would say something else
+- I would love it if you stopped repeating yourself
+- I'm going to need a different answer
+- I'm going to need a new answer
+- I'm going to need a new response
+- I'm gonna need a better response
+- I'm gonna need a different answer
+- Is that all you can say?
+- Is that the only answer you have?
+- Is that the only answer you know?
+- Is that the only response you have?
+- Is that the only response you know?
+- Is that the only thing you can say?
+- I've already heard that one
+- I've heard that already
+- I've heard that before
+- I've heard that one already
+- I've heard that one before
+- Please say something different
+- Say a new thing
+- This again?
+- Why are you repeating yourself?
+- Why are you so limited?
+- Why are you so repetitive?
+- Why are your answers so repetitive?
+- Why are your responses always identical?
+- Why are your responses always the same?
+- Why do you always say the same thing?
+- Why do you keep repeating yourself?
+- Why do you say the same thing all the time?
+- Why is what you say so limited?
+- Why wont you say something new?
+- Woud you give me a new answer?
+- Would you give me a different answer?
+- Would you give me a different response?
+- Would you give me a new response?
+- You already said that
+- You already told me that
+- You keep saying the exact same thing
+- You keep saying the same crap
+- You keep saying the same thing
+- You keep saying the same thing all the time
+- You realize you're repeating yourself right?
+- You realize you're repeating yourself?
+- You repeat yourself a great deal
+- You repeat yourself a lot
+- You said that already
+- You told me that already
+- You're a broken record
+- You're constantly repeating yourself
+- You're repeating yourself
+- You're so repetitive
+- You've already said that
+- You've said that before
+- what else
+- why are you saying this
+- thats not right
+
+## intent:yes_query
+- Can we start PF in the mid of our tenure?
+- could we start PF in the mid of our term
+- could we start provident fund in the mid of our term
+- can we start provident fund in the mid of year
+- Can PF be opted later during course of employment
+- Can Provident fund be opted later during course of employment
+- would pf be taken later during course of employment
+- would provident fund be taken later during employment
+- Had mandatory EPF deduction in my previous organization but in Speridian its optional, so is it possible to Opt out from EPF?
+- EPF is optional in speridian
+- EPF is optional
+- Employees provident fund is optional in speridian
+- is EPF optional
+- EPF deduction in my last company is it optional in speridian
+- EPF deduction in my last company is it optional here
+- is EPF optioanl here
+- Can I opt for Voluntary PF in mid of employment
+- Can I choose Voluntary Provident fund in the middle of employment
+- Can I choose Voluntary Provident fund in the middle of job
+- Can I choose Voluntary Provident fund in the middle of work
+- Can i take voluntary pf in mid of employment
+- shall i opt for voluntary provident  fund in mid of work
+- could i choose voluntary PF in mid of work
+- I have did not PF in my previous organization can I opt with Speridain
+- i did not have provident fund in my last company shall i select with speridian
+- i didn't have pf in my last organization can i choose here
+- i did not have provident fund in previous organization shall i take in speridian
+- can i take pf in speridian
+- can i take pf here
+- can i take pf
+- is PF optional in speridian
+- is pf optional
+- Is Partial withdrawal possible
+- can i withdrawal partial amount of my pf
+- can i withdraw partial amount of my provident fund
+- some amount can i withdraw from PF
+- shall i withdraw some amount from pf
+- can i withdraw pf amount
+- Cant I withdraw PF as there are some changes in the EPF rules?
+- Can't i withdraw provident fund as there are changes in the epf rule
+- if there are any changes in epf rule can't i withdarw pf
+- Can we work Flexi Timings?
+- is speridian timings are flexible
+- can i work in flexible times
+- shall i do my job in flexible times
+- can i do my work in open times
+- can i do my job in open times
+- Is passport mandatory
+- passport is mandatory here
+- passport is mandatory in speridian
+- Can I submit my fuel / maintenance bills year end rather than submitting quarterly?
+- shall i submit yearly my fuel or maintence bills
+- can i submit yearly my fuel bills rather than quarterly
+- Does the Flexi benefits are open all through the year?
+- Does the Flexi benefits are open full year?
+- Flexi benefits are open all through the year?
+- Will there be variable pay this year?
+- is there any variable pay in this year
+- variable pay this year
+- can i get variable pay this year
+- My notice period is 2months but I need to join my new company bit early, buy out option possible?
+- My notice period is 2 months but I need to join my new company bit early, buy out option possible?
+- My notice period is 1 month but I need to join my new company bit early, buy out option possible?
+- i need to join bit yearly in new company. is there any buyout option here
+- i want to leave this company early to join in new comapny is there any buyout option
+- Do speridian has buyout option
+- buyout option
+- is there buyout option in speridian
+- there is any buyout option here
+- Do we ger Variable Pay?
+- Do we get Variable Pay?
+- is medical insurance avilable for all the employees
+- is medical insurance avilable for contract employees
+- Can I opt for  Voluntary PF in mid of employment?
+- Can I opt for  Voluntary PF in mid of employment
+- [Floating]{"entity": "leaveType", "value": "floating"} Holidays any day but should be applied prior to seven days
+- Are the Flexi benefits open all through the year?
+- is there an option to buy out my notice period?
+- Do I need original bills for submission
+- Have met any speridian employee in person?
+- Can i get the appraisal
+- Do we have paid vacation?
+- I have no deduction against PF in my previous organization can I opt with Speridain
+
+## intent:fallback
+- Who is Satish?
+- which language do you speak?
+- timesheet ?
+- my wedding day
+- Due to lockdown
+- test purpose
+- select
+- wedding anniversary
+- spouse name
+- 19
+- best websites for .net solutions
+- when is [subbus marriage](reason) ?
+- subbu sir is great
+- who is subbu sir
+- new acquisition by speridian
+- can you help with my time sheet
+
+## intent:work_hours
+- what are my work timings
+- my working hours
+
+## intent:conversationEnd
+- stop conversation
+- conversationEnd
+- can we close the conversation
+- close the conversation
+- please chat stoping
+- end the conversation
+- yes stop the conversation
+- yes close the conversation
+
+## intent:it_helpdesk_FAQs
+- it helpdesk  faqs
+- help desk faqs
+- it help questions
+- system admin faqs
+- system admin questions
+- it help desk questions
+- it_helpdesk
+- it_helpdesk_FAQs
+- it help
+
+## intent:employee_query
+- who is [lokesh](person)
+- tell me about [priyank](person)
+- who is [Chandra](person)
+- i want to know about [Satish](person)
+- Employee query
+- tell me about [Vinay](person)
+- i want to search about [shital](person)
+- who is [Ben](person)
+- who is [shiva](person)
+- can you tell about [deeraj](person)
+- who is [ddeva](person)
+- who is [lokesh](person) in speridian bangalore
+- who is [lokeah](person)
+
+## intent:employee_search
+- employee search
+- search the employee list
+- search the employee directory
+- my colleague details
+- find my directory employee details
+- my reporting manager directory details
+- search employees
+- search employe
+- search employee
+- employee Search
+- emplyee search
+
+## intent:themeColor
+- change theme color to [blue](color)
+- change my color theme to [pink](color)
+- change theme to [red](color)
+- change to [pink](color) theme
+- how to change my theme to [blue](color)
+- [pink](color) theme
+- [red](color) theme
+
+## intent:Benefits_FAQs
+- Benefits FAQS
+- faqs of benefits
+- faq benefit
+- benefits of faq
+- faqs benefits
+- faqs benefit
+
+## synonym:02 - 10 - 2019
+- 02-10-2019
+
+## synonym:05 - 09 - 2019
+- 05-09-2019
+
+## synonym:06 - 09 - 2019
+- 06-09-2019
+
+## synonym:07 - 09 - 2019
+- 07-09-2019
+
+## synonym:11 - 10 - 2019
+- 11-10-2019
+
+## synonym:12 - 10 - 2017
+- 12-10-2017
+
+## synonym:12 - 10 - 2018
+- 12-10-2018
+
+## synonym:12 - 10 - 2019
+- 12-10-2019
+
+## synonym:12 - 102 - 17
+- 12-102-17
+
+## synonym:12 - 12 - 2019
+- 12-12-2019
+
+## synonym:12 - 20 - 2019
+- 12-20-2019
+
+## synonym:13 - 10 - 2019
+- 13-10-2019
+
+## synonym:15 - 10 - 2017
+- 15-10-2017
+
+## synonym:16 - 10 - 2019
+- 16-10-2019
+
+## synonym:1st june
+- 1st June
+
+## synonym:2 - 10 - 2019
+- 2-10-2019
+
+## synonym:20 - 10 - 2020
+- 20-10-2020
+
+## synonym:2020-05-01T00:00:00.000+00:00
+- today
+- may day
+
+## synonym:2020-05-01T06:40:50.000+00:00
+- now
+
+## synonym:2020-05-02T00:00:00.000+00:00
+- Saturday
+- todays
+
+## synonym:2020-05-03T00:00:00.000+00:00
+- Sunday
+
+## synonym:2020-05-04T00:00:00.000+00:00
+- next week
+
+## synonym:2020-11-15T00:00:00.000+00:00
+- diwali
+
+## synonym:22 - 10 - 2019
+- 22-10-2019
+
+## synonym:22 - 23 - 2019
+- 22-23-2019
+
+## synonym:23 - 10 - 2019
+- 23-10-2019
+
+## synonym:24th july
+- 24th July
+
+## synonym:29 - 10 - 2019
+- 29-10-2019
+
+## synonym:30 - 10 - 2019
+- 30-10-2019
+
+## synonym:4 - 10 - 2019
+- 4-10-2019
+
+## synonym:7th month
+- 7th Month
+
+## synonym:90 - 12 - 2019
+- 90-12-2019
+
+## synonym:BL
+- Birthday
+- birthday
+- Bday
+- birtday
+- birhtdays
+- HBD
+- hbd
+- hb
+- birth
+- BDay
+- bday
+
+## synonym:BRL
+- Bereavement
+- Bereavment
+- bereavement
+- Bereavementble
+- brl
+
+## synonym:CL
+- CLs
+- Casual
+- casual
+- Cls
+- CASUAL
+- cl
+
+## synonym:CO
+- Comp off
+- compensatory off
+- compensatory
+- co
+- comp off
+- Compensatory
+- compensatory Off
+- Compensatory Off
+- Comp Off
+
+## synonym:ED
+- external duty
+
+## synonym:FH
+- floating
+- Floating
+- fl
+- fh
+- flot
+- Floting
+- floting
+
+## synonym:LOP
+- loss of pay
+- lop
+
+## synonym:ML
+- Maternity
+- maternity
+
+## synonym:PL
+- paternity
+- Paternity
+
+## synonym:RL
+- Relocation
+- relocation
+- rl
+
+## synonym:SL
+- sick
+- Sick
+- SICK
+- Breavement
+- sl
+
+## synonym:WFH
+- work from home
+- work form home
+- workfrom home
+
+## synonym:approved
+- Approved
+
+## synonym:bangalore
+- Bangalore
+
+## synonym:birthday
+- BIRTHDAY
+
+## synonym:bithday
+- Bithday
+
+## synonym:bl
+- BL
+
+## synonym:brl
+- BRL
+
+## synonym:ceo
+- CEO
+
+## synonym:chennai
+- Chennai
+
+## synonym:cl
+- CL
+
+## synonym:cls
+- CLS
+
+## synonym:ed
+- ED
+
+## synonym:external duty
+- External Duty
+
+## synonym:fh
+- FH
+
+## synonym:lop
+- LOP
+
+## synonym:loss of pay
+- Loss of Pay
+- Loss of pay
+
+## synonym:may 19, 2020
+- May 19, 2020
+
+## synonym:may 21, 2020
+- May 21, 2020
+
+## synonym:may 6, 2020
+- May 6, 2020
+
+## synonym:may 7, 2020
+- May 7, 2020
+
+## synonym:mumbai
+- Mumbai
+
+## synonym:next
+- Next
+
+## synonym:previous
+- Previous
+
+## synonym:singapore
+- Singapore
+
+## synonym:sl
+- SL
+
+## synonym:trivandrum
+- Trivandrum
+
+## synonym:upcoming
+- Upcoming
+
+## synonym:vaccation
+- Vaccation
+
+## synonym:wfh
+- WFH
+
+## synonym:work from home
+- Work From home
+- Work from home
+
+## lookup:confirmation.txt
+  data/confirmation.txt
+
+## lookup:DATE.txt
+  data/DATE.txt
+
+## lookup:leaveStatus.txt
+  data/leaveStatus.txt
+
+## lookup:leaveType.txt
+  data/leaveType.txt
+
+## lookup:location.txt
+  data/location.txt
+
+## lookup:manager.txt
+  data/manager.txt
+
+## lookup:noon.txt
+  data/noon.txt
+
+## lookup:period.txt
+  data/period.txt
+
+## lookup:phone-number.txt
+  data/phone-number.txt
+
+## lookup:person.txt
+  data/person.txt

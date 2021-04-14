@@ -1,0 +1,8 @@
+yes
+yeah
+y
+s
+no
+n
+true
+false

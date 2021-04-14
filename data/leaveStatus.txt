@@ -1,0 +1,13 @@
+pending
+completed
+approved
+submitted
+unapproved
+not approved
+rejected
+A
+R
+C
+CR
+AP
+P
